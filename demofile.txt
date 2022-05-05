@@ -1,0 +1,651 @@
+96	 	 	 
+97	   Genomics insights into production of 2-methylisoborneol and a putative cyanobactin by Planktothricoides sp	Genomics insights into production of 2-methylisoborneol and a putative cyanobactin by Planktothricoides sp. SR001	10.1186/s40793-017-0247-1
+98	  Identification and characterization of two novel clostridial bacteriocins	Identification and Characterization of Two Novel Clostridial Bacteriocins, Circularin A and Closticin 574	10.1128/aem.69.3.1589-1597.2003
+99	   Insights into the Biosynthesis of Duramycin	Insights into the Biosynthesis of Duramycin	10.1128/aem.02698-16
+100	  Functions of genes and enzymes involved in phenalinolactone biosynthesis	Functions of Genes and Enzymes Involved in Phenalinolactone Biosynthesis	10.1002/cbic.201000117
+101	  Identification and functional analysis of genes controlling biosynthesis of 2-methylisoborneol	Identification and functional analysis of genes controlling biosynthesis of 2-methylisoborneol	10.1073/pnas.0802312105
+102	  Hassallidins	Hassallidins, antifungal glycolipopeptides, are widespread among cyanobacteria and are the end-product of a nonribosomal pathway	10.1073/pnas.1320913111
+103	   Eponemycin exerts its antitumor effect through the inhibition of proteasome function	Proteasome Function Inhibition	10.32388/rasp06
+104	   Genetic and transcriptional analysis of the siderophore malleobactin biosynthesis and transport genes in the human pathogen Burkholderia pseudomallei K96243	Genetic and Transcriptional Analysis of the Siderophore Malleobactin Biosynthesis and Transport Genes in the Human Pathogen<i>Burkholderia pseudomallei</i>            K96243	10.1128/jb.188.4.1551-1566.2006
+105	   Hormaomycins B and C: New Antibiotic Cyclic Depsipeptides from a Marine Mudflat-Derived Streptomyces sp	Hormaomycins B and C: New Antibiotic Cyclic Depsipeptides from a Marine Mudflat-Derived Streptomyces sp.	10.3390/md13085187
+106	   Production of cytotoxic glidobactins/luminmycins by Photorhabdus asymbiotica in liquid media and live crickets	Production of Cytotoxic Glidobactins/Luminmycins by Photorhabdus asymbiotica in Liquid Media and Live Crickets	10.1055/s-0033-1348673
+107	   Structure and biosynthesis of fimsbactins A-F	Structure and Biosynthesis of Fimsbactins A-F, Siderophores from<i>Acinetobacter baumannii</i>and<i>Acinetobacter baylyi</i>	10.1002/cbic.201200764
+108	  New linear lipopeptides produced by Pseudomonas cichorii SF1-54 are involved in virulence	New Linear Lipopeptides Produced by <i>Pseudomonas cichorii</i> SF1-54 Are Involved in Virulence, Swarming Motility, and Biofilm Formation	10.1094/mpmi-11-12-0258-r
+109	   Discovery of anabaenopeptin 679 from freshwater algal bloom material: Insights into the structure-activity relationship of anabaenopeptin protease inhibitors	Discovery of anabaenopeptin 679 from freshwater algal bloom material: Insights into the structure–activity relationship of anabaenopeptin protease inhibitors	10.1016/j.bmcl.2016.09.008
+110	  Total Synthesis of Leupyrrins A1 and B1 	Total Synthesis of Piericidin A1 and B1	10.1021/ja055041f.s001
+111	   Massetolides A-H	Massetolides A−H, Antimycobacterial Cyclic Depsipeptides Produced by Two Pseudomonads Isolated from Marine Habitats	10.1021/np9606456
+112	   Massetolide A biosynthesis in Pseudomonas fluorescens	Massetolide A Biosynthesis in<i>Pseudomonas fluorescens</i>	10.1128/jb.01563-07
+113	  Two new lyngbyatoxin derivatives from the Cyanobacterium	Two New Lyngbyatoxin Derivatives from the Cyanobacterium, Moorea producens	10.3390/md12125788
+114	  Toxicological profile of cereulide	Toxicological profile of cereulide, the Bacillus cereus emetic toxin, in functional assays with human, animal and bacterial cells	10.1016/j.toxicon.2006.10.006
+115	  Proteasome inhibitors against amelanotic melanoma	Proteasome inhibitors against amelanotic melanoma	10.1007/s10565-017-9390-0
+116	  Grincamycins I - K	Grincamycins I – K, Cytotoxic Angucycline Glycosides Derived from Marine-Derived Actinomycete Streptomyces lusitanus SCSIO LR32	10.1055/s-0043-119888
+117	   Cefoxitin	Cefoxitin	10.2165/00128415-201113440-00032
+118	   Structure	structure structure	10.1201/9781482293289-7
+119	   Entianin	Entianin, a Novel Subtilin-Like Lantibiotic from<i>Bacillus subtilis</i>            subsp.<i>spizizenii</i>            DSM 15029
+            <sup>T</sup>
+            with High Antimicrobial Activity	10.1128/aem.01962-10
+120	   Isolation and structural characterization of epilancin 15X	Isolation and structural characterization of epilancin 15X, a novel lantibiotic from a clinical strain of<i>Staphylococcus epidermidis</i>	10.1016/j.febslet.2005.01.083
+121	   Two different lantibiotic-like peptides originate from the ericin gene cluster of Bacillus subtilis A1/3	Two Different Lantibiotic-Like Peptides Originate from the Ericin Gene Cluster of<i>Bacillus subtilis</i>            A1/3	10.1128/jb.184.6.1703-1711.2002
+122	   Lantibiotics from Geobacillus thermodenitrificans	Lantibiotics from<i>Geobacillus thermodenitrificans</i>	10.1073/pnas.1116815109
+123	   Discovery and in vitro biosynthesis of haloduracin	Discovery and<i>in vitro</i>            biosynthesis of haloduracin, a two-component lantibiotic	10.1073/pnas.0606088103
+124	  Generation of food-grade lactococcal starters which produce the lantibiotics lacticin 3147 and lacticin 481	Generation of Food-Grade Lactococcal Starters Which Produce the Lantibiotics Lacticin 3147 and Lacticin 481	10.1128/aem.69.6.3681-3685.2003
+125	    Mode of action and In Vitro susceptibility of mastitis pathogens to macedocin ST91KM and preparation of a teat seal containing the bacteriocin	Mode of action and in vitro susceptibility of mastitis pathogens to macedocin ST91KM and preparation of a teat seal containing the bacteriocin	10.1590/s1517-83822010000100020
+126	  Determining the structure and mode of action of microbisporicin	Determining the Structure and Mode of Action of Microbisporicin, a Potent Lantibiotic Active Against Multiresistant Pathogens	10.1016/j.chembiol.2007.11.009
+127	  Nano-engineering the Antimicrobial Spectrum of Lantibiotics: Activity of Nisin against Gram Negative Bacteria	Nano-engineering the Antimicrobial Spectrum of Lantibiotics: Activity of Nisin against Gram Negative Bacteria	10.1038/s41598-017-04670-0
+128	   SapB and the chaplins: connections between morphogenetic proteins in Streptomyces coelicolor	SapB and the chaplins: connections between morphogenetic proteins in Streptomyces coelicolor	10.1111/j.1365-2958.2007.05674.x
+129	  Molecular mechanism of target recognition by subtilin	Molecular Mechanism of Target Recognition by Subtilin, a Class I Lanthionine Antibiotic	10.1128/aac.00836-07
+130	   Subtilomycin: a new lantibiotic from Bacillus subtilis strain MMA7 isolated from the marine sponge Haliclona simulans	Subtilomycin: A New Lantibiotic from Bacillus subtilis Strain MMA7 Isolated from the Marine Sponge Haliclona simulans	10.3390/md11061878
+131	   Clostridiolysin S	Clostridiolysin S, a Post-translationally Modified Biotoxin from Clostridium botulinum	10.1074/jbc.m110.118554
+132	   Cytotoxic effects of streptolysin o and streptolysin s enhance the virulence of poorly encapsulated group a streptococci	Cytotoxic Effects of Streptolysin O and Streptolysin S Enhance the Virulence of Poorly Encapsulated Group A Streptococci	10.1128/iai.71.1.446-455.2003
+133	   Plantazolicin is an ultra-narrow spectrum antibiotic that targets the Bacillus anthracis membrane	Plantazolicin Is an Ultranarrow-Spectrum Antibiotic That Targets the Bacillus anthracis Membrane	10.1021/acsinfecdis.5b00115.s002
+134	  A new antibiotic	New Antibiotic	10.1136/bmj.1.5692.368-a
+135	   Biosynthesis and regulation of grisemycin	Biosynthesis and Regulation of Grisemycin, a New Member of the Linaridin Family of Ribosomally Synthesized Peptides Produced by Streptomyces griseus IFO 13350	10.1128/jb.00171-11
+136	   Cyanobacterial protease inhibitor microviridin J causes a lethal molting disruption in Daphnia pulicaria	Cyanobacterial Protease Inhibitor Microviridin J Causes a Lethal Molting Disruption in<i>Daphnia pulicaria</i>	10.1128/aem.70.8.5047-5050.2004
+137	  Polytheonamides A and B	Ribosomal origin for polytheonamides	10.1038/nrmicro2926
+138	   Cannibalism: a social behavior in sporulating Bacillus subtilis	Cannibalism: a social behavior in sporulating<i>Bacillus subtilis</i>	10.1111/j.1574-6976.2010.00253.x
+139	  Antifungal thiopeptide cyclothiazomycin B1 exhibits growth inhibition accompanying morphological changes via binding to fungal cell wall chitin	Antifungal thiopeptide cyclothiazomycin B1 exhibits growth inhibition accompanying morphological changes via binding to fungal cell wall chitin	10.1016/j.bmc.2011.08.010
+140	  In vitro antimicrobial activity of a new antibiotic	In vitro antimicrobial activity of the new antibiotic vermisporin	10.1007/bf01989986
+141	  Isolation of three new antibiotics	The Isolation of Three New Crystalline Antibiotics from Streptomyces<sup>1</sup>	10.1021/ja01155a084
+142	  Targeting Antibiotic Resistance	Targeting Antibiotic Resistance	10.1002/anie.201506818
+143	   Production of a new thiopeptide antibiotic	Thiopeptide Antibiotic Biosynthesis	10.1002/anie.200901808
+144	  Amylocyclicin	Amylocyclicin, a Novel Circular Bacteriocin Produced by Bacillus amyloliquefaciens FZB42	10.1128/jb.01474-14
+145	   A systematic analysis of biosynthetic gene clusters in the human microbiome reveals a common family of antibiotics	A Systematic Analysis of Biosynthetic Gene Clusters in the Human Microbiome Reveals a Common Family of Antibiotics	10.1016/j.cell.2014.08.032
+146	  Cyclooctatin	The structure of cyclooctatin, a new inhibitor of lysophospholipase.	10.7164/antibiotics.45.1703
+147	 	 	 
+148	   Antibacterial activity of synthetic analogues based on the disaccharide structure of moenomycin	Antibacterial activity of synthetic analogues based on the disaccharide structure of moenomycin, an inhibitor of bacterial transglycosylase	10.1099/00221287-146-12-3129
+149	  Studies on the involvement of the exopolysaccharide produced by cystic fibrosis-associated isolates of the Burkholderia cepacia complex in biofilm formation and in persistence of respiratory infections	Studies on the Involvement of the Exopolysaccharide Produced by Cystic Fibrosis-Associated Isolates of the<i>Burkholderia cepacia</i>            Complex in Biofilm Formation and in Persistence of Respiratory Infections	10.1128/jcm.42.7.3052-3058.2004
+150	   Characterization of an environmental DNA-derived gene cluster that encodes the bisindolylmaleimide methylarcyriarubin	Characterization of an Environmental DNA-Derived Gene Cluster that Encodes the Bisindolylmaleimide Methylarcyriarubin	10.1002/cbic.201300756
+151	   Comparison of effects of anatoxin-a(s) and paraoxon	Comparison of effects of anatoxin-a(s) and paraoxon, physostigmine and pyridostigmine on mouse brain cholinesterase activity	10.1016/0041-0101(88)90282-6
+152	   The biosynthetic gene cluster for the antitumor rebeccamycin: characterization and generation of indolocarbazole derivatives	Faculty Opinions recommendation of The biosynthetic gene cluster for the antitumor rebeccamycin: characterization and generation of indolocarbazole derivatives.	10.3410/f.1006223.77308
+153	   Combined Application of Bacterial Predation and Violacein to Kill Polymicrobial Pathogenic Communities	Combined Application of Bacterial Predation and Violacein to Kill Polymicrobial Pathogenic Communities	10.1038/s41598-017-14567-7
+154	  Cytotoxic activity of violacein in human colon cancer cells	Cytotoxic activity of violacein in human colon cancer cells	10.1016/j.tiv.2006.06.007
+155	   A New-Class Antibacterial-Almost	A new class of almost complex structures	10.1007/bf01759257
+156	  In vitro activity of coumermycin A1	Synthesis of Coumermycin A1.	10.1002/chin.200313198
+157	  Insights into secondary metabolism from a global analysis of prokaryotic biosynthetic gene clusters	Insights into Secondary Metabolism from a Global Analysis of Prokaryotic Biosynthetic Gene Clusters	10.1016/j.cell.2014.06.034
+158	   Alanylclavam biosynthetic genes are clustered together with one group of clavulanic acid biosynthetic genes in Streptomyces clavuligerus	Alanylclavam Biosynthetic Genes Are Clustered Together with One Group of Clavulanic Acid Biosynthetic Genes in<i>Streptomyces clavuligerus</i>	10.1128/jb.00698-08
+159	  Gamma-butyrolactone and furan signaling systems in Streptomyces	Gamma-Butyrolactone and Furan Signaling Systems in Streptomyces	10.1016/b978-0-12-404634-4.00004-8
+160	  Identification and manipulation of the caprazamycin gene cluster lead to new simplified liponucleoside antibiotics and give insights into the biosynthetic pathway	Identification and Manipulation of the Caprazamycin Gene Cluster Lead to New Simplified Liponucleoside Antibiotics and Give Insights into the Biosynthetic Pathway	10.1074/jbc.m901258200
+161	  Combination approaches to combat multidrug-resistant bacteria	Combination approaches to combat multidrug-resistant bacteria	10.1016/j.tibtech.2012.12.006
+162	   Characterisation of the paralytic shellfish toxin biosynthesis gene clusters in Anabaena circinalis AWQC131C and Aphanizomenon sp	Characterisation of the paralytic shellfish toxin biosynthesis gene clusters in Anabaena circinalis AWQC131C and Aphanizomenon sp. NH-5	10.1186/1471-2091-10-8
+163	   In-vitro cytotoxic activities of the major bromophenols of the red alga Polysiphonia lanosa and some novel synthetic isomers	In<i>-</i>vitro Cytotoxic Activities of the Major Bromophenols of the Red Alga<i> Polysiphonia </i><i>l</i><i>anosa</i> and Some Novel Synthetic Isomers	10.1021/np0305268
+164	  Tetracycline antibiotics: mode of action	Biophysical Study of the Mode of Action of the Tetracycline Antibiotics	10.1002/jps.2600541006
+165	  Synthesis and antibacterial activity of desosamine-modified macrolide derivatives	Synthesis and antibacterial activity of desosamine-modified macrolide derivatives	10.1016/j.bmcl.2012.05.110
+166	  Re-evaluation of tumor-specific cytotoxicity of mitomycin C	Tumor specific cytotoxicity of glucosylceramide	10.1007/s00280-007-0422-y
+167	  Promysalin is a salicylate-containing antimicrobial with a cell-membrane-disrupting mechanism of action on Gram-positive bacteria	Promysalin is a salicylate-containing antimicrobial with a cell-membrane-disrupting mechanism of action on Gram-positive bacteria	10.1038/s41598-017-07567-0
+168	  Genomics-guided discovery of endophenazines from Kitasatospora sp	Genomics-Guided Discovery of Endophenazines from <i>Kitasatospora</i> sp. HKI 714	10.1021/np400915p
+169	    Fosfomycin: Pharmacological	Fosfomycin: Pharmacological Studies	10.1159/000222041
+170	   Ti(IV) and the Siderophore Desferrioxamine B: A Tight Complex Has Biological and Environmental Implications	Ti(IV) and the Siderophore Desferrioxamine B: A Tight Complex Has Biological and Environmental Implications	10.1021/acs.inorgchem.6b02399.s003
+171	  Petrobactin	Petrobactin-binding engineered lipocalin in complex with gallium-petrobactin	10.2210/pdb6gr0/pdb
+172	  Staphyloferrin A: a structurally new siderophore from staphylococci	Staphyloferrin A: a structurally new siderophore from staphylococci	10.1111/j.1432-1033.1990.tb19094.x
+173	   Production of alpha-galactosylceramide by a prominent member of the human gut microbiota	Production of α-Galactosylceramide by a Prominent Member of the Human Gut Microbiota	10.1371/journal.pbio.1001610
+174	  A-102395	NEUROSTAIN 102395-05-1	10.1002/0471701343.sdp44113
+175	   Use of pristinamycin for infections by gram-positive bacteria: clinical experience at an Australian hospital	Use of Pristinamycin for Infections by Gram-Positive Bacteria: Clinical Experience at an Australian Hospital	10.1128/aac.00212-10
+176	  Characterization of the amicetin biosynthesis gene cluster from Streptomyces vinaceusdrappus NRRL 2363 implicates two alternative strategies for amide bond formation	Characterization of the Amicetin Biosynthesis Gene Cluster from Streptomyces vinaceusdrappus NRRL 2363 Implicates Two Alternative Strategies for Amide Bond Formation	10.1128/aem.07185-11
+177	  Ajudazols	Synthesis of the C1–C16 fragment of the ajudazols	10.1016/j.tet.2011.10.036
+178	 vol 3	 	 
+179	   Biosynthesis of the acetyl-CoA carboxylase-inhibiting antibiotic	Herbicides inhibiting acetyl-CoA carboxylase	10.1042/bst0220616
+180	  Two antimycin A analogues from marine-derived actinomycete Streptomyces lusitanus	Two Antimycin A Analogues from Marine-Derived Actinomycete Streptomyces lusitanus	10.3390/md10030668
+181	   Chemical compounds toxic to invertebrates isolated from marine cyanobacteria of potential relevance to the agricultural industry	Chemical Compounds Toxic to Invertebrates Isolated from Marine Cyanobacteria of Potential Relevance to the Agricultural Industry	10.3390/toxins6113058
+182	  Total synthesis and stereochemical assignment of burkholdac B	Total Synthesis and Stereochemical Assignment of Burkholdac B, a Depsipeptide HDAC Inhibitor	10.1021/ol203420r
+183	   A new macromolecular antitumor antibiotic	A new macromolecular antitumor antibiotic, C-1027. III. Antitumor activity.	10.7164/antibiotics.42.1294
+184	   Comparative cytotoxic effects of two protein phosphatase inhibitors	Relationship Between Phosphatase Activity and Cytotoxic Effect of Two Protein Phosphatase Inhibitors, Okadaic Acid and Pervanadate, on Human Myeloid Leukemia Cell Line	10.1080/147563031000155634
+185	  Molecular and biochemical studies of chondramide formation-highly cytotoxic natural products from Chondromyces crocatus Cm c5	Molecular and Biochemical Studies of Chondramide Formation—Highly Cytotoxic Natural Products from Chondromyces crocatus Cm c5	10.1016/j.chembiol.2006.06.002
+186	   Cinnabaramides A-G: analogues of lactacystin and salinosporamide from a terrestrial streptomycete	Cinnabaramides A-G: Analogues of Lactacystin and Salinosporamide from a Terrestrial Streptomycete	10.1021/np060162u.s001
+187	   Escherichia coli ClbS is a colibactin resistance protein	<i>Escherichia coli</i> ClbS is a colibactin resistance protein	10.1111/mmi.13272
+188	 Oxford	Oxford: Oxford University	10.1017/9789048505418.012
+189	  Cryptophycins: cytotoxic cyclodepsipeptides with potential for tumor targeting	Cryptophycins: cytotoxic cyclodepsipeptides with potential for tumor targeting	10.1002/psc.3015
+190	   Cytotoxicity screening for the cyanobacterial toxin cylindrospermopsin	Cytotoxicity Screening for the Cyanobacterial Toxin Cylindrospermopsin	10.1080/15287390802529906
+191	   Crystal and molecular structure of didemnin B	Crystal and molecular structure of didemnin A, an antiviral depsipeptide	10.1111/j.1399-3011.1996.tb00805.x
+192	   Histone deacetylase inhibitor	Histone Deacetylase Inhibitor	10.32388/to22qt
+193	  Common biosynthetic origins for polycyclic tetramate macrolactams from phylogenetically diverse bacteria	Common biosynthetic origins for polycyclic tetramate macrolactams from phylogenetically diverse bacteria	10.1073/pnas.1001513107
+194	   Cloning and biochemical characterization of the hectochlorin biosynthetic gene cluster from the marine cyanobacterium Lyngbya majuscula	Cloning and Biochemical Characterization of the Hectochlorin Biosynthetic Gene Cluster from the Marine Cyanobacterium <i>Lyngbya majuscula</i>	10.1021/np0704250
+195	   Structure and biosynthesis of the jamaicamides	Structure and Biosynthesis of the Jamaicamides, New Mixed Polyketide-Peptide Neurotoxins from the Marine Cyanobacterium Lyngbya majuscula	10.1016/j.chembiol.2004.03.030
+196	   Enzyme analysis of the polyketide synthase leads to the discovery of a novel analog of the antibiotic alpha-lipomycin	Enzyme analysis of the polyketide synthase leads to the discovery of a novel analog of the antibiotic α-lipomycin	10.1038/ja.2013.110
+197	  Lymphostin (LK6-A)	Lymphostin (LK6-A), a Novel Immunosuppressant from Streptomyces sp. KY11783: Structural Elucidation.	10.7164/antibiotics.50.543
+198	  Synthesis and Evaluation of Biological Activities of Aziridine Derivatives of Urea and Thiourea	Synthesis and Evaluation of Biological Activities of Aziridine Derivatives of Urea and Thiourea	10.3390/molecules23010045
+199	  Melithiazols	Synthesis of (4R,5S)-Melithiazols F and I	10.1002/ejoc.200500568
+200	  Structure-activity relationship of the antimycoplasma antibiotic micacocidin--a preliminary study	Structure-activity Relationship of the Antimycoplasma Anitibiotic Micacocidin. A Preliminary Study.	10.7164/antibiotics.54.753
+201	  Mechanisms of Microcystin-induced Cytotoxicity and Apoptosis	Mechanisms of Microcystin-induced Cytotoxicity and Apoptosis	10.2174/1389557516666160219130407
+202	   Antifungal cyclic peptides from the marine sponge Microscleroderma herdmani	Antifungal cyclic peptides from the marine sponge Microscleroderma herdmani	10.2147/rrmc.s30895
+203	  Structure and biosynthesis of myxochromides S1-3 in Stigmatella aurantiaca: evidence for an iterative bacterial type I polyketide synthase and for module skipping in nonribosomal peptide biosynthesis	Structure and Biosynthesis of Myxochromides S1-3 in Stigmatella aurantiaca: Evidence for an Iterative Bacterial Type I Polyketide Synthase and for Module Skipping in Nonribosomal Peptide Biosynthesis	10.1002/cbic.200400282
+204	   Mucidin and strobilurin A are identical and inhibit electron transfer in the cytochrome bc1 complex of the mitochondrial respiratory chain at the same site as myxothiazol	Mucidin and strobilurin A are identical and inhibit electron transfer in the cytochrome bc1 complex of the mitochondrial respiratory chain at the same site as myxothiazol	10.1021/bi00352a006
+205	  Myxobacterium-produced antibiotic TA (myxovirescin) inhibits type II signal peptidase	Myxobacterium-Produced Antibiotic TA (Myxovirescin) Inhibits Type II Signal Peptidase	10.1128/aac.06148-11
+206	  Nostopeptolide plays a governing role during cellular differentiation of the symbiotic cyanobacterium Nostoc punctiforme	Nostopeptolide plays a governing role during cellular differentiation of the symbiotic cyanobacterium<i>Nostoc punctiforme</i>	10.1073/pnas.1419543112
+207	  Nostophycin biosynthesis is directed by a hybrid polyketide synthase-nonribosomal peptide synthetase in the toxic cyanobacterium Nostoc sp	Nostophycin Biosynthesis Is Directed by a Hybrid Polyketide Synthase-Nonribosomal Peptide Synthetase in the Toxic Cyanobacterium Nostoc sp. Strain 152	10.1128/aem.05993-11
+208	  Pellasoren: structure elucidation	Pellasoren: Structure Elucidation, Biosynthesis, and Total Synthesis of a Cytotoxic Secondary Metabolite from<i>Sorangium cellulosum</i>	10.1002/anie.201200327
+209	  Genetic insights into pyralomicin biosynthesis in Nonomuraea spiralis IMC A-0156	Genetic Insights into Pyralomicin Biosynthesis in <i>Nonomuraea spiralis</i> IMC A-0156	10.1021/np400159a
+210	  Salinosporamide A: a highly cytotoxic proteasome inhibitor from a novel microbial source	Salinosporamide A: A Highly Cytotoxic Proteasome Inhibitor from a Novel Microbial Source, a Marine Bacterium of the New Genus Salinospora.	10.1002/chin.200319208
+211	   Identification and characterization of the spiruchostatin biosynthetic gene cluster enable yield improvement by overexpressing a transcriptional activator	Identification and characterization of the spiruchostatin biosynthetic gene cluster enable yield improvement by overexpressing a transcriptional activator	10.1007/s10295-014-1474-8
+212	   Streptolydigin resistance can be conferred by alterations to either the beta or beta' subunits of Bacillus subtilis RNA polymerase	Streptolydigin Resistance Can Be Conferred by Alterations to Either the β or β′ Subunits of Bacillus subtilis RNA Polymerase	10.1074/jbc.270.41.23930
+213	  In vitro activity of bleomycin	Enhancement of antitumor activity of bleomycin by benzamide in vitro and in vivo.	10.7164/antibiotics.36.296
+214	  Myxobacterial secondary metabolites: bioactivities and modes-of-action	Myxobacterial secondary metabolites: bioactivities and modes-of-action	10.1039/c001260m
+215	  Tirandamycin	Tirandamycin	10.1007/978-3-642-46403-4_20
+216	  Regulation of antimicrobial activity and xenocoumacins biosynthesis by pH in Xenorhabdus nematophila	Regulation of antimicrobial activity and xenocoumacins biosynthesis by pH in Xenorhabdus nematophila	10.1186/s12934-017-0813-7
+217	  The zeamine antibiotics affect the integrity of bacterial membranes	The Zeamine Antibiotics Affect the Integrity of Bacterial Membranes	10.1128/aem.03146-14
+218	  Zorbamycin has a different DNA sequence selectivity compared with bleomycin and analogues	Zorbamycin has a different DNA sequence selectivity compared with bleomycin and analogues	10.1016/j.bmc.2016.09.072
+219	  Organisation of the biosynthetic gene cluster and tailoring enzymes in the biosynthesis of the tetracyclic quinone glycoside antibiotic polyketomycin	Organisation of the Biosynthetic Gene Cluster and Tailoring Enzymes in the Biosynthesis of the Tetracyclic Quinone Glycoside Antibiotic Polyketomycin	10.1002/cbic.200800823
+220	  Syntheses of naturally occurring cytotoxic [7	Naturally Occurring Cytotoxic Cells	10.1007/978-1-4684-4394-3_83
+221	  Evidence for the mode of action of the highly cytotoxic Streptomyces polyketide kendomycin	Evidence for the Mode of Action of the Highly CytotoxicStreptomyces Polyketide Kendomycin	10.1002/cbic.200700050
+222	  Chivosazol A	Chivosazol A – Aufklärung der absoluten und relativen Konfiguration	10.1002/ange.200605198
+223	  Molecular analysis of the kirromycin biosynthetic gene cluster revealed beta-alanine as precursor of the pyridone moiety	Molecular Analysis of the Kirromycin Biosynthetic Gene Cluster Revealed β-Alanine as Precursor of the Pyridone Moiety	10.1016/j.chembiol.2007.12.009
+224	  In vivo and in vitro patterns of the activity of simocyclinone D8	In Vivo and In Vitro Patterns of the Activity of Simocyclinone D8, an Angucyclinone Antibiotic from<i>Streptomyces antibioticus</i>	10.1128/aac.01440-08
+225	  Novel bacterial metabolite merochlorin A demonstrates in vitro activity against multi-drug resistant methicillin-resistant Staphylococcus aureus	Novel Bacterial Metabolite Merochlorin A Demonstrates in vitro Activity against Multi-Drug Resistant Methicillin-Resistant Staphylococcus aureus	10.1371/journal.pone.0029439
+226	   Bacillaene and sporulation protect Bacillus subtilis from predation by Myxococcus xanthus	Bacillaene and Sporulation Protect Bacillus subtilis from Predation by Myxococcus xanthus	10.1128/aem.01621-14
+227	  Evaluation of Antifungal Efficacy of Three New Cyclic Lipopeptides of the Class Bacillomycin from Bacillus subtilis RLID 12	Evaluation of Antifungal Efficacy of Three New Cyclic Lipopeptides of the Class Bacillomycin from Bacillus subtilis RLID 12.1	10.1128/aac.01457-17
+228	  Defensive bacteriome symbiont with a drastically reduced genome	Defensive Bacteriome Symbiont with a Drastically Reduced Genome	10.1016/j.cub.2013.06.027
+229	  Fengycin--a novel antifungal lipopeptide antibiotic produced by Bacillus subtilis F-29-3	Fengycin - A novel antifungal lipopeptide antibiotic produced by Bacillus subtilis F-29-3.	10.7164/antibiotics.39.888
+230	   Elucidation of the relative and absolute stereochemistry of the kalimantacin/batumin antibiotics	Elucidation of the relative and absolute stereochemistry of the kalimantacin/batumin antibiotics	10.1039/c7sc01670k
+231	  Leinamycin biosynthesis revealing unprecedented architectural complexity for a hybrid polyketide synthase and nonribosomal peptide synthetase	Leinamycin Biosynthesis Revealing Unprecedented Architectural Complexity for a Hybrid Polyketide Synthase and Nonribosomal Peptide Synthetase	10.1016/j.chembiol.2003.12.014
+232	  Malleilactone Is a Burkholderia pseudomallei Virulence Factor Regulated by Antibiotics and Quorum Sensing	Malleilactone Is a Burkholderia pseudomallei Virulence Factor Regulated by Antibiotics and Quorum Sensing	10.1128/jb.00008-18
+233	   Antitumor activity and mechanism of action of the novel marine natural products mycalamide-A and -B and onnamide	Mechanism Targeted Discovery of Antitumor Marine Natural Products	10.2174/0929867043364991
+234	  Cytotoxicity of pederin and some of its derivatives on cultured mammalian cells	Cytotoxicity of pederin and some of its derivatives on cultured mammalian cells	10.1007/bf01897720
+235	   Studies toward the unique pederin family member psymberin: structure-activity relationships	Studies toward the Unique Pederin Family Member Psymberin: Structure–Activity Relationships, Biochemical Studies, and Genetics Identify the Mode-of-Action of Psymberin	10.1021/ja3057002
+236	  Two new ring-contracted congeners of rhizopodin illustrate significance of the ring moiety of macrolide toxins on the actin disassembly-mediated cytotoxicity	Two New Ring-Contracted Congeners of Rhizopodin Illustrate Significance of the Ring Moiety of Macrolide Toxins on the Actin Disassembly-Mediated Cytotoxicity	10.1248/cpb.c13-00856
+237	  Isolation and identification of rhizoxin analogs from Pseudomonas fluorescens Pf-5 by using a genomic mining strategy	Isolation and Identification of Rhizoxin Analogs from<i>Pseudomonas fluorescens</i>            Pf-5 by Using a Genomic Mining Strategy	10.1128/aem.02848-07
+238	   Improved production of cytotoxic thailanstatins A and D through metabolic engineering of Burkholderia thailandensis MSMB43 and pilot scale fermentation	Improved production of cytotoxic thailanstatins A and D through metabolic engineering of Burkholderia thailandensis MSMB43 and pilot scale fermentation	10.1016/j.synbio.2016.02.002
+239	   Identification and characterization of the biosynthetic gene cluster of divergolides from Streptomyces sp	Identification and characterization of the biosynthetic gene cluster of divergolides from Streptomyces sp. W112	10.1016/j.gene.2014.04.052
+240	  Selective Synthesis of Divergolide  J Am Chem Soc 2018	Selective Synthesis of Divergolide I	10.1021/jacs.7b13092.s002
+241	  Genomics-driven discovery of burkholderic acid	Genomics-Driven Discovery of Burkholderic Acid, a Noncanonical, Cryptic Polyketide from Human Pathogenic<i>Burkholderia</i>Species	10.1002/ange.201205566
+242	  Antimicrobial ambiguine isonitriles from the cyanobacterium Fischerella ambigua	Antimicrobial Ambiguine Isonitriles from the Cyanobacterium <i>Fischerella ambigua</i>	10.1021/np800751j
+243	  An efficient synthesis method targeted to marine alkaloids marinacarbolines A-D and their antitumor activities	An efficient synthesis method targeted to marine alkaloids marinacarbolines A–D and their antitumor activities	10.1080/10286020.2014.1003049
+244	  The use of platensimycin and platencin to fight antibiotic resistance	The use of platensimycin and platencin to fight antibiotic resistance	10.2147/idr.s25076
+245	   Nucleophilic 1	Nucleophilic Selenium: Nucleophilic Substitution	10.2174/9781608058389114010006
+246	  Recent outcome in the field of distamycin-derived minor groove binders	Recent outcome in the field of distamycin-derived minor groove binders	10.1016/s0014-827x(00)00013-6
+247	   Pamamycin: a new antibiotic and stimulator of aerial mycelia formation	Pamamycin: A new antibiotic and stimulator of aerial mycelia formation.	10.7164/antibiotics.32.673
+248	   The pamamycins: developmental autoregulators and antibiotics from Streptomyces alboniger	Differentiation of Aerial Mycelia. Pamamycins and Calcium Ion in Streptomyces alboniger.	10.3209/saj.13_11
+249	  Polymyxins: Antibacterial Activity	Mechanism of the Antibacterial Activity and Resistance of Polymyxins	10.1007/978-3-319-46718-4_23
+250	   New aminocoumarins from the rare actinomycete Catenulispora acidiphila DSM 44928: identification	ChemInform Abstract: New Aminocoumarins from the Rare Actinomycete Catenulispora acidiphila DSM 44928: Identification, Structure Elucidation, and Heterologous Production.	10.1002/chin.201433219
+251	   Pharmacological properties of the marine natural product marinopyrrole A against methicillin-resistant Staphylococcus aureus	Pharmacological Properties of the Marine Natural Product Marinopyrrole A against Methicillin-Resistant Staphylococcus aureus	10.1128/aac.01211-10
+252	   A desaturase gene involved in the formation of 1	A Desaturase Gene Involved in the Formation of 1,14-Nonadecadiene in Synechococcus sp. Strain PCC 7002	10.1128/aem.01615-14
+253	  The genome sequence of Streptomyces lividans 66 reveals a novel tRNA-dependent peptide biosynthetic system within a metal-related genomic island	The Genome Sequence of Streptomyces lividans 66 Reveals a Novel tRNA-Dependent Peptide Biosynthetic System within a Metal-Related Genomic Island	10.1093/gbe/evt082
+254	  Characterization of the positive SARP family regulator PieR for improving piericidin A1 production in Streptomyces piomogeues var	Characterization of the positive SARP family regulator PieR for improving piericidin A1 production in Streptomyces piomogeues var. Hangzhouwanensis	10.1016/j.synbio.2018.12.002
+255	  Listeriolysin S Is a Streptolysin S-Like Virulence Factor That Targets Exclusively Prokaryotic Cells In Vivo	Listeriolysin S Is a Streptolysin S-Like Virulence Factor That Targets Exclusively Prokaryotic Cells<i>In Vivo</i>	10.1128/mbio.00259-17
+256	   Chlorizidine	Synthesis of Methyl-Protected (±)-Chlorizidine A	10.1021/acs.orglett.7b01090
+257	   Structure	structure structure	10.1201/9781482293289-7
+258	  Insights into the bioactivity of mensacarcin and epoxide formation by MsnO8	Insights into the Bioactivity of Mensacarcin and Epoxide Formation by MsnO8	10.1002/cbic.201300704
+259	   Harnessing the synthetic capabilities of glycopeptide antibiotic tailoring enzymes: characterization of the UK-68	Harnessing the Synthetic Capabilities of Glycopeptide Antibiotic Tailoring Enzymes: Characterization of the UK-68,597 Biosynthetic Cluster	10.1002/cbic.201402179
+260	  Structures of rishirilides A and B	Structures of rishirilides A and B, .ALPHA.2-macroglobulin inhibitors produced by Streptomyces rishiriensis OFR-1056.	10.7164/antibiotics.37.1091
+261	  Bioactive stilbenes from a Bacillus sp	Bioactive stilbenes from a Bacillus sp. N strain associated with a novel rhabditid entomopathogenic nematode	10.1111/j.1472-765x.2012.03223.x
+262	  Difficidin and bacilysin from Bacillus amyloliquefaciens FZB42 have antibacterial activity against Xanthomonas oryzae rice pathogens	Difficidin and bacilysin from Bacillus amyloliquefaciens FZB42 have antibacterial activity against Xanthomonas oryzae rice pathogens	10.1038/srep12975
+263	  Production of the catechol type siderophore bacillibactin by the honey bee pathogen Paenibacillus larvae	Production of the Catechol Type Siderophore Bacillibactin by the Honey Bee Pathogen Paenibacillus larvae	10.1371/journal.pone.0108272
+264	  The Novel Lipopeptide Poaeamide of the Endophyte Pseudomonas poae RE*1-1-14 Is Involved in Pathogen Suppression and Root Colonization	The Novel Lipopeptide Poaeamide of the Endophyte <i>Pseudomonas poae</i> RE*1-1-14 Is Involved in Pathogen Suppression and Root Colonization	10.1094/mpmi-12-14-0406-r
+265	  Nannocystin A: an Elongation Factor 1 Inhibitor from Myxobacteria with Differential Anti-Cancer Properties	Nannocystin A: an Elongation Factor 1 Inhibitor from Myxobacteria with Differential Anti-Cancer Properties	10.1002/anie.201505069
+266	  A membrane-bound prenyltransferase catalyzes the O-prenylation of 1	A Membrane-Bound Prenyltransferase Catalyzes the O-Prenylation of 1,6-Dihydroxyphenazine in the Marine Bacterium<i>Streptomyces</i>sp. CNQ-509	10.1002/cbic.201402394
+267	  The evolution of genome mining in microbes - a review	The evolution of genome mining in microbes – a review	10.1039/c6np00025h
+268	   Molecular networking and pattern-based genome mining improves discovery of biosynthetic gene clusters and their products from Salinispora species	Molecular Networking and Pattern-Based Genome Mining Improves Discovery of Biosynthetic Gene Clusters and their Products from Salinispora Species	10.1016/j.chembiol.2015.03.010
+269	  Biosynthetic Origin of the Antibiotic Pseudopyronines A and B in Pseudomonas putida BW11M1	Biosynthetic Origin of the Antibiotic Pseudopyronines A and B in<i>Pseudomonas putida</i>BW11M1	10.1002/cbic.201500413
+270	   Structural Characterization and Bioactivity Analysis of the Two-Component Lantibiotic Flv System from a Ruminant Bacterium	Structural Characterization and Bioactivity Analysis of the Two-Component Lantibiotic Flv System from a Ruminant Bacterium	10.1016/j.chembiol.2015.11.014
+271	   Rakicidins	A concise route to the macrocyclic core of the rakicidins	10.1039/c1cc15829e
+272	   Total Synthesis and Biological Evaluation of Rakicidin A and Discovery of a Simplified Bioactive Analogue	Total Synthesis and Biological Evaluation of Rakicidin A and Discovery of a Simplified Bioactive Analogue	10.1002/ange.201509926
+273	   Cloning and characterization of an environmental DNA-derived gene cluster that encodes the biosynthesis of the antitumor substance BE-54017	Cloning and Characterization of an Environmental DNA-Derived Gene Cluster That Encodes the Biosynthesis of the Antitumor Substance BE-54017	10.1021/ja2022653
+274	   Cladoniamides A-G	Biosynthetic <i>O-</i>Methylation Protects Cladoniamides from Self-destruction	10.1021/ol401036f
+275	   Discovery and synthetic refactoring of tryptophan dimer gene clusters from the environment	Discovery and Synthetic Refactoring of Tryptophan Dimer Gene Clusters from the Environment	10.1021/ja408683p
+276	   Yeast homologous recombination-based promoter engineering for the activation of silent natural product biosynthetic gene clusters	Yeast homologous recombination-based promoter engineering for the activation of silent natural product biosynthetic gene clusters	10.1073/pnas.1507606112
+277	  Identification by Genome Mining of a Type I Polyketide Gene Cluster from Streptomyces argillaceus Involved in the Biosynthesis of Pyridine and Piperidine Alkaloids Argimycins  Front Microbiol 2017	Identification by Genome Mining of a Type I Polyketide Gene Cluster from Streptomyces argillaceus Involved in the Biosynthesis of Pyridine and Piperidine Alkaloids Argimycins P	10.3389/fmicb.2017.00194
+278	   Obafluorin	Synthesis of (+)-obafluorin, a .beta.-lactone antibiotic	10.1021/jo00027a006
+279	   Warkmycin	Warkmycin, a novel angucycline antibiotic produced by Streptomyces sp. Acta 2930	10.1038/ja.2013.74
+280	  Decoding and engineering tetracycline biosynthesis	Decoding and engineering tetracycline biosynthesis	10.1016/j.ymben.2008.10.001
+281	  Total synthesis and absolute stereochemistry of the proteasome inhibitors cystargolides A and  Org Biomol Chem 2015	Total synthesis and absolute stereochemistry of the proteasome inhibitors cystargolides A and B	10.1039/c5ob01821h
+282	  Three-dimensional structure-activity relationship study of belactosin A and its stereo- and regioisomers: development of potent proteasome inhibitors by a stereochemical diversity-oriented strategy	Three-dimensional structure-activity relationship study of belactosin A and its stereo- and regioisomers: development of potent proteasome inhibitors by a stereochemical diversity-oriented strategy	10.1039/b900384c
+283	  Actinonin	ChemInform Abstract: Asymmetric Synthesis of (-)-Actinonin and (-)-epi-Actinonin.	10.1002/chin.199323259
+284	  Matlystatins	Matlystatins, new inhibitors of type IV collagenases from Actinomadura atramentaria. III. Structure elucidation of matlystatins A to F.	10.7164/antibiotics.47.1473
+285	  Aculeximycin	Structural elucidation of aculeximycin. I. Further purification and glycosidic bond cleavage of aculeximycin.	10.7164/antibiotics.42.691
+286	  The antifungal polyketide ambruticin targets the HOG pathway	The Antifungal Polyketide Ambruticin Targets the HOG Pathway	10.1128/aac.00369-07
+287	   Antifungal susceptibility of Candida biofilms: unique efficacy of amphotericin B lipid formulations and echinocandins	Antifungal Susceptibility of<i>Candida</i>            Biofilms: Unique Efficacy of Amphotericin B Lipid Formulations and Echinocandins	10.1128/aac.46.6.1773-1780.2002
+288	   The spectrum of antimicrobial activity of the bacteriocin subtilosin  J Antimicrob Chemother 2007	The spectrum of antimicrobial activity of the bacteriocin subtilosin A	10.1093/jac/dkl495
+289	  Deepoxidation of 16-membered epoxyenone macrolide antibiotics	Deepoxidation of 16-membered epoxyenone macrolide antibiotics. II. Chemical deepoxidation by dissolving metal reduction.	10.7164/antibiotics.37.127
+290	  Ansamitocin P3 depolymerizes microtubules and induces apoptosis by binding to tubulin at the vinblastine site	Ansamitocin P3 Depolymerizes Microtubules and Induces Apoptosis by Binding to Tubulin at the Vinblastine Site	10.1371/journal.pone.0075182
+291	   Characterization and mechanism of action of cerein 7	Characterization and mechanism of action of cerein 7, a bacteriocin produced by Bacillus cereus Bc7	10.1046/j.1365-2672.2000.01123.x
+292	  Mode of action of megacin	Mode of Action of Megacin	10.1099/00221287-21-1-51
+293	  Apoptolidin	Totalsynthese von Apoptolidin	10.1002/ange.200460172
+294	  Avermectin Confers Its Cytotoxic Effects by Inducing DNA Damage and Mitochondria-Associated Apoptosis	Avermectin Confers Its Cytotoxic Effects by Inducing DNA Damage and Mitochondria-Associated Apoptosis	10.1021/acs.jafc.6b02812
+295	  Characterization of the biosynthesis gene cluster for the pyrrole polyether antibiotic calcimycin (A23187) in Streptomyces chartreusis NRRL 3882	Characterization of the Biosynthesis Gene Cluster for the Pyrrole Polyether Antibiotic Calcimycin (A23187) in<i>Streptomyces chartreusis</i>            NRRL 3882	10.1128/aac.01130-10
+296	  Calicheamicins	Chemistry and biology of the calicheamicins	10.1016/1074-5521(94)90030-2
+297	   Candicidin and other polyenic antifungal antibiotics	Amphotericin B and Other Polyenic Antifungal Antibiotics	10.1093/ajcp/52.2.138
+298	  Chalcomycin biosynthesis gene cluster from Streptomyces bikiniensis: novel features of an unusual ketolide produced through expression of the chm polyketide synthase in Streptomyces fradiae	Chalcomycin Biosynthesis Gene Cluster from<i>Streptomyces bikiniensis</i>            : Novel Features of an Unusual Ketolide Produced through Expression of the<i>chm</i>            Polyketide Synthase in<i>Streptomyces fradiae</i>	10.1128/aac.48.12.4703-4712.2004
+299	  Concanamycin A	Structure of concanamycin a	10.1016/s0040-4039(01)91329-2
+300	  Cremimycin	Biosynthetic pathway of macrolactam polyketide antibiotic cremimycin	10.1016/j.tet.2011.08.073
+301	  Isolation and identification of three new 5-alkenyl-3	Isolation and Identification of Three New 5-Alkenyl-3,3(2H)-furanones from Two Streptomyces species using a Genomic Screening Approach	10.1038/ja.2006.24
+302	   Ebelactones inhibit cutinases produced by fungal plant pathogens	Ebelactones inhibit cutinases produced by fungal plant pathogens.	10.7164/antibiotics.43.734
+303	  Elaiophylin	Biotechnological preparation of the elaiophylin	10.1007/bf02931557
+304	  Stereoselective total synthesis of FD-891	Stereoselective Total Synthesis of FD-891	10.1021/jo302205t
+305	  Mode of hemolytic action of the antifungal polyene antibiotic filipin	Mode of hemolytic action of the antifungal polyene antibiotic filipin	10.1515/znb-1966-0120
+306	   Fostriecin	Fostriecin	10.1097/00001813-199706000-00001
+307	  Antifungal activities of antineoplastic agents: Saccharomyces cerevisiae as a model system to study drug action	Antifungal Activities of Antineoplastic Agents:<i>Saccharomyces cerevisiae</i>            as a Model System To Study Drug Action	10.1128/cmr.12.4.583
+308	  Gephyronic acid	Gephyronic Acid, a Missing Link between Polyketide Inhibitors of Eukaryotic Protein Synthesis (Part II): Total Synthesis of Gephyronic Acid	10.1002/anie.201005605
+309	  In vivo antitumor activity of herbimycin A	Chemical modification of herbimycin A. Synthesis and in vivo antitumor activities of halogenated and other related derivatives of herbimycin A.	10.7164/antibiotics.39.415
+310	   Hygrocins a and B	Studies towards the total synthesis of hygrocins A and B	10.1016/j.tetlet.2013.12.017
+311	  Discovery of incednine as a potent modulator of the anti-apoptotic function of Bcl-xL from microbial origin	Discovery of Incednine as a Potent Modulator of the Anti-apoptotic Function of Bcl-xL from Microbial Origin	10.1021/ja710124p
+312	   16-Deethylindanomycin (A83094A)	16-Deethylindanomycin (A83094A), a novel pyrrole-ether antibiotic produced by a strain of Streptomyces setonii. Taxonomy, fermentation, isolation and characterization.	10.7164/antibiotics.41.1170
+313	  The jerangolids: A family of new antifungal compounds from Sorangium cellulosum (Myxobacteria)	The Jerangolids: A Family of New Antifungal Compounds from Sorangium cellulosum (Myxobacteria). Production, Physico-chemical and Biological Properties of Jerangolid A.	10.7164/antibiotics.49.71
+314	   Kijanimicin (Sch 25663)	Kijanimicin (Sch 25663), a novel antibiotic produced by Actionmadura kijaniata SCC 1256. Fermentation, isolation, characterization and biological properties.	10.7164/antibiotics.34.1101
+315	  Laidlomycin	Total synthesis of laidlomycin	10.1039/c5cc10673g
+316	  Crystal structure of the synergistic antibiotic pair	Crystal structure of the synergistic antibiotic pair lankamycin and lankacidin in complex with the large ribosomal subunit	10.2210/pdb3pip/pdb
+317	  Antitumor Activity of Lankacidin Group Antibiotics Is Due to Microtubule Stabilization via a Paclitaxel-like Mechanism	Antitumor Activity of Lankacidin Group Antibiotics Is Due to Microtubule Stabilization via a Paclitaxel-like Mechanism	10.1021/acs.jmedchem.6b01264.s001
+318	   Repurposing Ionophores as novel antimicrobial agents for the treatment of bovine mastitis caused by Gram-positive pathogens	Repurposing Ionophores as novel antimicrobial agents for the treatment of bovine mastitis caused by Gram‐positive pathogens	10.1111/jvp.12674
+319	   Elucidation of final steps of the marineosins biosynthetic pathway through identification and characterization of the corresponding gene cluster	Elucidation of Final Steps of the Marineosins Biosynthetic Pathway through Identification and Characterization of the Corresponding Gene Cluster	10.1021/ja411544w
+320	   Biological studies with rosamicin	BIOLOGICAL STUDIES WITH ROSAMICIN, A NEW MICROMONOSPORA-PROVUCED MACROLIDE ANTIBIOTIC	10.7164/antibiotics.25.647
+321	   In vitro activity of midecamycin	In vitro activity of midecamycin, a new macrolide antibiotic	10.1128/aac.24.3.443
+322	  Structure and antimicrobial properties of monensin A and its derivatives: summary of the achievements	Structure and Antimicrobial Properties of Monensin A and Its Derivatives: Summary of the Achievements	10.1155/2013/742149
+323	  Organization of the biosynthetic gene cluster for the polyketide macrolide mycinamicin in Micromonospora griseorubida	Organization of the biosynthetic gene cluster for the polyketide macrolide mycinamicin in<i>Micromonospora griseorubida</i>	10.1111/j.1574-6968.2003.tb11509.x
+324	  Mycolactones: immunosuppressive and cytotoxic polyketides produced by aquatic mycobacteria	Mycolactones: immunosuppressive and cytotoxic polyketides produced by aquatic mycobacteria	10.1039/b803101k
+325	  Screening Bioactives Reveals Nanchangmycin as a Broad Spectrum Antiviral Active against Zika Virus	Screening Bioactives Reveals Nanchangmycin as a Broad Spectrum Antiviral Active against Zika Virus	10.1016/j.celrep.2016.12.068
+326	   The antifungal activity of natamycin toward molds isolated from commercially manufactured poultry feed	The Antifungal Activity of Natamycin toward Molds Isolated from Commercially Manufactured Poultry Feed	10.2307/1593087
+327	   New biotransformation products of nemadectins	New Biotransformation Products of Nemadectins.	10.7164/antibiotics.54.805
+328	  Cloning	Cloning (DNA cloning, gene cloning, molecular cloning)	10.1002/9783527678679.dg01976
+329	  Structure activity relationship in sixteen membered macrolide antibiotics	STRUCTURE ACTIVITY RELATIONSHIP IN SIXTEEN MEMBERED MACROLIDE ANTIBIOTICS	10.7164/antibiotics.27.221
+330	   The polyene antifungals	Polyene Antifungals	10.1007/978-3-319-44034-7_10
+331	  Oligomycin E	Oligomycin	10.1002/047120918x.emb1046
+332	   A pH-stability study of phoslactomycin B and analysis of the acid and base degradation products	A pH-Stability Study of Phoslactomycin B and Analysis of the Acid and Base Degradation Products	10.1038/ja.2005.78
+333	   Pimaricin	Pimaricin	10.1055/s-0028-1110554
+334	  High antitumor activity of pladienolide B and its derivative in gastric cancer	High antitumor activity of pladienolide B and its derivative in gastric cancer	10.1111/cas.12317
+335	   Characterization of the pyoluteorin biosynthetic gene cluster of Pseudomonas fluorescens Pf-5	Characterization of the Pyoluteorin Biosynthetic Gene Cluster of<i>Pseudomonas fluorescens</i>            Pf-5	10.1128/jb.181.7.2166-2174.1999
+336	  Pharmaceutical Potential of Synthetic and Natural Pyrrolomycins	Pharmaceutical Potential of Synthetic and Natural Pyrrolomycins	10.3390/molecules201219797
+337	  Quartromicin	Characterization of QmnD3/QmnD4 for Double Bond Formation in Quartromicin Biosynthesis	10.1021/ol500111n
+338	  Reveromycins A and B from Streptomyces sp	Streptomyces glycovorans sp. nov., Streptomyces xishensis sp. nov. and Streptomyces abyssalis sp. nov., isolated from marine sediments	10.1099/ijs.0.035386-0
+339	   Rifampin: spectrum of antibacterial activity	Rifampin: Spectrum of Antibacterial Activity	10.1093/clinids/5.supplement_3.s412
+340	  Rifampicin combined regimens for gram-negative infections: data from the literature	Rifampicin combined regimens for Gram-negative infections: data from the literature	10.1016/j.ijantimicag.2009.08.011
+341	   Antifungal activity of rimocidin and a new rimocidin derivative BU16 produced by Streptomyces mauvecolor BU16 and their effects on pepper anthracnose	Antifungal activity of rimocidin and a new rimocidin derivative BU16 produced by <i>Streptomyces mauvecolor </i>BU16 and their effects on pepper anthracnose	10.1111/jam.13071
+342	   In vitro reconstruction of tetronate RK-682 biosynthesis	In vitro reconstruction of tetronate RK-682 biosynthesis	10.1038/nchembio.285
+343	  RK-682	In vitro reconstruction of tetronate RK-682 biosynthesis	10.1038/nchembio.285
+344	   The isolation and characterization of rubradirin  J Antibiot (Tokyo) 1978	The isolation and characterization of rubradirin B.	10.7164/antibiotics.31.945
+345	   Discovery and development of the anticancer agent salinosporamide A (NPI-0052)	Discovery and development of the anticancer agent salinosporamide A (NPI-0052)	10.1016/j.bmc.2008.10.075
+346	   Pharmacokinetic interaction of the antiparasitic agents ivermectin and spinosad in dogs	Pharmacokinetic Interaction of the Antiparasitic Agents Ivermectin and Spinosad in Dogs	10.1124/dmd.110.034827
+347	  Differential effects of tautomycetin and its derivatives on protein phosphatase inhibition	Differential Effects of Tautomycetin and Its Derivatives on Protein Phosphatase Inhibition, Immunosuppressive Function and Antitumor Activity	10.4196/kjpp.2012.16.2.145
+348	  Cloning and characterization of the tetrocarcin A gene cluster from Micromonospora chalcea NRRL 11289 reveals a highly conserved strategy for tetronate biosynthesis in spirotetronate antibiotics	Cloning and Characterization of the Tetrocarcin A Gene Cluster from<i>Micromonospora chalcea</i>            NRRL 11289 Reveals a Highly Conserved Strategy for Tetronate Biosynthesis in Spirotetronate Antibiotics	10.1128/jb.00533-08
+349	   Effect of the novel ionophore tetronasin (ICI 139603) on ruminal microorganisms	Effect of the novel ionophore tetronasin (ICI 139603) on ruminal microorganisms	10.1128/aem.54.2.544-547.1988
+350	  Tetronomycin	Total synthesis of tetronomycin	10.1021/jo00036a026
+351	   Tupuseleiamides and basiliskamides	Total Synthesis of Basiliskamides A and  B	10.1021/ol048574m.s001
+352	  The tartrolons	ChemInform Abstract: The Tartrolons, New Boron-Containing Antibiotics from a Myxobacterium, Sorangium cellulosum.	10.1002/chin.199529315
+353	  Analysis and refactoring of the A-74528 biosynthetic pathway	Analysis and Refactoring of the A-74528 Biosynthetic Pathway	10.1021/ja311579s
+354	   Effect of pH and moderate hyperthermia on doxorubicin	Effect of pH and moderate hyperthermia on doxorubicin, epirubicin and aclacinomycin A cytotoxicity for Chinese hamster ovary cells	10.1007/bf00685332
+355	  Azicemicin A	Azicemicin A, a new antimicrobial antibiotic from Amycolatopsis.	10.7164/antibiotics.46.1772
+356	  New approaches to the total synthesis of the bryostatin antitumor macrolides	New Approaches to the Total Synthesis of the Bryostatin Antitumor Macrolides	10.1002/asia.200900634
+357	   Identification of the chelocardin biosynthetic gene cluster from Amycolatopsis sulphurea: a platform for producing novel tetracycline antibiotics	Identification of the chelocardin biosynthetic gene cluster from Amycolatopsis sulphurea: a platform for producing novel tetracycline antibiotics	10.1099/mic.0.070995-0
+358	   Tetracycline Antibiotics and Resistance	Tetracycline Antibiotics and Resistance	10.1101/cshperspect.a025387
+359	   Chrysomycin: a new antibiotic substance for bacterial viruses	CHRYSOMYCIN: A NEW ANTIBIOTIC SUBSTANCE FOR BACTERIAL VIRUSES	10.1128/jb.69.3.280-283.1955
+360	  Desorption chemical ionization mass spectrometry of cosmomycins A	Laser desorption chemical ionization mass spectrometry/mass spectrometry	10.1021/ac00262a043
+361	 2000	WFUS 2000 Florence, May 2000	10.1177/1742271x0000800328
+362	  Dactylocyclines	Dactylocyclines, novel tetracycline derivatives produced by a Dactylosporangium sp. III. Absolute stereochemistry of the dactylocyclines.	10.7164/antibiotics.45.1907
+363	   The antitumor anthracyclines doxorubicin and daunorubicin do not inhibit cell growth through the formation of iron-mediated reactive oxygen species	The antitumor anthracyclines doxorubicin and daunorubicin do not inhibit cell growth through the formation of iron-mediated reactive oxygen species	10.1097/00001813-200501000-00014
+364	   An environmental DNA-derived type II polyketide biosynthetic pathway encodes the biosynthesis of the pentacyclic polyketide erdacin	An Environmental DNA-Derived Type II Polyketide Biosynthetic Pathway Encodes the Biosynthesis of the Pentacyclic Polyketide Erdacin	10.1002/ange.200901209
+365	  Isolation and characterization of a new pyrano[4'	Isolation and Characterization of a New Pyrano(4',3':6,7)naphtho(1,2-b)xanthene Antibiotic FD-594.	10.7164/antibiotics.51.282
+366	  Production of deoxyfrenolicin and a new antibiotic	Production of deoxyfrenolicin and a new antibiotic, frenolicin B by Streptomyces roseofulvus strain AM-3867.	10.7164/antibiotics.31.959
+367	  Gilvocarcins	Gilvocarcins	10.1002/recl.19951140802
+368	  Structure	structure structure	10.1201/9781482293289-7
+369	  Cloning and characterization of a gene cluster for hatomarubigin biosynthesis in Streptomyces sp	Cloning and Characterization of a Gene Cluster for Hatomarubigin Biosynthesis in<i>Streptomyces</i>            sp. Strain 2238-SVT4	10.1128/aem.00668-10
+370	   The structure of the antibiotic hedamycin  Chemical	The structure of the antibiotic hedamycin-II	10.1016/0040-4020(78)88116-2
+371	   Antimicrobial activities of jadomycin B and structurally related analogues	Antimicrobial Activities of Jadomycin B and Structurally Related Analogues	10.1128/aac.00801-08
+372	  Kiamycin	Kiamycin, a Unique Cytotoxic Angucyclinone Derivative from a Marine Streptomyces sp.	10.3390/md10030551
+373	   Metabolic basis for the differential susceptibility of Gram-positive pathogens to fatty acid synthesis inhibitors	Metabolic basis for the differential susceptibility of Gram-positive pathogens to fatty acid synthesis inhibitors	10.1073/pnas.1109208108
+374	  [Metabolic products of microorganisms	Metabolic products of microorganisms	10.1007/bf00446323
+375	  A new antibiotic	New Antibiotic	10.1136/bmj.1.5692.368-a
+376	   Isolation and characterization of the naphthocyclinone gene cluster from Streptomyces arenae DSM 40737 and heterologous expression of the polyketide synthase genes	Isolation and characterization of the naphthocyclinone gene cluster from Streptomyces arenae DSM 40737 and heterologous expression of the polyketide synthase genes	10.1016/s0378-1119(98)00618-0
+377	   Alternating pattern of stereochemistry in the nonactin macrocycle is required for antibacterial activity and efficient ion binding	Alternating Pattern of Stereochemistry in the Nonactin Macrocycle Is Required for Antibacterial Activity and Efficient Ion Binding	10.1021/ja9050235
+378	  Pradimicins: a novel class of broad-spectrum antifungal compounds	Pradimicins: A novel class of broad-spectrum antifungal compounds	10.1007/bf01575126
+379	   Prodigiosin and its potential applications	Prodigiosin and its potential applications	10.1007/s13197-015-1740-4
+380	   Confronting the challenges of natural product-based antifungal discovery	Confronting the Challenges of Natural Product-Based Antifungal Discovery	10.1016/j.chembiol.2011.01.009
+381	  Rhodomycin analogues from Streptomyces purpurascens: isolation	Rhodomycin analogues from Streptomyces purpurascens: isolation, characterization and biological activities	10.1186/2193-1801-2-93
+382	  Characterization of the polyketide spore pigment cluster whiESa in Streptomyces aureofaciens CCM3239	Characterization of the polyketide spore pigment cluster whiESa in Streptomyces aureofaciens CCM3239	10.1007/s00203-004-0720-2
+383	  Metabolic products of microorganisms	Metabolic products of microorganisms	10.1007/bf00446323
+384	  Unveiling the post-PKS redox tailoring steps in biosynthesis of the type II polyketide antitumor antibiotic xantholipin	Unveiling the Post-PKS Redox Tailoring Steps in Biosynthesis of the Type II Polyketide Antitumor Antibiotic Xantholipin	10.1016/j.chembiol.2012.01.016
+385	  In vitro anti-methicillin-resistant Staphylococcus aureus activity of 2	Anti–Methicillin-Resistant Staphylococcus aureus Nanoantibiotics	10.3389/fphar.2019.01121
+386	  Phenolic lipid synthesis by type III polyketide synthases is essential for cyst formation in Azotobacter vinelandii	Phenolic lipid synthesis by type III polyketide synthases is essential for cyst formation in<i>Azotobacter vinelandii</i>	10.1073/pnas.0511227103
+387	  The Pseudomonas aeruginosa antimetabolite L -2-amino-4-methoxy-trans-3-butenoic acid (AMB) is made from glutamate and two alanine residues via a thiotemplate-linked tripeptide precursor	The Pseudomonas aeruginosa antimetabolite L -2-amino-4-methoxy-trans-3-butenoic acid (AMB) is made from glutamate and two alanine residues via a thiotemplate-linked tripeptide precursor	10.3389/fmicb.2015.00170
+388	  A-503083 A	A-503083 A,B, E and F, Novel Inhibitors of Bacterial Translocase I, Produced by Streptomyces sp. SANK 62799	10.1002/chin.200517220
+389	   A54145 a new lipopeptide antibiotic complex: microbiological evaluation	A54145 a new lipopeptide antibiotic complex. Microbiological evaluation.	10.7164/antibiotics.43.616
+390	   Key Structural Elements for Cellular Uptake of Acinetobactin	Key Structural Elements for Cellular Uptake of Acinetobactin a Major Siderophore of Acinetobacter baumannii	10.1021/acs.orglett.6b03671.s001
+391	   Membrane dynamics of the amphiphilic siderophore	Membrane Dynamics of the Amphiphilic Siderophore, Acinetoferrin	10.1021/ja044230f
+392	   Effect of the removal of outer cell wall layers on the actinomycin susceptibility of a gram-negative bacterium	Effect of the Removal of Outer Cell Wall Layers on the Actinomycin Susceptibility of a Gram-Negative Bacterium	10.1128/aac.1.5.447
+393	  Antifungal properties of an actinomycin D-producing strain	Antifungal properties of an actinomycin D-producing strain,<i>Streptomyces</i>sp. IA1, isolated from a Saharan soil	10.1002/jobm.201400202
+394	   Actinomycin and antitumor antibiotics	Actinomycin and Antitumor Antibiotics	10.1093/ajcp/52.2.130
+395	  Structure and biosynthesis of amychelin	Structure and Biosynthesis of Amychelin, an Unusual Mixed-Ligand Siderophore from <i>Amycolatopsis sp.</i> AA4	10.1021/ja203577e
+396	  	 	 
+397	   Pyrrolo(1	Synthesis of pyrrolo[c]- and pyrrolo[i]phenanthridines	10.1007/bf00505775
+398	   Characterization of AusA: a dimodular nonribosomal peptide synthetase responsible for the production of aureusimine pyrazinones	Characterization of AusA: A Dimodular Nonribosomal Peptide Synthetase Responsible for the Production of Aureusimine Pyrazinones	10.1021/bi301330q
+399	   Contemporary antimicrobial activity of triple antibiotic ointment: a multiphased study of recent clinical isolates in the United States and Australia	Contemporary antimicrobial activity of triple antibiotic ointment: a multiphased study of recent clinical isolates in the United States and Australia	10.1016/j.diagmicrobio.2005.08.009
+400	  Identification and analysis of the balhimycin biosynthetic gene cluster and its use for manipulating glycopeptide biosynthesis in Amycolatopsis mediterranei DSM5908	Identification and Analysis of the Balhimycin Biosynthetic Gene Cluster and Its Use for Manipulating Glycopeptide Biosynthesis in<i>Amycolatopsis mediterranei</i>            DSM5908	10.1128/aac.43.7.1565
+401	   Rifampin- or Capreomycin-Induced Remodeling of the Mycobacterium smegmatis Mycolic Acid Layer Is Mitigated in Synergistic Combinations with Cationic Antimicrobial Peptides	Rifampin- or Capreomycin-Induced Remodeling of the<i>Mycobacterium smegmatis</i>            Mycolic Acid Layer Is Mitigated in Synergistic Combinations with Cationic Antimicrobial Peptides	10.1128/msphere.00218-18
+402	  Structural variations of the cell wall precursor lipid II and their influence on binding and activity of the lipoglycopeptide antibiotic oritavancin	Structural Variations of the Cell Wall Precursor Lipid II and Their Influence on Binding and Activity of the Lipoglycopeptide Antibiotic Oritavancin	10.1128/aac.02663-14
+403	  Genome Mining of Streptomyces sp	Genome mining Streptomyces sp. KCTC 0041BP as a producer of dihydrochalcomycin	10.1007/s00253-021-11393-w
+404	  Coelichelin	The Total Synthesis of the Siderophore Coelichelin	10.3389/conf.fchem.2018.01.00049
+405	   Complestatin exerts antibacterial activity by the inhibition of fatty acid synthesis	Complestatin Exerts Antibacterial Activity by the Inhibition of Fatty Acid Synthesis	10.1248/bpb.b14-00824
+406	   An iterative nonribosomal peptide synthetase assembles the pyrrole-amide antibiotic congocidine in Streptomyces ambofaciens	An Iterative Nonribosomal Peptide Synthetase Assembles the Pyrrole-Amide Antibiotic Congocidine in Streptomyces ambofaciens	10.1016/j.chembiol.2009.03.010
+407	   Characterization of the Coronatine-Like Phytotoxins Produced by the Common Scab Pathogen Streptomyces scabies	Characterization of the Coronatine-Like Phytotoxins Produced by the Common Scab Pathogen <i>Streptomyces scabies</i>	10.1094/mpmi-09-14-0255-r
+408	  Pseudomonas corrugata crpCDE is part of the cyclic lipopeptide corpeptin biosynthetic gene cluster and is involved in bacterial virulence in tomato and in hypersensitive response in Nicotiana benthamiana	<i>Pseudomonas corrugata crpCDE</i>is part of the cyclic lipopeptide corpeptin biosynthetic gene cluster and is involved in bacterial virulence in tomato and in hypersensitive response in<i>Nicotiana benthamiana</i>	10.1111/mpp.12207
+409	  Antibacterial mechanism of daptomycin antibiotic against Staphylococcus aureus based on a quantitative bacterial proteome analysis	Antibacterial mechanism of daptomycin antibiotic against Staphylococcus aureus based on a quantitative bacterial proteome analysis	10.1016/j.jprot.2016.09.014
+410	   Structure-activity studies of echinomycin antibiotics against drug-resistant and biofilm-forming Staphylococcus aureus and Enterococcus faecalis	Structure–activity studies of echinomycin antibiotics against drug-resistant and biofilm-forming Staphylococcus aureus and Enterococcus faecalis	10.1016/j.bmcl.2009.01.010
+411	    Identification of Secondary Metabolite Gene Clusters in the Pseudovibrio Genus Reveals Encouraging Biosynthetic Potential toward the Production of Novel Bioactive Compounds	Identification of Secondary Metabolite Gene Clusters in the Pseudovibrio Genus Reveals Encouraging Biosynthetic Potential toward the Production of Novel Bioactive Compounds	10.3389/fmicb.2017.01494
+412	  Enduracidin	Enduracidin 11115-82-5	10.1002/0471701343.sdp36632
+413	   Enterobactin: an archetype for microbial iron transport	Enterobactin: An archetype for microbial iron transport	10.1073/pnas.0630018100
+414	  Association of hemolytic activity of Pseudomonas entomophila	Association of Hemolytic Activity of<i>Pseudomonas entomophila</i>            , a Versatile Soil Bacterium, with Cyclic Lipopeptide Production	10.1128/aem.02112-09
+415	   A novel streptococcal integrative conjugative element involved in iron acquisition	A novel streptococcal integrative conjugative element involved in iron acquisition	10.1111/j.1365-2958.2008.06481.x
+416	   Biosynthesis of the putative siderophore erythrochelin requires unprecedented crosstalk between separate nonribosomal peptide gene clusters	Biosynthesis of the Putative Siderophore Erythrochelin Requires Unprecedented Crosstalk between Separate Nonribosomal Peptide Gene Clusters	10.1016/j.chembiol.2010.01.011
+417	   The role of iron in Mycobacterium smegmatis biofilm formation: the exochelin siderophore is essential in limiting iron conditions for biofilm formation but not for planktonic growth	The role of iron in<i>Mycobacterium smegmatis</i>            biofilm formation: the exochelin siderophore is essential in limiting iron conditions for biofilm formation but not for planktonic growth	10.1111/j.1365-2958.2007.05935.x
+418	  	 	 
+419	   The lipopeptide antibiotic Friulimicin B inhibits cell wall biosynthesis through complex formation with bactoprenol phosphate	The Lipopeptide Antibiotic Friulimicin B Inhibits Cell Wall Biosynthesis through Complex Formation with Bactoprenol Phosphate	10.1128/aac.01040-08
+420	   Structure and Mechanism of the Siderophore-Interacting Protein from the Fuscachelin Gene Cluster of Thermobifida fusca	Structure and Mechanism of the Siderophore-Interacting Protein from the Fuscachelin Gene Cluster of <i>Thermobifida fusca</i>	10.1021/acs.biochem.5b00354
+421	   The Oligopeptide Permease Opp Mediates Illicit Transport of the Bacterial P-site Decoding Inhibitor GE81112	The Oligopeptide Permease Opp Mediates Illicit Transport of the Bacterial P-site Decoding Inhibitor GE81112	10.3390/antibiotics5020017
+422	  The mycobacterial glycopeptidolipids: structure	The mycobacterial glycopeptidolipids: structure, function, and their role in pathogenesis	10.1093/glycob/cwn076
+423	   Gobichelin A and B: Mixed-Ligand Siderophores Discovered Using Proteomics	Gobichelin A and B: mixed-ligandsiderophores discovered using proteomics	10.1039/c2md20232h
+424	   Gramicidin S is active against both gram-positive and gram-negative bacteria	Gramicidin S is active against both gram-positive and gram-negative bacteria	10.1111/j.1399-3011.1996.tb01096.x
+425	  Gene cluster involved in the biosynthesis of griseobactin	Gene Cluster Involved in the Biosynthesis of Griseobactin, a Catechol-Peptide Siderophore of<i>Streptomyces</i>            sp. ATCC 700974	10.1128/jb.01250-09
+426	   Structural characterization of the heterobactin siderophores from Rhodococcus erythropolis PR4 and elucidation of their biosynthetic machinery	Structural Characterization of the Heterobactin Siderophores from <i>Rhodococcus erythropolis</i> PR4 and Elucidation of Their Biosynthetic Machinery	10.1021/np4006579
+427	  Antimicrobial properties and mode of action of the pyrrothine holomycin	Antimicrobial Properties and Mode of Action of the Pyrrothine Holomycin	10.1128/aac.45.2.532-539.2001
+428	   Identification of the gene cluster for the dithiolopyrrolone antibiotic holomycin in Streptomyces clavuligerus	Identification of the gene cluster for the dithiolopyrrolone antibiotic holomycin in<i>Streptomyces clavuligerus</i>	10.1073/pnas.1014140107
+429	  Antimicrobial peptides from marine proteobacteria	Antimicrobial Peptides from Marine Proteobacteria	10.3390/md11103632
+430	  Tetrapeptides possessing a unique skeleton	Tetrapeptides Possessing a Unique Skeleton, JBIR-34 and JBIR-35, Isolated from a Sponge-Derived Actinomycete, <i>Streptomyces</i> sp. Sp080513GE-23	10.1021/np900810r
+431	   Cloning and characterization of the biosynthetic gene cluster for kutznerides	Cloning and characterization of the biosynthetic gene cluster for kutznerides	10.1073/pnas.0708242104
+432	   Total Synthesis of Laspartomycin C and Characterization of Its Antibacterial Mechanism of Action	Total Synthesis of Laspartomycin C and Characterization of Its Antibacterial Mechanism of Action	10.1021/acs.jmedchem.6b00219.s002
+433	   Characterization of a new lipopeptide surfactant produced by thermotolerant and halotolerant subsurface Bacillus licheniformis BAS50	Characterization of a new lipopeptide surfactant produced by thermotolerant and halotolerant subsurface Bacillus licheniformis BAS50	10.1128/aem.61.5.1706-1713.1995
+434	   Lichenysin is produced by most Bacillus licheniformis strains	Lichenysin is produced by most<i>Bacillus licheniformis</i>strains	10.1111/jam.12299
+435	  Operon for biosynthesis of lipstatin	Operon for Biosynthesis of Lipstatin, the Beta-Lactone Inhibitor of Human Pancreatic Lipase	10.1128/aem.01765-14
+436	   Lysobactin	Total Synthesis of Lysobactin	10.1021/ja067648h.s001
+437	   Mangotoxin production of Pseudomonas syringae pv	Mangotoxin production of Pseudomonas syringae pv. syringae is regulated by MgoA	10.1186/1471-2180-14-46
+438	   Mechanism of action of the mannopeptimycins	Making mannopeptimycins	10.1021/cen-09411-scicon003
+439	   Isolation	Isolation in isolation hospitals	10.1016/s0033-3506(08)80028-5
+440	  Synthetic studies on (+)-manzamine A: stereoselective synthesis of the tetracyclic core framework	Synthetic Studies on (+)-Manzamine A: Stereoselective Synthesis of the Tetracyclic Core Framework	10.1021/ol801111r
+441	  Nocardicin A	The role of nocardicin G in nocardicin A biosynthesis	10.1021/ja00218a063
+442	   Phytotoxins: environmental micropollutants of concern? Environ Sci Technol 2014	Phytotoxins: Environmental Micropollutants of Concern?	10.1021/es504342w
+443	  Marine cyanobacteria compounds with anticancer properties: a review on the implication of apoptosis	Marine Cyanobacteria Compounds with Anticancer Properties: Implication of Apoptosis	10.1007/978-3-319-07145-9_29
+444	   The lipopeptide antibiotic paenibacterin binds to the bacterial outer membrane and exerts bactericidal activity through cytoplasmic membrane damage	The Lipopeptide Antibiotic Paenibacterin Binds to the Bacterial Outer Membrane and Exerts Bactericidal Activity through Cytoplasmic Membrane Damage	10.1128/aem.03775-13
+445	  Identification and analysis of the gene cluster involved in biosynthesis of paenibactin	Identification and analysis of the gene cluster involved in biosynthesis of paenibactin, a catecholate siderophore produced by Paenibacillus elgii B69	10.1111/j.1462-2920.2011.02542.x
+446	   Isolation and structural elucidation of pelgipeptin E	Isolation and structural elucidation of pelgipeptin E, a novel pore-forming pelgipeptin analog from Paenibacillus elgii with low hemolytic activity	10.1038/s41429-018-0095-2
+447	   Identification and functional analysis of gene cluster involvement in biosynthesis of the cyclic lipopeptide antibiotic pelgipeptin produced by Paenibacillus elgii	Identification and functional analysis of gene cluster involvement in biosynthesis of the cyclic lipopeptide antibiotic pelgipeptin produced by Paenibacillus elgii	10.1186/1471-2180-12-197
+448	  Homology modeling of an antifungal metabolite plipastatin synthase from the Bacillus subtilis 168	Homology modeling of an antifungal metabolite plipastatin synthase from the bacillus subtilis 168	10.6026/97320630007384
+449	  Porothramycin	Total synthesis of (+)-porothramycin B	10.1016/s0040-4039(00)77629-5
+450	   Analysis of the pmsCEAB gene cluster involved in biosynthesis of salicylic acid and the siderophore pseudomonine in the biocontrol strain Pseudomonas fluorescens WCS374	Analysis of the<i>pmsCEAB</i>            Gene Cluster Involved in Biosynthesis of Salicylic Acid and the Siderophore Pseudomonine in the Biocontrol Strain<i>Pseudomonas fluorescens</i>            WCS374	10.1128/jb.183.6.1909-1920.2001
+451	   Characterization of two Pseudomonas putida lipopeptide biosurfactants	Characterization of two Pseudomonas putida lipopeptide biosurfactants, putisolvin I and II, which inhibit biofilm formation and break down existing biofilms	10.1046/j.1365-2958.2003.03751.x
+452	   Catecholate siderophores protect bacteria from pyochelin toxicity	Catecholate Siderophores Protect Bacteria from Pyochelin Toxicity	10.1371/journal.pone.0046754
+453	   Pyoverdine	Pseudomonas aeruginosa pyoverdine	10.1038/scibx.2013.367
+454	  Quinocarcin	Synthesis of (-)-Quinocarcin	10.1055/s-0029-1217245
+455	  A New Analogue of Echinomycin and a New Cyclic Dipeptide from a Marine-Derived Streptomyces sp	A New Analogue of Echinomycin and a New Cyclic Dipeptide from a Marine-Derived Streptomyces sp. LS298	10.3390/md13116947
+456	   Biosynthesis of the siderophore rhodochelin requires the coordinated expression of three independent gene clusters in Rhodococcus jostii RHA1	Biosynthesis of the Siderophore Rhodochelin Requires the Coordinated Expression of Three Independent Gene Clusters in <i>Rhodococcus jostii</i> RHA1	10.1021/ja1109453
+457	   Structure of ristocetin A in complex with a bacterial cell-wall mimetic	Structure of ristocetin A in complex with a bacterial cell-wall mimetic	10.1107/s0907444909018344
+458	  Activity of safracins A and B	Safracins,new antitumor antibiotics III. biological activity.	10.7164/antibiotics.36.1290
+459	   Mode of action of saframycin antitumor antibiotics: sequence selectivities in the covalent binding of saframycins A and S to deoxyribonucleic acid	Mode of action of saframycin antitumor antibiotics: sequence selectivities in the covalent binding of saframycins A and S to deoxyribonucleic acid	10.1021/tx00015a012
+460	   Structure and biosynthesis of scabichelin	Structure and biosynthesis of scabichelin, a novel tris-hydroxamate siderophore produced by the plant pathogen Streptomyces scabies 87.22	10.1039/c3ob40536b
+461	  	 	 
+462	  Biosynthetic modularity rules in the bisintercalator family of antitumor compounds	Biosynthetic Modularity Rules in the Bisintercalator Family of Antitumor Compounds	10.3390/md12052668
+463	   Pseudomonas syringae coordinates production of a motility-enabling surfactant with flagellar assembly	Pseudomonas syringae Coordinates Production of a Motility-Enabling Surfactant with Flagellar Assembly	10.1128/jb.06058-11
+464	  Potent anti-tumor activity of a syringolin analog in multiple myeloma: a dual inhibitor of proteasome activity targeting beta2 and beta5 subunits	Potent anti-tumor activity of a syringolin analog in multiple myeloma: a dual inhibitor of proteasome activity targeting β2 and β5 subunits	10.18632/oncotarget.24160
+465	   Pseudomonas syringae phytotoxins: mode of action	Syringostatins, novel phytotoxins produced by Pseudomonas syringae pv. syringae.	10.1271/bbb1961.53.3117
+466	  The PseEF efflux system is a virulence factor of Pseudomonas syringae pv	The PseEF efflux system is a virulence factor of Pseudomonas syringae pv. syringae	10.1007/s12275-012-1353-9
+467	   The thaxtomin phytotoxins: sources	The thaxtomin phytotoxins: Sources, synthesis, biosynthesis, biotransformation and biological activity	10.1016/j.phytochem.2009.04.013
+468	  Enterotoxicity of a nonribosomal peptide causes antibiotic-associated colitis	Enterotoxicity of a nonribosomal peptide causes antibiotic-associated colitis	10.1073/pnas.1403274111
+469	  Studies on tomaymycin	Studies on tomaymycin. III. Syntheses and antitumor activity of tomaymycin analogs.	10.7164/antibiotics.36.1699
+470	   Antimicrobial lipopeptide tridecaptin A1 selectively binds to Gram-negative lipid I Proc Natl Acad Sci U S A 2016	Faculty Opinions recommendation of Antimicrobial lipopeptide tridecaptin A1 selectively binds to Gram-negative lipid II.	10.3410/f.726790116.793525000
+471	  Complete sequence of biosynthetic gene cluster responsible for producing triostin A and evaluation of quinomycin-type antibiotics from Streptomyces triostinicus	Complete sequence of biosynthetic gene cluster responsible for producing triostin A and evaluation of quinomycin-type antibiotics from<i>Streptomyces triostinicus</i>	10.1002/btpr.34
+472	   Turnerbactin	Turnerbactin, a Novel Triscatecholate Siderophore from the Shipworm Endosymbiont Teredinibacter turnerae T7901	10.1371/journal.pone.0076151
+473	   Development of Tyrocidine A analogues with improved antibacterial activity	Development of Tyrocidine A analogues with improved antibacterial activity	10.1016/j.bmc.2007.08.007
+474	   Iron(III) complexation by Vanchrobactin	Iron(iii) complexation by Vanchrobactin, a siderophore of the bacterial fish pathogen Vibrio anguillarum	10.1039/c0mt00071j
+475	   MICs of mutacin B-Ny266	MICs of Mutacin B-Ny266, Nisin A, Vancomycin, and Oxacillin against Bacterial Pathogens	10.1128/aac.44.1.24-29.2000
+476	   The vbs genes that direct synthesis of the siderophore vicibactin in Rhizobium leguminosarum: their expression in other genera requires ECF sigma factor Rpo Mol Microbiol 2002	The vbs genes that direct synthesis of the siderophore vicibactin in Rhizobium leguminosarum: their expression in other genera requires ECF σ factor RpoI	10.1046/j.1365-2958.2002.02951.x
+477	   Molecular basis for the selectivity of antituberculosis compounds capreomycin and viomycin	Molecular Basis for the Selectivity of Antituberculosis Compounds Capreomycin and Viomycin	10.1128/aac.00628-11
+478	  Structure of vulnibactin	Structure of vulnibactin, a new polyamine-containing siderophore from Vibrio vulnificus	10.1007/bf00140480
+479	  Involvement of both PKS and NRPS in antibacterial activity in Lysobacter enzymogenes OH11	Involvement of both PKS and NRPS in antibacterial activity in<i>Lysobacter enzymogenes</i>OH11	10.1111/1574-6968.12457
+480	  Draft Genome Sequence of Streptomyces sp	Draft genome sequence data of Streptomyces sp. FH025	10.1016/j.dib.2021.107128
+481	  Yatakemycin	Total Synthesis of (+)-Yatakemycin	10.1002/asia.200700282
+482	   Yersiniabactin iron uptake: mechanisms and role in Yersinia pestis pathogenesis	Yersiniabactin iron uptake: mechanisms and role in Yersinia pestis pathogenesis	10.1016/j.micinf.2011.04.008
+483	  Patellamide A	The structural biology of patellamide biosynthesis	10.1016/j.sbi.2014.10.006
+484	   Structure of trichamide	Structure of Trichamide, a Cyclic Peptide from the Bloom-Forming Cyanobacterium<i>Trichodesmium erythraeum</i>            , Predicted from the Genome Sequence	10.1128/aem.00380-06
+485	   Total chemical synthesis of glycocin F and analogues: S-glycosylation confers improved antimicrobial activity	Total chemical synthesis of glycocin F and analogues: <i>S</i>-glycosylation confers improved antimicrobial activity	10.1039/c7sc04383j
+486	   Solution structure of acidocin B	Solution Structure of Acidocin B, a Circular Bacteriocin from Lactobacillus acidophilus M46	10.2210/pdb2mwr/pdb
+487	   Circular bacteriocins: biosynthesis and mode of action	Circular Bacteriocins: Biosynthesis and Mode of Action	10.1128/aem.02284-14
+488	  Synergistic Antimicrobial Activity Between the Broad Spectrum Bacteriocin Garvicin KS and Nisin	Synergistic Antimicrobial Activity Between the Broad Spectrum Bacteriocin Garvicin KS and Nisin, Farnesol and Polymyxin B Against Gram-Positive and Gram-Negative Bacteria	10.1007/s00284-017-1375-y
+489	  Effects of gassericins A and T	Effects of gassericins A and T, bacteriocins produced by Lactobacillus gasseri, with glycine on custard cream preservation	10.3168/jds.2008-1240
+490	   Uberolysin: a novel cyclic bacteriocin produced by Streptococcus uberis	Uberolysin: a novel cyclic bacteriocin produced by Streptococcus uberis	10.1099/mic.0.2006/005967-0
+491	   Lantibiotics produced by Actinobacteria and their potential applications (a review)	Lantibiotics produced by Actinobacteria and their potential applications (a review)	10.1099/mic.0.000397
+492	  AmfS	AMFS	10.1145/2601097.2601214
+493	  Autoregulation of lantibiotic bovicin HJ50 biosynthesis by the BovK-BovR two-component signal transduction system in Streptococcus bovis HJ50	Autoregulation of Lantibiotic Bovicin HJ50 Biosynthesis by the BovK-BovR Two-Component Signal Transduction System in<i>Streptococcus bovis</i>            HJ50	10.1128/aem.01278-10
+494	  Type AII lantibiotic bovicin HJ50 with a rare disulfide bond: structure	Type AII lantibiotic bovicin HJ50 with a rare disulfide bond: structure, structure–activity relationships and mode of action	10.1042/bj20131524
+495	   Evidence for production of a new lantibiotic (butyrivibriocin OR79A) by the ruminal anaerobe Butyrivibrio fibrisolvens OR79: characterization of the structural gene encoding butyrivibriocin OR79 Appl Environ Microbiol 1999	Evidence for Production of a New Lantibiotic (Butyrivibriocin OR79A) by the Ruminal Anaerobe<i>Butyrivibrio fibrisolvens</i>            OR79: Characterization of the Structural Gene Encoding Butyrivibriocin OR79A	10.1128/aem.65.5.2128-2135.1999
+496	   Structure and biosynthesis of carnolysin	Structure and Biosynthesis of Carnolysin, a Homologue of Enterococcal Cytolysin with <scp>d</scp>-Amino Acids	10.1021/ja5070813
+497	  Cerecidins	Cerecidins, Novel Lantibiotics from Bacillus cereus with Potent Antimicrobial Activity	10.1128/aem.03751-13
+498	   Enterococcus faecalis senses target cells and in response expresses cytolysin	<i>Enterococcus faecalis</i>            Senses Target Cells and in Response Expresses Cytolysin	10.1126/science.1103996
+499	   Isolation	Isolation in isolation hospitals	10.1016/s0033-3506(08)80028-5
+500	  Insights into in vivo activities of lantibiotics from gallidermin and epidermin mode-of-action studies	Insights into In Vivo Activities of Lantibiotics from Gallidermin and Epidermin Mode-of-Action Studies	10.1128/aac.50.4.1449-1457.2006
+501	   Isolation	Isolation in isolation hospitals	10.1016/s0033-3506(08)80028-5
+502	   Mode of action of the lantibiotic mersacidin: inhibition of peptidoglycan biosynthesis via a novel mechanism? Antimicrob Agents Chemother 1995	Mode of action of the lantibiotic mersacidin: inhibition of peptidoglycan biosynthesis via a novel mechanism?	10.1128/aac.39.3.714
+503	   New type of antimicrobial protein produced by the plant pathogen Clavibacter michiganensis subsp	New Type of Antimicrobial Protein Produced by the Plant Pathogen Clavibacter michiganensis subsp. michiganensis	10.1128/aem.01065-13
+504	  The mutacins of Streptococcus mutans: regulation and ecology	The mutacins of Streptococcus mutans: regulation and ecology	10.1111/j.2041-1014.2011.00634.x
+505	  High Frequency and Diversity of Antimicrobial Activities Produced by Nasal Staphylococcus Strains against Bacterial Competitors	High Frequency and Diversity of Antimicrobial Activities Produced by Nasal Staphylococcus Strains against Bacterial Competitors	10.1371/journal.ppat.1005812
+506	   Isolation and identification of a Paenibacillus polymyxa strain that coproduces a novel lantibiotic and polymyxin	Isolation and Identification of a<i>Paenibacillus polymyxa</i>            Strain That Coproduces a Novel Lantibiotic and Polymyxin	10.1128/aem.02023-06
+507	   Biochemical	Biochemical	10.1039/an9386300124
+508	   Pep5	Pep5: Strukturaufklärung eines großen Lantibioticums	10.1002/ange.19891010514
+509	  Ruminococcin A	Ruminococcin C, a promising antibiotic produced by a human gut symbiont	10.1126/sciadv.aaw9969
+510	   Salivaricin G32	G32	10.31003/uspnf_r3494_01_01
+511	   Genetic analysis of a unique bacteriocin	Genetic Analysis of a Unique Bacteriocin, Smb, Produced by<i>Streptococcus mutans</i>            GS5	10.1128/aac.49.2.541-548.2005
+512	   Purification and characterization of streptin	Purification and Characterization of Streptin, a Type A1 Lantibiotic Produced by<i>Streptococcus pyogenes</i>	10.1128/aem.69.5.2737-2747.2003
+513	   The large mechanosensitive channel MscL determines bacterial susceptibility to the bacteriocin sublancin 168	The Large Mechanosensitive Channel MscL Determines Bacterial Susceptibility to the Bacteriocin Sublancin 168	10.1128/aac.00439-09
+514	  Characterization of a bacteriocin	Characterization of bacteriocin bificin C6165: a novel bacteriocin	10.1111/jam.12145
+515	   The expanding structural variety among bacteriocins from Gram-positive bacteria	The expanding structural variety among bacteriocins from Gram-positive bacteria	10.1093/femsre/fuy033
+516	  The highly conserved TldD and TldE proteins of Escherichia coli are involved in microcin B17 processing and in CcdA degradation	The Highly Conserved TldD and TldE Proteins of<i>Escherichia coli</i>            Are Involved in Microcin B17 Processing and in CcdA Degradation	10.1128/jb.184.12.3224-3231.2002
+517	   Precursor-centric genome-mining approach for lasso peptide discovery	Precursor-centric genome-mining approach for lasso peptide discovery	10.1073/pnas.1208978109
+518	  The antibacterial threaded-lasso peptide capistruin inhibits bacterial RNA polymerase	The Antibacterial Threaded-lasso Peptide Capistruin Inhibits Bacterial RNA Polymerase	10.1016/j.jmb.2011.02.060
+519	  Structure-Activity Analysis of Gram-positive Bacterium-producing Lasso Peptides with Anti-mycobacterial Activity	Structure-Activity Analysis of Gram-positive Bacterium-producing Lasso Peptides with Anti-mycobacterial Activity	10.1038/srep30375
+520	   Colicin V can be produced by lactic acid bacteria	Colicin V can be produced by lactic acid bacteria	10.1046/j.1365-2672.1999.00571.x
+521	  Solution structure of marinostatin	Solution Structure of Marinostatin, a Natural Ester-Linked Protein Protease Inhibitor	10.1021/bi048034x.s001
+522	   Post-translational modification in microviridin biosynthesis	Post-translational Modification in Microviridin Biosynthesis	10.1002/cbic.200800560
+523	   Thuricin: the bacteriocin produced by Bacillus thuringiensis	Thuricin: The bacteriocin produced by Bacillus thuringiensis	10.1016/0022-2011(89)90009-8
+524	  Antibiotic GE37468 A: a new inhibitor of bacterial protein synthesis	Antibiotic GE37468 A: A New Inhibitor of Bacterial Protein Synthesis. I. Isolation and Characterization.	10.7164/antibiotics.48.780
+525	  Genome mining reveals a minimum gene set for the biosynthesis of 32-membered macrocyclic thiopeptides lactazoles	Genome Mining Reveals a Minimum Gene Set for the Biosynthesis of 32-Membered Macrocyclic Thiopeptides Lactazoles	10.1016/j.chembiol.2014.03.008
+526	  The macrocyclic peptide antibiotic micrococcin P(1) is secreted by the food-borne bacterium Staphylococcus equorum WS 2733 and inhibits Listeria monocytogenes on soft cheese	The Macrocyclic Peptide Antibiotic Micrococcin P
+            <sub>1</sub>
+            Is Secreted by the Food-Borne Bacterium<i>Staphylococcus equorum</i>            WS 2733 and Inhibits<i>Listeria monocytogenes</i>            on Soft Cheese	10.1128/aem.66.6.2378-2384.2000
+527	  Activity of the thiopeptide antibiotic nosiheptide against contemporary strains of methicillin-resistant Staphylococcus aureus	Activity of the thiopeptide antibiotic nosiheptide against contemporary strains of methicillin-resistant Staphylococcus aureus	10.1038/ja.2012.77
+528	  Using antimicrobial adjuvant therapy in cancer treatment: a review	Using antimicrobial adjuvant therapy in cancer treatment: a review	10.1186/1750-9378-7-33
+529	   Coagulin	Coagulin Q	10.1007/978-0-387-39571-5_494
+530	  Antibacterial activity of Lactobacillus plantarum UG1 isolated from dry sausage: characterization	Antibacterial activity of Lactobacillus plantarum UG1 isolated from dry sausage: characterization, production and bactericidal action of plantaricin UG1	10.1016/0168-1605(96)00947-6
+531	   Antioxidant activities of astaxanthin and related carotenoids	Antioxidant Activities of Astaxanthin and Related Carotenoids	10.1021/jf991106k
+532	  Brasilicardin A	SAR studies of brasilicardin A for immunosuppressive and cytotoxic activities	10.1016/j.bmc.2004.12.029
+533	  Pentalenic acid is a shunt metabolite in the biosynthesis of the pentalenolactone family of metabolites: hydroxylation of 1-deoxypentalenic acid mediated by CYP105D7 (SAV_7469) of Streptomyces avermitilis	Pentalenic acid is a shunt metabolite in the biosynthesis of the pentalenolactone family of metabolites: hydroxylation of 1-deoxypentalenic acid mediated by CYP105D7 (SAV_7469) of Streptomyces avermitilis	10.1038/ja.2010.135
+534	  Zeaxanthin has enhanced antioxidant capacity with respect to all other xanthophylls in Arabidopsis leaves and functions independent of binding to PSII antennae	Zeaxanthin Has Enhanced Antioxidant Capacity with Respect to All Other Xanthophylls in Arabidopsis Leaves and Functions Independent of Binding to PSII Antennae	10.1104/pp.107.108480
+535	  3	 	 
+536	   Diazepinomicin	Diazepinomicin	10.32388/1bvycm
+537	  The mechanism of alpha-glucosidase inhibition in the management of diabetes	‘Pharmacological Fibre’-Alpha-glucosidase Inhibition in the Management of Diabetes	10.1111/j.1464-5491.1984.tb01951.x
+538	   In vivo efficacy of apramycin in murine infection models	<i>In Vivo</i>            Efficacy of Apramycin in Murine Infection Models	10.1128/aac.03239-14
+539	   Butirosin	BUTIROSIN IN MAN	10.1007/bf03287784
+540	  Fortimicins C	Chemical modification of fortimicins II. Selective protection of fortimicins A and B.	10.7164/antibiotics.34.513
+541	   Comparative pharmacodynamics of gentamicin against Staphylococcus aureus and Pseudomonas aeruginosa	Comparative Pharmacodynamics of Gentamicin against<i>Staphylococcus aureus</i>            and<i>Pseudomonas aeruginosa</i>	10.1128/aac.01165-05
+542	   Biosynthetic origin of hygromycin  Antimicrob Agents Chemother 2003	Biosynthetic Origin of Hygromycin A	10.1128/aac.47.7.2065-2071.2003
+543	  Enhanced susceptibility to antifungal oligopeptides in yeast strains overexpressing ABC multidrug efflux pumps	Enhanced Susceptibility to Antifungal Oligopeptides in Yeast Strains Overexpressing ABC Multidrug Efflux Pumps	10.1128/aac.01648-07
+544	  Low toxic derivatives of istamycin B: synthesis and preliminary evaluation	Synthesis of demethyl derivatives of istamycin A.	10.7164/antibiotics.33.1281
+545	   Carboxylesterase Precursor (EST-1) Mediated the Fungicide Jinggangmycin-Suppressed Reproduction of Sogatella furcifera (Hemiptera: Delphacidae)	Carboxylesterase Precursor (EST-1) Mediated the Fungicide Jinggangmycin-Suppressed Reproduction of Sogatella furcifera (Hemiptera: Delphacidae)	10.1093/jee/tox201
+546	   The efficacy of kanamycin in the treatment of surgical infections	THE EFFICACY OF KANAMYCIN IN THE TREATMENT OF SURGICAL INFECTIONS	10.1111/j.1749-6632.1958.tb54722.x
+547	  Comparative studies on in vitro activities of kasugamycin and clinically-used aminoglycoside antibiotics	Inhibition of lysosomal phospholipases by aminoglycoside antibiotics: in vitro comparative studies	10.1128/aac.23.3.440
+548	  [Antifungal activity of Kasugamycin]	In Vitro Antibacterial Activity of Kasugamycin	10.1128/am.15.4.750-753.1967
+549	  [Fundamental studies on lividomycin]	CHEMICAL CONVERSION OF LIVIDOMYCIN A INTO LIVIDOMYCIN B	10.7164/antibiotics.25.149
+550	 polymyxin B	POLYMYXIN	10.1016/b978-1-4831-6673-5.50017-0
+551	  Paromomycin	Paromomycin	10.1201/b13787-209
+552	   Activity of some aminoglycoside antibiotics against true fungi	Activity of some aminoglycoside antibiotics against true fungi, Phytophthora and Pythium species	10.1111/j.1365-2672.2005.02684.x
+553	  Comparative antimicrobial activities of ribostamycin	Ribostamycin	10.1007/bf03282179
+554	   Antimicrobial activity and clinical effectiveness of sisomicin: an evaluation of the literature (1995-2011)	Antimicrobial activity and clinical effectiveness of sisomicin: an evaluation of the literature (1995–2011)	10.1586/eri.13.18
+555	  Spenolimycin	Spenolimycin, a new spectinomycin-type antibiotic. III. Biological properties.	10.7164/antibiotics.37.1525
+556	   Streptomycin	Streptomycin	10.1002/047126363x.agr305
+557	   Tobramycin: a review of its antibacterial and pharmacokinetic properties and therapeutic use	Ceftizoxime A Review of its Antibacterial Activity, Pharmacokinetic Properties and Therapeutic Use	10.2165/00003495-198529040-00001
+558	  Structural	Structural Invariants, Structural Kinds, Structural Laws	10.1007/978-94-007-3030-4_12
+559	  Structure	structure structure	10.1201/9781482293289-7
+560	   Insight into the Functionality of Microbial Exopolysaccharides by NMR Spectroscopy and Molecular Modeling	Insight into the Functionality of Microbial Exopolysaccharides by NMR Spectroscopy and Molecular Modeling	10.3389/fmicb.2015.01374
+561	   Emulsan in Acinetobacter calcoaceticus RAG-1: Distribution of Cell-Free and Cell-Associated Cross-Reacting Material	Emulsan in<i>Acinetobacter calcoaceticus</i>            RAG-1: Distribution of Cell-Free and Cell-Associated Cross-Reacting Material	10.1128/aem.44.1.165-170.1982
+562	   Biosurfactants	Biosurfactants	10.1016/b978-0-12-809633-8.09184-6
+563	  The role of bacterial biofilms and surface components in plant-bacterial associations	The Role of Bacterial Biofilms and Surface Components in Plant-Bacterial Associations	10.3390/ijms140815838
+564	   Modified Gellan Gum hydrogels with tunable physical and mechanical properties	Modified Gellan Gum hydrogels with tunable physical and mechanical properties	10.1016/j.biomaterials.2010.06.035
+565	   Lipooligosaccharide structure contributes to multiple steps in the virulence of Neisseria meningitidis	Lipooligosaccharide Structure Contributes to Multiple Steps in the Virulence of<i>Neisseria meningitidis</i>	10.1128/iai.74.2.1360-1367.2006
+566	  Bacterial lipopolysaccharides in plant and mammalian innate immunity	Bacterial Lipopolysaccharides in Plant and Mammalian Innate Immunity	10.2174/092986612802762714
+567	  S-layers: principles and applications	S-layers: principles and applications	10.1111/1574-6976.12063
+568	   Linkage of genes essential for synthesis of a polysaccharide capsule in Sphingomonas strain S88	Linkage of genes essential for synthesis of a polysaccharide capsule in Sphingomonas strain S88	10.1128/jb.178.9.2676-2687.1996
+569	   Organization of the Escherichia coli K-12 gene cluster responsible for production of the extracellular polysaccharide colanic acid	Organization of the Escherichia coli K-12 gene cluster responsible for production of the extracellular polysaccharide colanic acid	10.1128/jb.178.16.4885-4893.1996
+570	   Emulsifying	Emulsifying Agents	10.1201/b17614-9
+571	  Fine-tuning of galactoglucan biosynthesis in Sinorhizobium meliloti by differential WggR (ExpG)-	Fine-Tuning of Galactoglucan Biosynthesis in<i>Sinorhizobium meliloti</i>            by Differential WggR (ExpG)-, PhoB-, and MucR-Dependent Regulation of Two Promoters	10.1128/jb.00062-08
+572	  Structural and Functional Properties	Structural and Functional Properties	10.1007/978-3-642-71468-9_2
+573	   Purification and characterization of phosphonoglycans from Glycomyces sp	Purification and Characterization of Phosphonoglycans from Glycomyces sp. Strain NRRL B-16210 and Stackebrandtia nassauensis NRRL B-16338	10.1128/jb.00036-14
+574	  DNA sequence recognition by the indolocarbazole antitumor antibiotic AT2433-B1 and its diastereoisomer	DNA sequence recognition by the indolocarbazole antitumor antibiotic AT2433-B1 and its diastereoisomer	10.1093/nar/30.8.1774
+575	  Antitumor effect of KT6124	Antitumor effect of KT6124, a novel derivative of protein kinase inhibitor K-252a and its mechanism of action	10.1007/bf00685943
+576	  Rotenone enhances the antifungal properties of staurosporine	Rotenone Enhances the Antifungal Properties of Staurosporine	10.1128/ec.00003-10
+577	  Biological role of xanthomonadin pigments in Xanthomonas campestris pv	Biological Role of Xanthomonadin Pigments in<i>Xanthomonas campestris</i>            pv. Campestris	10.1128/aem.66.12.5123-5127.2000
+578	  Effects of nutritional factors on production of tabtoxin	Effects of tabtoxin on nitrogen metabolism	10.1111/j.1399-3054.1986.tb05072.x
+579	  Biological activities of albonoursin	BIOLOGICAL ACTIVITIES OF ALBONOURSIN	10.7164/antibiotics.26.175
+580	  Hydration and Ion Binding of the Osmolyte Ectoine	Hydration and Ion Binding of the Osmolyte Ectoine	10.1021/acs.jpcb.5b09276
+581	   Eicosapentaenoic acid and docosahexaenoic acid have distinct membrane locations and lipid interactions as determined by X-ray diffraction	Eicosapentaenoic acid and docosahexaenoic acid have distinct membrane locations and lipid interactions as determined by X-ray diffraction	10.1016/j.chemphyslip.2018.01.002
+582	  Bacterial polyhydroxyalkanoates: Still fabulous? Microbiol Res 2016	Bacterial polyhydroxyalkanoates: Still fabulous?	10.1016/j.micres.2016.07.010
+583	   The Cell Wall Teichuronic Acid Synthetase (TUAS) Is an Enzyme Complex Located in the Cytoplasmic Membrane of Micrococcus luteus	The Cell Wall Teichuronic Acid Synthetase (TUAS) Is an Enzyme Complex Located in the Cytoplasmic Membrane of<i>Micrococcus luteus</i>	10.1155/2010/395758
+584	  Heterocyst development and diazotrophic metabolism in terminal respiratory oxidase mutants of the cyanobacterium Anabaena sp	Heterocyst Development and Diazotrophic Metabolism in Terminal Respiratory Oxidase Mutants of the Cyanobacterium<i>Anabaena</i>            sp. Strain PCC 7120	10.1128/jb.00220-07
+585	  Mycolic acids: structures	Mycolic Acids: Structures, Biosynthesis, and Beyond	10.1016/j.chembiol.2013.11.011
+586	   A New Natural Product Analog of Blasticidin S Reveals Cellular Uptake Facilitated by the NorA Multidrug Transporter	A New Natural Product Analog of Blasticidin S Reveals Cellular Uptake Facilitated by the NorA Multidrug Transporter	10.1128/aac.02635-16
+587	   In vitro antifungal activity of nikkomycin Z in combination with fluconazole or itraconazole	In Vitro Antifungal Activity of Nikkomycin Z in Combination with Fluconazole or Itraconazole	10.1128/aac.43.6.1401
+588	  Mechanism of action of the antifugal agent polyoxin  J Bacteriol 1970	Mechanism of Action of the Antifugal Agent Polyoxin D	10.1128/jb.104.1.189-196.1970
+589	   Production and biosynthesis of puromycin by Streptomyces alboniger	Production and Biosynthesis of Puromycin by Streptomyces alboniger	10.1016/s0044-4057(73)80089-9
+590	   High-throughput nano-biofilm microarray for antifungal drug discovery	High-Throughput Nano-Biofilm Microarray for Antifungal Drug Discovery	10.1128/mbio.00331-13
+591	 	 	 
+592	  Biosynthesis of the beta-methylarginine residue of peptidyl nucleoside arginomycin in Streptomyces arginensis NRRL 15941	Biosynthesis of the β-Methylarginine Residue of Peptidyl Nucleoside Arginomycin in Streptomyces arginensis NRRL 15941	10.1128/aem.01172-14
+593	  Identification of the biosynthetic gene cluster for 3-methylarginine	Identification of the Biosynthetic Gene Cluster for 3-Methylarginine, a Toxin Produced by<i>Pseudomonas syringae</i>            pv. syringae 22d/93	10.1128/aem.00666-09
+594	  New Antibacterial Bagremycins F and G from the Marine-Derived Streptomyces sp	New Antibacterial Bagremycins F and G from the Marine-Derived Streptomyces sp. ZZ745	10.3390/md16090330
+595	  Biosynthesis and metabolism of arginine in bacteria	Biosynthesis and metabolism of arginine in bacteria	10.1128/mr.50.3.314-352.1986
+596	   CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database	CARD 2017: expansion and model-centric curation of the comprehensive antibiotic resistance database	10.1093/nar/gkw1004
+597	   Structure-activity relationships of the phosphonate antibiotic dehydrophos	Structure–activity relationships of the phosphonate antibiotic dehydrophos	10.1039/c0cc02958k
+598	   Resistance to the antimicrobial agent fosmidomycin and an FR900098 prodrug through mutations in the deoxyxylulose phosphate reductoisomerase gene (dxr)	Resistance to the Antimicrobial Agent Fosmidomycin and an FR900098 Prodrug through Mutations in the Deoxyxylulose Phosphate Reductoisomerase Gene (<i>dxr</i>            )	10.1128/aac.00602-15
+599	   Molecular hijacking of siroheme for the synthesis of heme and d1 heme	Molecular hijacking of siroheme for the synthesis of heme and<i>d</i>            <sub>1</sub>
+            heme	10.1073/pnas.1108228108
+600	  Lincomycin: A New Antibiotic Active against Staphylococci and Other Gram-Positive Cocci: Clinical and Laboratory Studies	Signal Transduction in Staphylococci and Other Gram-Positive Cocci	10.1007/978-3-662-22406-9_10
+601	   Structure and function of a menaquinone involved in electron transport in membranes of Clostridium thermoautotrophicum and Clostridium thermoaceticum	Structure and function of a menaquinone involved in electron transport in membranes of Clostridium thermoautotrophicum and Clostridium thermoaceticum	10.1128/jb.171.11.5823-5829.1989
+602	   An integrated approach to studying regulation of production of the antibiotic methylenomycin by Streptomyces coelicolor A3(2)	An integrated approach to studying regulation of production of the antibiotic methylenomycin by Streptomyces coelicolor A3(2)	10.1128/jb.174.5.1487-1494.1992
+603	   Molybdenum cofactors from molybdoenzymes and in vitro reconstitution of nitrogenase and nitrate reductase	Molybdenum cofactors from molybdoenzymes and<i>in vitro</i>            reconstitution of nitrogenase and nitrate reductase	10.1073/pnas.74.12.5468
+604	  Temperature-mediated biosynthesis of the phytotoxin phaseolotoxin by Pseudomonas syringae pv	Temperature-mediated biosynthesis of the phytotoxin phaseolotoxin by Pseudomonas syringae pv. phaseolicola depends on the autoregulated expression of the phtABC genes	10.1371/journal.pone.0178441
+605	  The pseudomonas quinolone signal (PQS) balances life and death in Pseudomonas aeruginosa populations	The Pseudomonas Quinolone Signal (PQS) Balances Life and Death in Pseudomonas aeruginosa Populations	10.1371/journal.ppat.1000166
+606	  Pyrrolnitrin from Burkholderia cepacia: antibiotic activity against fungi and novel activities against streptomycetes	Pyrrolnitrin from Burkholderia cepacia: antibiotic activity against fungi and novel activities against streptomycetes	10.1046/j.1365-2672.1998.00473.x
+607	  Quinolobactin	Synthesis and iron-binding properties of quinolobactin, a siderophore from a pyoverdine-deficient Pseudomonas fluorescens	10.1007/s10534-004-1205-0
+608	   Biosynthesis of rhizocticins	Biosynthesis of Rhizocticins, Antifungal Phosphonate Oligopeptides Produced by Bacillus subtilis ATCC6633	10.1016/j.chembiol.2009.11.017
+609	   Roseoflavin is a natural antibacterial compound that binds to FMN riboswitches and regulates gene expression	Roseoflavin is a natural antibacterial compound that binds to FMN riboswitches and regulates gene expression	10.4161/rna.6.2.7727
+610	  Xanthothricin	Effect of xanthothricin on the respiratory chain	10.1016/0014-5793(74)80326-1
+611	  Dual function of tropodithietic acid as antibiotic and signaling molecule in global gene regulation of the probiotic bacterium Phaeobacter inhibens	Dual function of tropodithietic acid as antibiotic and signaling molecule in global gene regulation of the probiotic bacterium Phaeobacter inhibens	10.1038/s41598-017-00784-7
+612	  Resistance and tolerance to tropodithietic acid	Resistance and Tolerance to Tropodithietic Acid, an Antimicrobial in Aquaculture, Is Hard To Select	10.1128/aac.01222-10
+613	   Antibiotic action of pyocyanin	Antibiotic action of pyocyanin	10.1128/aac.20.6.814
+614	   Pyocyanin as anti-tyrosinase and anti tinea corporis: A novel treatment study	Pyocyanin as anti-tyrosinase and anti tinea corporis: A novel treatment study	10.1016/j.micpath.2016.09.013
+615	   Biosynthesis of fosfazinomycin is a convergent process	Biosynthesis of fosfazinomycin is a convergent process	10.1039/c4sc03095h
+616	   Aerobactin production as a virulence factor: a reevaluation	Aerobactin production as a virulence factor: A reevaluation	10.1007/bf01964239
+617	   Adsorption of hydroxamate siderophores and EDTA on goethite in the presence of the surfactant sodium dodecyl sulfate	Adsorption of hydroxamate siderophores and EDTA on goethite in the presence of the surfactant sodium dodecyl sulfate	10.1186/1467-4866-10-5
+618	   Role of siderophore biosynthesis in virulence of Staphylococcus aureus: identification and characterization of genes involved in production of a siderophore	Role of Siderophore Biosynthesis in Virulence of<i>Staphylococcus aureus</i>            : Identification and Characterization of Genes Involved in Production of a Siderophore	10.1128/iai.72.1.29-37.2004
+619	   Vibriobactin	Total synthesis of vibriobactin	10.1016/s0040-4020(01)96492-0
+620	   Vibrioferrin	Total Synthesis of the Siderophore Vibrioferrin.	10.1248/cpb.47.459
+621	  Studies on novel bacterial translocase I inhibitors	Studies on Novel Bacterial Translocase I Inhibitors, A-500359s	10.1038/ja.2006.81
+622	   High-level pacidamycin resistance in Pseudomonas aeruginosa is mediated by an opp oligopeptide permease encoded by the opp-fabI operon	High-Level Pacidamycin Resistance in Pseudomonas aeruginosa Is Mediated by an Opp Oligopeptide Permease Encoded by the<i>opp-fabI</i>            Operon	10.1128/aac.01198-13
+623	  Isolation of new polyketide metabolites	Isolation of new polyketide metabolites, linearolides A and B, from Streptomyces sp. RK95-74	10.1038/ja.2013.19
+624	  Characterization of the azinomycin B biosynthetic gene cluster revealing a different iterative type I polyketide synthase for naphthoate biosynthesis	Characterization of the Azinomycin B Biosynthetic Gene Cluster Revealing a Different Iterative Type I Polyketide Synthase for Naphthoate Biosynthesis	10.1016/j.chembiol.2008.05.021
+625	  Syntheses and activities of some bactobolin derivatives	Syntheses and activities of some bactobolin derivatives.	10.7164/antibiotics.45.735
+626	  Antimicrobial activities of novel bipyridine compounds produced by a new strain of Saccharothrix isolated from Saharan soil	Antimicrobial activities of novel bipyridine compounds produced by a new strain of Saccharothrix isolated from Saharan soil	10.1016/j.jsps.2018.07.019
+627	  Biosynthesis of crocacin involves an unusual hydrolytic release domain showing similarity to condensation domains	Biosynthesis of Crocacin Involves an Unusual Hydrolytic Release Domain Showing Similarity to Condensation Domains	10.1016/j.chembiol.2014.05.012
+628	  Biotransformation of cystothiazole A	Total Synthesis of (+)-Cystothiazole A	10.1021/ol035600s.s001
+629	  Genetic and Functional Analyses of the DKxanthene Biosynthetic Gene Cluster from Myxococcus stipitatus DSM 14675	Identification of the Phenalamide Biosynthetic Gene Cluster in Myxococcus stipitatus DSM 14675	10.4014/jmb.1603.03023
+630	  Synthesis	Synthesis / Synthesis	10.1515/9783035609516-020
+631	  FK520 interacts with the discrete intrahelical amino acids of multidrug transporter Cdr1 protein and acts as antagonist to selectively chemosensitize azole-resistant clinical isolates of Candida albicans	FK520 interacts with the discrete intrahelical amino acids of multidrug transporter Cdr1 protein and acts as antagonist to selectively chemosensitize azole-resistant clinical isolates of<i>Candida albicans</i>	10.1111/1567-1364.12149
+632	  New antitumor substances	New antitumor substances of natural origin	10.1016/s0305-7372(81)80006-0
+633	  Molecular insights into the biosynthesis of guadinomine: a type III secretion system inhibitor	Molecular Insights into the Biosynthesis of Guadinomine: A Type III Secretion System Inhibitor	10.1021/ja308622d
+634	  Structure and biosynthesis of heat-stable antifungal factor (HSAF)	Spermidine-Regulated Biosynthesis of Heat-Stable Antifungal Factor (HSAF) in Lysobacter enzymogenes OH11	10.3389/fmicb.2018.02984
+635	  Biosynthesis of the structurally unique polycyclopropanated polyketide-nucleoside hybrid jawsamycin (FR-900848)	Biosynthesis of the Structurally Unique Polycyclopropanated Polyketide-Nucleoside Hybrid Jawsamycin (FR-900848)	10.1002/ange.201402623
+636	  Nonribosomal peptide synthase gene clusters for lipopeptide biosynthesis in Bacillus subtilis 916 and their phenotypic functions	Nonribosomal Peptide Synthase Gene Clusters for Lipopeptide Biosynthesis in Bacillus subtilis 916 and Their Phenotypic Functions	10.1128/aem.02921-14
+637	  Unusual Biosynthesis and Structure of Locillomycins from Bacillus subtilis 916	Unusual Biosynthesis and Structure of Locillomycins from Bacillus subtilis 916	10.1128/aem.01639-15
+638	  Expansion of Antibacterial Spectrum of Muraymycins toward Pseudomonas aeruginosa	Expansion of Antibacterial Spectrum of Muraymycins toward <i>Pseudomonas aeruginosa</i>	10.1021/ml5000096
+639	  	 	 
+640	  The myxalamids	Mutasynthesis-Derived Myxalamids and Origin of the Isobutyryl-CoA Starter Unit of Myxalamid B	10.1002/cbic.200700401
+641	  Identification of nocobactin NA biosynthetic gene clusters in Nocardia farcinica	Identification of Nocobactin NA Biosynthetic Gene Clusters in<i>Nocardia farcinica</i>	10.1128/jb.00897-10
+642	   Biosynthesis of the antifungal haterumalide	Synthesis of Haterumalide NC	10.1055/s-0028-1088087
+643	  Biological effects of paenilamicin	Biological effects of paenilamicin, a secondary metabolite antibiotic produced by the honey bee pathogenic bacterium<i>Paenibacillus larvae</i>	10.1002/mbo3.195
+644	  Identification and characterization of the biosynthetic gene cluster of polyoxypeptin A	Identification and characterization of the biosynthetic gene cluster of polyoxypeptin A, a potent apoptosis inducer	10.1186/1471-2180-14-30
+645	   Towards a new tuberculosis drug: pyridomycin - nature's isoniazid	Towards a new tuberculosis drug: pyridomycin – nature's isoniazid	10.1002/emmm.201201689
+646	   Rapamycin exerts antifungal activity in vitro and in vivo against Mucor circinelloides via FKBP12-dependent inhibition of Tor	Rapamycin Exerts Antifungal Activity<i>In Vitro</i>            and<i>In Vivo</i>            against Mucor circinelloides via FKBP12-Dependent Inhibition of Tor	10.1128/ec.05284-11
+647	   Cytotoxic simplified tubulysin analogues	Cytotoxic Simplified Tubulysin Analogues	10.1021/jm701321p
+648	  Target range of zwittermicin A	Target Range of Zwittermicin A, an Aminopolyol Antibiotic from Bacillus cereus	10.1007/s002849900328
+649	  Dynemicins O	Highly Convergent Route to Dynemicins of Wide Structural Variability. Enantioselective Synthesis of Quinone Imine Precursors to Natural and Nonnatural Dynemicins	10.1021/ja00104a041
+650	   TLN-05220	TLN-05220, TLN-05223, new Echinosporamicin-type antibiotics, and proposed revision of the structure of bravomicins	10.1038/ja.2009.77
+651	  Streptomyces sp	Reclassification of Streptomyces hygroscopicus strains as Streptomyces aldersoniae sp. nov., Streptomyces angustmyceticus sp. nov., comb. nov., Streptomyces ascomycinicus sp. nov., Streptomyces decoyicus sp. nov., comb. nov., Streptomyces milbemycinicus sp. nov. and Streptomyces wellingtoniae sp. nov.	10.1099/ijs.0.012161-0
+652	   Structural modification of herboxidiene by substrate-flexible cytochrome P450 and glycosyltransferase	Structural modification of herboxidiene by substrate-flexible cytochrome P450 and glycosyltransferase	10.1007/s00253-015-6431-6
+653	  Antimicrobial and antiproliferative prospective of kosinostatin - a secondary metabolite isolated from Streptomyces sp	Antimicrobial and antiproliferative prospective of kosinostatin – a secondary metabolite isolated from Streptomyces sp.	10.1016/j.jpha.2014.11.002
+654	  Insights in the glycosylation steps during biosynthesis of the antitumor anthracycline cosmomycin: characterization of two glycosyltransferase genes	Insights in the glycosylation steps during biosynthesis of the antitumor anthracycline cosmomycin: characterization of two glycosyltransferase genes	10.1007/s00253-006-0453-z
+655	 	 	 
+656	  Draft Genome Sequence of Rhodococcus erythropolis JCM 6824	Draft Genome Sequence of Rhodococcus erythropolis JCM 6824, an Aurachin RE Antibiotic Producer	10.1128/genomea.01026-14
+657	  Biosynthesis of a natural polyketide-isoprenoid hybrid compound	Biosynthesis of a Natural Polyketide-Isoprenoid Hybrid Compound, Furaquinocin A: Identification and Heterologous Expression of the Gene Cluster	10.1128/jb.188.4.1236-1244.2006
+658	   Synthesis of Albicidin Derivatives: Assessing the Role of N-terminal Acylation on the Antibacterial Activity	Synthesis of Albicidin Derivatives: Assessing the Role of N-terminal Acylation on the Antibacterial Activity	10.1002/cmdc.201600231
+659	  Activity of and development of resistance to corallopyronin A	Activity of and Development of Resistance to Corallopyronin A, an Inhibitor of RNA Polymerase	10.1128/aac.01742-10
+660	  The biosynthetic genes for disorazoles	The biosynthetic genes for disorazoles, potent cytotoxic compounds that disrupt microtubule formation	10.1016/j.gene.2005.06.003
+661	  New polyenic antibiotics active against gram-positive and gram-negative bacteria	New polyenic antibiotics active against Gram-positive and Gram-negative bacteria. IV. Structural elucidation of enacyloxin IIa.	10.7164/antibiotics.45.470
+662	   Lipopeptides as the antifungal and antibacterial agents: applications in food safety and therapeutics	Lipopeptides as the Antifungal and Antibacterial Agents: Applications in Food Safety and Therapeutics	10.1155/2015/473050
+663	  The structure of ribosome-lankacidin complex reveals ribosomal sites for synergistic antibiotics	The structure of ribosome-lankacidin complex reveals ribosomal sites for synergistic antibiotics	10.1073/pnas.0914100107
+664	  Action of mycosubtilin	FenF: Servicing the Mycosubtilin Synthetase Assembly Linein trans	10.1002/cbic.200600575
+665	 2017	AEBMS-2017, ICCET-2017, BBMPS-17, UPACEE-17, LHESS-17, TBFIS-2017, IC4E-2017, AMLIS-2017 &amp; BEFM-2017	10.15242/heaig.
+666	   The spliceosome as target for anticancer treatment	The spliceosome as target for anticancer treatment	10.1038/sj.bjc.6604801
+667	  Thiomarinol	Configurational studies on thiomarinol.	10.7164/antibiotics.47.851
+668	   Occurrence and epidemiology of resistance to virginiamycin and streptogramins	Occurrence and epidemiology of resistance to virginiamycin and streptogramins	10.1093/jac/43.2.171
+669	  Himastatin	Bioinspired himastatin synthesis	10.1021/cen-10011-scicon7
+670	  A hybrid non-ribosomal peptide/polyketide synthetase containing fatty-acyl ligase (FAAL) synthesizes the beta-amino fatty acid lipopeptides puwainaphycins in the Cyanobacterium Cylindrospermum alatosporum	A Hybrid Non-Ribosomal Peptide/Polyketide Synthetase Containing Fatty-Acyl Ligase (FAAL) Synthesizes the β-Amino Fatty Acid Lipopeptides Puwainaphycins in the Cyanobacterium Cylindrospermum alatosporum	10.1371/journal.pone.0111904
+671	   Analytical chemistry: Virulence caught green-handed	Virulence caught green-handed	10.1038/nchem.1583
+672	  New antibiotics	NEW ANTIBIOTICS	10.1007/bf03288539
+673	  Genomics-driven discovery of taiwachelin	Genomics-driven discovery of taiwachelin, a lipopeptide siderophore from Cupriavidus taiwanensis	10.1039/c2ob26296g
+674	  Colistin: an antibiotic and its role in multiresistant Gram-negative infections	Use of colistin to treat multiresistant Gram-negative infections in a specialised burns unit	10.1016/j.burns.2006.10.276
+675	  Studies on the biological activity of stubomycin	Studies on the biological activity of stubomycin.	10.7164/antibiotics.36.301
+676	  Total Synthesis and Antibacterial Study of Cyclohexapeptides Desotamide B	Total Synthesis and Antibacterial Study of Cyclohexapeptides Desotamide B, Wollamide B and Their Analogs	10.1002/cbdv.201700414
+677	  	 	 
+678	  Biosynthesis of akaeolide and lorneic acids and annotation of type I polyketide synthase gene clusters in the genome of Streptomyces sp	Biosynthesis of Akaeolide and Lorneic Acids and Annotation of Type I Polyketide Synthase Gene Clusters in the Genome of Streptomyces sp. NPS554	10.3390/md13010581
+679	   Directed biosynthesis of new indolmycins	Directed biosynthesis of new indolmycins.	10.7164/antibiotics.34.551
+680	   Teixobactin	Total Synthesis of Teixobactin	10.1007/978-981-10-8806-3_2
+681	  Pseudomycoicidin	Pseudomycoicidin, a Class II Lantibiotic from Bacillus pseudomycoides	10.1128/aem.00299-15
+682	  Isolation and structure determination of new siderophore albachelin from Amycolatopsis alba	Isolation and structure determination of new siderophore albachelin from Amycolatopsis alba	10.1007/s10534-015-9842-z
+683	   Nataxazole	Genome Mining of<i>Streptomyces</i>sp. Tü 6176: Characterization of the Nataxazole Biosynthesis Pathway	10.1002/cbic.201500153
+684	  Biosynthesis of the anti-infective marformycins featuring pre-NRPS assembly line N-formylation and O-methylation and post-assembly line C-hydroxylation chemistries	Biosynthesis of the Anti-infective Marformycins Featuring Pre-NRPS Assembly Line <i>N</i>-Formylation and <i>O</i>-Methylation and Post-Assembly Line <i>C</i>-Hydroxylation Chemistries	10.1021/acs.orglett.5b00389
+685	  PreQ0 base	Robust Synthesis and Crystal-Structure Analysis of 7-Cyano-7-deazaguanine (PreQ0 Base) and 7-(Aminomethyl)-7-deazaguanine (PreQ1 Base)	10.1002/hlca.200590201
+686	   Targeted metagenomics: finding rare tryptophan dimer natural products in the environment	Targeted Metagenomics: Finding Rare Tryptophan Dimer Natural Products in the Environment	10.1021/jacs.5b01968
+687	  Elucidation of salicylate attachment in celesticetin biosynthesis opens the door to create a library of more efficient hybrid lincosamide antibiotics	Elucidation of salicylate attachment in celesticetin biosynthesis opens the door to create a library of more efficient hybrid lincosamide antibiotics	10.1039/c6sc04235j
+688	 	 	 
+689	   Feglymycin is an inhibitor of the enzymes MurA and MurC of the peptidoglycan biosynthesis pathway	Feglymycin is an Inhibitor of the Enzymes MurA and MurC of the Peptidoglycan Biosynthesis Pathway	10.1002/cbic.201100120
+690	  Thiolactomycin	Thiolactomycin	10.1358/dof.1983.008.11.700074
+691	  Chaxamycins A-D	Crotylboron-Based Synthesis of the Polypropionate Units of Chaxamycins A/D, Salinisporamycin, and Rifamycin S	10.1021/jo3008226
+692	  Maklamicin	Synthetic strategies toward the decalin motif of maklamicin and related spirotetronates	10.1039/c4qo00332b
+693	  Characterization of the Antimicrobial Peptide Penisin	Characterization of the Antimicrobial Peptide Penisin, a Class Ia Novel Lantibiotic from Paenibacillus sp. Strain A3	10.1128/aac.01813-15
+694	  Characterization of the Biosynthetic Gene Cluster for Benzoxazole Antibiotics A33853 Reveals Unusual Assembly Logic	Characterization of the Biosynthetic Gene Cluster for Benzoxazole Antibiotics A33853 Reveals Unusual Assembly Logic	10.1016/j.chembiol.2015.09.005
+695	  A new cyclizidine analog-JBIR-102-from Saccharopolyspora sp	A new cyclizidine analog—JBIR-102—from Saccharopolyspora sp. RL78 isolated from mangrove soil	10.1038/ja.2011.99
+696	  Omics based approach for biodiscovery of microbial natural products in antibiotic resistance era	Omics based approach for biodiscovery of microbial natural products in antibiotic resistance era	10.1016/j.jgeb.2018.01.006
+697	   Cremeomycin	Discovery of a Diazo-Forming Enzyme in Cremeomycin Biosynthesis	10.1021/acs.joc.8b00367.s001
+698	  Two of a Kind--The Biosynthetic Pathways of Chlorotonil and Anthracimycin	Two of a Kind—The Biosynthetic Pathways of Chlorotonil and Anthracimycin	10.1021/acschembio.5b00523
+699	  Anthracimycin B	Asymmetric Total Synthesis of the Naturally Occurring Antibiotic Anthracimycin	10.1021/acs.orglett.0c01913.s001
+700	  Lomofungin	Mode of Action of Lomofungin	10.1128/am.18.1.35-40.1969
+701	   Genome-Directed Lead Discovery: Biosynthesis	Targeted antibiotic discovery through biosynthesis-associated resistance determinants: target directed genome mining	10.1080/1040841x.2019.1590307
+702	  Lipopeptide biosurfactant viscosin enhances dispersal of Pseudomonas fluorescens SBW25 biofilms	Lipopeptide biosurfactant viscosin enhances dispersal of Pseudomonas fluorescens SBW25 biofilms	10.1099/mic.0.000191
+703	  Myxochelin A	Myxochelin A, a cytotoxic antibiotic from the myxobacterium Angiococcus disciformis	10.3742/opem.2002.2.1.064
+704	  Discovery of cahuitamycins as biofilm inhibitors derived from a convergent biosynthetic pathway	Discovery of cahuitamycins as biofilm inhibitors derived from a convergent biosynthetic pathway	10.1038/ncomms10710
+705	  A genomics-led approach to deciphering the mechanism of thiotetronate antibiotic biosynthesis	A genomics-led approach to deciphering the mechanism of thiotetronate antibiotic biosynthesis	10.1039/c5sc03059e
+706	   Isolation and structure of antibiotic U-68	ISOLATION, CHARACTERIZATION, AND STRUCTURE OF RABELOMYCIN, A NEW ANTIBIOTIC	10.7164/antibiotics.23.437
+707	  Carbamidocyclophanes A-E	Anti-MRSA-acting carbamidocyclophanes H–L from the Vietnamese cyanobacterium Nostoc sp. CAVN2	10.1038/ja.2014.118
+708	  PM100117 and PM100118	PM100117 and PM100118, new antitumor macrolides produced by a marine Streptomyces caniferus GUA-06-05-006A	10.1038/ja.2015.121
+709	   Ralstonia solanacearum lipopeptide induces chlamydospore development in fungi and facilitates bacterial entry into fungal tissues	Ralstonia solanacearum lipopeptide induces chlamydospore development in fungi and facilitates bacterial entry into fungal tissues	10.1038/ismej.2016.32
+710	  BE-24566B	BE-24566B, a New Antibiotic Produced by Streptomyces violaceusniger.	10.7164/antibiotics.48.1506
+711	  Discovery Strategies of Bioactive Compounds Synthesized by Nonribosomal Peptide Synthetases and Type-I Polyketide Synthases Derived from Marine Microbiomes	Discovery Strategies of Bioactive Compounds Synthesized by Nonribosomal Peptide Synthetases and Type-I Polyketide Synthases Derived from Marine Microbiomes	10.3390/md14040080
+712	   A tryptophan 6-halogenase and an amidotransferase are involved in thienodolin biosynthesis	A Tryptophan 6-Halogenase and an Amidotransferase Are Involved in Thienodolin Biosynthesis	10.1002/cbic.201400016
+713	   Uncialamycin	Uncialamycin	10.1016/b978-1-78548-150-5.50002-3
+714	  Ribosome engineering and fermentation optimization leads to overproduction of tiancimycin A	Ribosome engineering and fermentation optimization leads to overproduction of tiancimycin A, a new enediyne natural product from <i>Streptomyces</i> sp. CB03234	10.1007/s10295-018-2014-8
+715	  A new antifungal macrolide component	A New Antifungal Macrolide Component, Brasilinolide B, Produced by Nocardia brasiliensis.	10.7164/antibiotics.53.70
+716	  Cloning and identification of saprolmycin biosynthetic gene cluster from Streptomyces sp	Cloning and identification of saprolmycin biosynthetic gene cluster from <i>Streptomyces</i> sp. TK08046	10.1080/09168451.2016.1196574
+717	  JBIR-76 and JBIR-77	JBIR-76 and JBIR-77, modified naphthoquinones from Streptomyces sp. RI-77	10.1038/ja.2015.135
+718	   The synthesis of nucleoside sulfamates related to nucleocidin	Synthesis of nucleoside sulfamates related to nucleocidin	10.1021/ja00714a035
+719	  Characterization of Cichopeptins	Characterization of Cichopeptins, New Phytotoxic Cyclic Lipodepsipeptides Produced by <i>Pseudomonas cichorii</i> SF1-54 and Their Role in Bacterial Midrib Rot Disease of Lettuce	10.1094/mpmi-03-15-0061-r
+720	  Pinensins: the first antifungal lantibiotics	Pinensins: The First Antifungal Lantibiotics	10.1002/anie.201500927
+721	  Human commensals producing a novel antibiotic impair pathogen colonization	Human commensals producing a novel antibiotic impair pathogen colonization	10.1038/nature18634
+722	  Teichomycins	Teichomycins, new antibiotics from Actinoplanes teichomyceticus nov. sp. II. Extraction and chemical characterization.	10.7164/antibiotics.31.170
+723	  Aldgamycins J-O	A Single Gene Cluster for Chalcomycins and Aldgamycins: Genetic Basis for Bifurcation of Their Biosynthesis	10.1002/cbic.201600118
+724	   C1027 chromophore	C1027 Chromophore, a Potent New Enediyne Antitumor Antibiotic, Induces Sequence-Specific Double-Strand DNA Cleavage	10.1021/bi00185a036
+725	  A new macromolecular antitumor antibiotic	A new macromolecular antitumor antibiotic, C-1027. III. Antitumor activity.	10.7164/antibiotics.42.1294
+726	  Biosynthetic Studies of Telomycin Reveal New Lipopeptides with Enhanced Activity	Biosynthetic Studies of Telomycin Reveal New Lipopeptides with Enhanced Activity	10.1021/jacs.5b01794
+727	   Discovery and Characterization of Bicereucin	Discovery and Characterization of Bicereucin, an Unusual dAmino Acid-Containing Mixed Two-Component Lantibiotic	10.1021/jacs.6b02513.s001
+728	  Xanthoferrin	Xanthoferrin Siderophore Estimation from the Cell-free Culture Supernatants of Different Xanthomonas Strains by HPLC	10.21769/bioprotoc.2410
+729	  Characterization of Three Tailoring Enzymes in Dutomycin Biosynthesis and Generation of a Potent Antibacterial Analogue	Characterization of Three Tailoring Enzymes in Dutomycin Biosynthesis and Generation of a Potent Antibacterial Analogue	10.1021/acschembio.6b00245.s001
+730	   Dutomycin	The structure of dutomycin	10.1107/s0108767378096191
+731	  Total Syntheses of Cystobactamids and Structural Confirmation of Cystobactamid 919-2	Total Syntheses of Cystobactamids and Structural Confirmation of Cystobactamid 919‐2	10.1002/ange.201705387
+732	   DNA replication proteins as potential targets for antimicrobials in drug-resistant bacterial pathogens	DNA replication proteins as potential targets for antimicrobials in drug-resistant bacterial pathogens	10.1093/jac/dkw548
+733	  Biosynthesis of the antimicrobial cyclic lipopeptides nunamycin and nunapeptin by Pseudomonas fluorescens strain In5 is regulated by the LuxR-type transcriptional regulator Nun Microbiologyopen 2017	Biosynthesis of the antimicrobial cyclic lipopeptides nunamycin and nunapeptin by<i>Pseudomonas fluorescens</i>strain In5 is regulated by the LuxR-type transcriptional regulator NunF	10.1002/mbo3.516
+734	  Bacteriocins of gram-positive bacteria	Bacteriocins of gram-positive bacteria	10.1128/mr.59.2.171-200.1995
+50	  	 	 
+77	  Biosynthesis Chemical Structure	Lipids — Nomenclature, structure, biosynthesis, and chemical synthesis	10.1007/978-1-4615-4131-8_2
+76	   Identification of Functions Affecting Predator-Prey Interactions between Myxococcus xanthus and Bacillus subtilis	Identification of Functions Affecting Predator-Prey Interactions between Myxococcus xanthus and Bacillus subtilis	10.1128/jb.00575-16
+28	  7-O-malonyl macrolactin A	Total Synthesis of (−)-Macrolactin A	10.1021/ja963543a
+55	   Fredericamycin A	Synthesis of (.+-.)-fredericamycin A	10.1021/ja00282a042
+63	   Characterization of Streptomyces argillaceus genes encoding a polyketide synthase involved in the biosynthesis of the antitumor mithramycin	Characterization of Streptomyces argillaceus genes encoding a polyketide synthase involved in the biosynthesis of the antitumor mithramycin	10.1016/0378-1119(96)00029-7
+78	  	 	 

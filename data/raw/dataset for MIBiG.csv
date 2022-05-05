@@ -1,0 +1,709 @@
+Name,Antibacterial,Antibacterial target type,Antifungal,Antitumor or Cytotoxic,Other Activity
+abyssomicin,yes,gram pos,,,
+aurafuron,,,yes,yes,
+aureothin,yes,"gram pos, gram neg",yes,,
+avilamycin,yes,gram pos,,,
+bafilomycin,yes,gram pos,yes,,
+chlorothricin,yes,gram pos,,,
+erythromycin,yes,"gram pos, gram neg",,,
+Kedarcidin,yes,gram pos,,yes,
+lactimidomycin,,,yes,yes,
+neocarzinostatin,yes,gram pos,,yes,
+nystatin,,,yes,,
+pactamycin,yes,"gram pos, gram neg",yes,yes,
+salinomycin,yes,gram pos,,,
+soraphen,,,yes,,
+spirangien,,,yes,yes,
+stambomycin,yes,gram pos,,yes,
+stigmatellin,,,yes,,
+tautomycetin,,,yes,yes,
+tautomycin,,,yes,yes,
+tiacumicin,yes,gram pos,,,
+9-methylstreptimidone,,,yes,yes,
+bongkrekic acid,,,yes,yes,
+cycloheximide,no,,yes,,
+difficidin,yes,gram neg,,,
+migrastatin,,,yes,yes,
+elansolid,yes,gram pos,,yes,
+etnangien,yes,gram pos,,,
+macrolactin,yes,gram pos,yes,yes,
+sorangicin,yes,"gram pos, gram neg",,,
+asukamycin,yes,gram pos,yes,yes,
+saxitoxin,,,,,neurotoxin
+anatoxin,,,,,neurotoxin
+actinorhodin,yes,gram pos,,,
+alnumycin,yes,gram pos,,yes,
+aranciamycin,yes,gram pos,,yes,
+arenimycin,yes,gram pos,,yes,
+arimetamycin,,,,yes,
+arixanthomycin,yes,gram pos,,yes,
+Auricin,yes,gram pos,,,
+benastatin,yes,gram pos,,,
+chartreusin,yes,gram pos,,yes,
+chromomycin,yes,gram pos,yes,yes,
+cinerubin,yes,gram pos,,yes,
+colabomycin,yes,gram pos,,,
+elloramycin,,,,yes,
+enterocin,yes,gram pos,,,
+arthrofactin,,,,,surfactant
+aeruginosin,,,,,Protease inhibitor
+fredericamycin,yes,gram pos,yes,yes,
+granaticin,yes,gram pos,,,
+grincamycin,,,,yes,
+griseorhodin,,,,yes,
+arylomycin,yes,"gram pos, gram neg",,,
+bromoalterochromide,yes,,,yes,
+landomycin,yes,,,yes,
+lomaiviticin,yes,gram pos,,yes,
+mithramycin,yes,gram pos,,yes,
+nogalamycin,yes,gram pos,,yes,
+oviedomycin,,,,yes,
+rabelomycin,yes,gram pos,,,
+resistomycin,yes,"gram pos, gram neg",yes,yes,
+saquayamycin,yes,gram pos,,yes,
+SF2575,yes,gram pos,,yes,
+steffimycin,yes,gram pos,,yes,
+tetarimycin,yes,gram pos,,,
+tetracenomycin,yes,gram pos,,yes,
+cetoniacytone,,,,yes,
+A40926,yes,"gram pos, gram neg",,,
+A-47934,yes,gram pos,,,
+myxoprincomide,,,,,predation
+orfamide,,,yes,,"Insecticide, surfactant"
+ristomycin,yes,gram pos,,,
+serobactin,,,,,siderophore
+sessilin,,,yes,,
+shinorine,,,,,UV protection
+stenothricin,yes,"gram pos, gram neg",,,
+taromycin,yes,gram pos,,,
+teicoplanin,yes,gram pos,,,
+thanamycin,,,yes,,
+thiocoraline,yes,gram pos,,yes,
+tolaasin,,,yes,,
+valinomycin,yes,gram pos,yes,yes,
+griseoviridin,yes,gram pos,yes,,
+WLIP,yes,gram pos,yes,,
+xantholysin,yes,"gram pos, gram neg",yes,,
+Xenoamicin,no,,no,,Anti-plasmodium
+bottromycin,yes,gram pos,,,
+prenylagaramide,no,,,,
+tenuecyclamide,yes,,,,
+trunkamide,,,,yes,
+aeruginosamide,,,,yes,
+circularin,yes,,,,
+cinnamycin,yes,gram pos,,,
+phenalinolactone,yes,gram pos,,,
+2-methylisoborneol,,,,,Taste/odor
+geosmin,,,,,Taste/odor
+lactimidomycin,,,yes,yes,
+hassallidin,,,yes,,
+eponemycin,,,,yes,
+malleobactin,,,,,siderophore
+hormaomycin,yes,gram pos,,,
+luminmycin,,,,yes,
+fimsbactin,,,,,siderophore
+cichofactin,yes,,yes,,
+anabaenopeptin,,,,,Protease inhibitor
+leupyrrin,,,yes,,
+massetolide,yes,,yes,,
+lyngbyatoxin,,,,yes,
+cereulide,,,,,
+epoxomicin,,,,yes,
+grincamycin,,,,yes,
+cephamycin,yes,"gram pos, gram neg",,,
+CDA,yes,gram pos,,,
+entianin,yes,gram pos,,,
+epilancin,yes,gram pos,,,
+ericin,yes,gram pos,,,
+geobacillin,yes,gram pos,,,
+haloduracin,yes,gram pos,,,
+lacticin,yes,gram pos,,,
+macedocin,yes,gram pos,,,
+microbisporicin,yes,gram pos,,,
+nisin,yes,gram pos,,,
+planosporicin,yes,gram pos,,,
+SapB,,,,,morphogenesis
+subtilin,yes,gram pos,,,
+subtilomycin,yes,"gram pos, gram neg",yes,,
+clostridiolysin,,,,,toxin
+streptolysin,,,,yes,
+plantazolicin,yes,gram pos,,,
+cypemycin,yes,gram pos,,yes,
+grisemycin,no,,,,
+microviridin,,,,,Protease inhibitor
+polytheonamide,,,,yes,
+sporulation killing factor,yes,gram pos,,,
+cyclothiazomycin,,,yes,,
+GE2270,yes,gram pos,,,
+thiocillin,yes,gram pos,,,
+thiomuracin,yes,gram pos,,,
+TP-1161,yes,gram pos,,,
+amylocyclicin,yes,gram pos,,,
+lactocillin,yes,gram pos,,,
+welwitindolinone,yes,,yes,yes,
+cyclooctatin,,,,,Inhibitor of lysophospholipase
+validamycin,yes,,yes,,
+moenomycin,yes,gram pos,,,
+cepacin,,,,,Biofilm formation
+methylarcyriarubin,,,,yes,
+physostigmine,,,,,toxin
+rebeccamycin,yes,gram pos,yes,yes,
+violacein,yes,gram pos,,yes,
+clorobiocin,yes,gram pos,,,
+coumermycin,yes,"gram pos, gram neg",,,
+APE Ec,,,,,Antioxidant
+APE Vf,,,,,antioxidant
+alanylclavam,yes,,yes,,
+clavam,yes,,yes,,
+Clavulanic acid,yes,"gram pos, gram neg",,,Beta-lactamase inhibitor
+thienamycin,yes,"gram pos, gram neg",,,
+Gamma-butyrolactone,,,,,signaling
+tunicamycin,yes,gram pos,yes,,
+bromophenols,,,,yes,
+caryoynencin,yes,,yes,,
+chloramphenicol,yes,"gram pos, gram neg",,,
+desosamine,yes,,,,
+mitomycin,,,,yes,
+promysalin,yes,"gram pos, gram neg",,,
+endophenazine,yes,"gram pos, gram neg",yes,,
+fosfomycin,yes,"gram pos, gram neg",,,
+desferrioxamine,,,,,siderophore
+petrobactin,,,,,siderophore
+staphyloferrin,,,,,siderophore
+alpha-galactosylceramide,,,,,CD1d agonist
+napsamycin,yes,gram pos,,,
+amicetin,yes,"gram pos, gram neg",,,
+ajudazol,,,yes,,
+althiomycin,yes,"gram pos, gram neg",,,
+andrimid,yes,"gram pos, gram neg",,,
+antimycin,,,yes,yes,
+barbamide,,,,yes,
+bleomycin,,,,yes,
+burkholdac,,,,yes,
+C-1027,yes,gram pos,,yes,
+calyculin,,,,yes,
+chondramide,,,,yes,
+chondrochloren,yes,yes,,,
+cinnabaramide,,,,yes,
+collismycin,yes,yes,,,
+cryptophycin,,,yes,yes,
+curacin,,,,yes,
+cylindrospermopsin,,,,yes,
+didemnin,,,,yes,
+frontalamide,,,yes,,
+hectochlorin,,,yes,yes,
+jamaicamide,,,,,toxin
+lipomycin,yes,gram pos,,,
+lobophorin,yes,gram pos,,yes,
+lymphostin,,,,,immunosuppressant
+maduropeptin,yes,gram pos,,,
+melithiazol,,,yes,yes,
+micacocidin,yes,,,,
+microcystin,,,,yes,
+microsclerodermin,,,yes,,
+myxochromide,no,,no,,
+myxothiazol,,,yes,yes,
+myxovirescin,yes,"gram pos, gram neg",,,
+nostopeptolide,,,,,differentiation
+nostophycin,,,,yes,
+pellasoren,,,,yes,
+pyralomicin,yes,gram pos,,,
+salinosporamide,,,,yes,
+spiruchostatin,,,yes,yes,
+streptolydigin,yes,gram pos,,,
+tallysomycin,,,,yes,
+thuggacin,yes,gram pos,,,
+tirandamycin,yes,gram pos,,,
+xenocoumacin,yes,"gram pos, gram neg",,,
+zeamine,yes,"gram pos, gram neg",,,
+zorbamycin,,,,yes,
+polyketomycin,yes,gram pos,,yes,
+cylindrocyclophane,,,,yes,
+kendomycin,yes,"gram pos, gram neg",,yes,
+chivosazol,,,yes,yes,
+kirromycin,yes,"gram pos, gram neg",,,
+simocyclinone,yes,gram pos,,yes,
+liposidomycin,yes,gram pos,,,
+napyradiomycin,yes,gram pos,,,
+merochlorin,yes,gram pos,,,
+bacillaene,yes,gram neg,,,
+bacillomycin,,,yes,,
+fengycin,,,yes,,
+kalimantacin,yes,gram pos,,,
+leinamycin,yes,"gram pos, gram neg",,yes,
+malleilactone,yes,gram pos,,yes,
+onnamide,,,,yes,
+pederin,,,,yes,
+psymberin,,,,yes,
+rhizopodin,,,,yes,
+rhizoxin,,,,yes,
+thailanstatin,,,,yes,
+divergolide,yes,,,yes,
+burkholderic acid,,,,yes,
+ambiguine,yes,gram pos,yes,yes,
+taxlllaid,,,,,Anti-plasmodium
+marinacarboline,,,,yes,
+A201A,yes,"gram pos, gram neg",,,
+platensimycin,yes,gram pos,,,
+Cyclothiazomycin B,yes,gram pos,yes,,
+Cyclothiazomycin C,yes,gram pos,,,
+brabantamide,,,yes,,
+pamamycin,yes,gram pos,yes,yes,
+fusaricidin,,,yes,,
+polymyxin,yes,gram neg,,,
+cacibiocin,no,,,,
+platencin,yes,gram pos,,,
+marinopyrrole,yes,gram pos,,,
+nonadecene,,,,,cold stress
+heptadecene,,,,,cold stress
+livipeptin,,,,,Protease inhibitor
+Piericidin a1,,,yes,yes,
+Clostridiolysin s,,,,yes,
+Listeriolysin s,,,,yes,
+Chlorizidine a,,,,yes,
+streptomonomicin,yes,gram pos,,,
+mensacaricin,,,,yes,
+"UK-68,597",yes,gram pos,,,
+Rishirilide b,,,,,alpha2-macroglobulin inhibitor
+bacilysin,yes,"gram pos, gram neg",yes,,
+bacillibactin,,,,,siderophore
+nannocystin,,,yes,yes,
+marinophenazine,,,,yes,
+retimycin,,,,yes,
+salinamide,yes,"gram pos, gram neg",,,
+pseudopyronine,yes,gram pos,yes,yes,
+flavecins,yes,gram pos,,,
+rakicidin,,,,yes,
+BE-43547 A1-C2,,,,yes,
+BE-54017,,,,yes,
+cladoniamide,,,,yes,
+borregomycin,,,,yes,
+erdasporine,,,,yes,
+lazarimide,,,,yes,
+JBIR-100,yes,gram pos,yes,,
+argimycin,yes,,,,
+ikarugamycin,yes,gram pos,yes,,
+obafluorin,yes,,,,
+warkmycin,yes,gram pos,,yes,
+cervimycin,yes,gram pos,,,
+cystargolide,,,,yes,
+belactosin,,,,yes,
+actinonin,yes,"gram pos, gram neg",,,
+matlystatin,,,,,Collagenase inhibitor
+aculeximycin,yes,"gram pos, gram neg",yes,,
+ambruticin,,,yes,,
+amphotericin,,,yes,,
+Subtilosin a,yes,"gram pos, gram neg",,,
+angolamycin,yes,,,,
+ansamitocin,,,,yes,
+Megacin,yes,gram pos,,,
+apoptolidin,,,,yes,
+avermectin,,,,yes,
+calicheamicin,yes,"gram pos, gram neg",yes,yes,
+candicidin,,,yes,,
+chalcomycin,yes,gram pos,,,
+Concanamycin a,,,,yes,
+cremimycin,yes,gram pos,,,
+E-837,,,yes,,
+ECO-02301,,,yes,,
+ebelactone,,,yes,,
+elaiophylin,,,,yes,
+FD-891,,,,yes,
+filipin,,,yes,,
+fostriecin,,,,yes,
+geldanamycin,,,yes,yes,
+Gephyronic acid,,,yes,yes,
+herbimycin,,,,yes,herbicide
+hygrocin,yes,,yes,,
+incednine,,,,yes,
+jerangolid,,,yes,,
+kijanimicin,yes,gram pos,,,
+laidlomycin,yes,gram pos,,yes,
+lankamycin,yes,gram pos,,yes,
+lasalocid,yes,gram pos,,,
+marineosin,,,,yes,
+megalomicin,yes,"gram pos, gram neg",,,
+midecamycin,yes,"gram pos, gram neg",,,
+monensin,yes,gram pos,,,"Ionophore, antiparasite"
+mycinamicin,yes,gram pos,,,
+mycolactone,,,,yes,immunosuppressive
+nanchangmycin,yes,,,,
+natamycin,,,yes,,
+neocarzilin,,,,yes,
+niddamycin,yes,gram pos,,,
+nystatin-like Pseudonocardia polyene,,,yes,,
+oligomycin,,,yes,yes,
+Phoslactomycin b,,,yes,yes,
+pimaricin,,,yes,,
+pladienolide,,,,,yes
+pyoluteorin,,,yes,,
+pyrrolomycin,yes,gram pos,,,
+quartromicin,,,,,Antiviral
+reveromycin,,,yes,,
+rifamycin,yes,"gram pos, gram neg",,,
+rimocidin,,,yes,,
+rubradirin,yes,gram pos,,,
+Salinosporamide a,,,,yes,
+tautomycetin,,,,yes,
+Tetrocarcin a,yes,gram pos,,yes,
+tetronasin,yes,gram pos,yes,,
+tetronomycin,yes,gram pos,yes,,
+vicenistatin,,,,yes,
+basiliskamide,,,yes,,
+tartrolon,yes,gram pos,,yes,
+A-74528,,,,,antiviral
+aclacinomycin,,,,yes,
+azicemicin,yes,"gram pos, gram neg",,,
+bryostatin,,,,yes,
+chelocardin,yes,"gram pos, gram neg",,,
+chlortetracycline,yes,"gram pos, gram neg",,,
+chrysomycin,yes,gram pos,,yes,
+cosmomycin,,,,yes,
+curamycin,yes,gram pos,,,
+dactylocycline,yes,gram pos,,,
+daunorubicin,,,,yes,
+doxorubicin,,,,yes,
+erdacin,,,,,antioxidant
+FD-594,yes,gram pos,,yes,
+frenolicin,yes,gram pos,yes,,
+griseusin,,,,yes,
+hatomarubigin,,,,yes,
+hedamycin,yes,,,yes,
+jadomycin,yes,gram pos,,,
+kiamycin,,,,yes,
+lactomycin,yes,gram pos,,,
+lysolipin,yes,"gram pos, gram neg",,,
+macrotetrolide,yes,gram pos,,,
+medermycin,yes,"gram pos, gram neg",,yes,
+nonactin,yes,gram pos,yes,yes,
+oxytetracycline,yes,"gram pos, gram neg",,,
+pradimicin,,,yes,,
+prodigiosin,yes,gram pos,yes,yes,
+ravidomycin,,,yes,yes,
+rhodomycin,yes,gram pos,,yes,
+Spore pigment,,,,,Pigment
+urdamycin,yes,gram pos,,yes,
+xantholipin,yes,gram pos,yes,yes,
+"2,4-diacetylphloroglucinol",yes,gram pos,yes,,
+Phenolic lipids,,,,,Cyst formation
+L-2-amino-4-methoxy-trans-3-butenoic acid,yes,,,yes,
+A-503083,yes,,,,
+A54145,yes,gram pos,,,
+acinetobactin,,,,,siderophore
+acinetoferrin,,,,,siderophore
+actinomycin,yes,"gram pos, gram neg",yes,yes,
+amychelin,,,,,siderophore
+anthramycin,yes,,yes,yes,
+aureusimine,,,,,Virulence factor
+bacitracin,yes,gram pos,,,
+balhimycin,yes,gram pos,,,
+capreomycin,yes,"gram pos, gram neg",,,
+coelibactin,,,,,ionophore
+coelichelin,,,,,siderophore
+complestatin,Yes,gram pos,,,
+coronatine,,,,,phytotoxic
+corpeptin,yes,gram pos,,,
+daptomycin,yes,gram pos,,,
+echinomycin,yes,gram pos,yes,yes,
+echoside,,,,yes,
+enduracidin,yes,"gram pos, gram neg",,,
+enterobactin,,,,,siderophore
+entolysin,,,,,Swarming motility
+equibactin,,,,,siderophore
+erythrochelin,yes,gram pos,,,siderophore
+exochelin,,,,,Siderophore
+friulimicin,yes,gram pos,,,
+fuscachelin,,,,,Siderophore
+GE81112,yes,"gram pos, gram neg",,,
+glycopeptidolipid,,,,,membrane
+gobichelin,,,,,siderophore
+gramicidin,yes,"gram pos, gram neg",,,
+heterobactin,,,,,siderophore
+holomycin,yes,"gram pos, gram neg",yes,yes,
+indigoidine,yes,gram neg,,,
+JBIR-34,,,,,Radical scavanging
+kutzneride,,,yes,,
+lichenysin,yes,"gram pos, gram neg",,yes,
+lipstatin,,,,,Inhibitor of human pancreatic lipase
+lysobactin,yes,gram pos,,,
+mangotoxin,,,,,phytotoxic
+mannopeptimycin,yes,gram pos,,,
+mirubactin,,,,,siderophore
+naphthyridinomycin,yes,"gram pos, gram neg",,yes,
+nocardicin,yes,gram neg,,,
+nodularin,,,,,phytotoxin
+nostocyclopeptide,,,,yes,
+paenibacterin,yes,"gram pos, gram neg",,,
+paenibactin,,,,,siderophore
+pelgipeptin,yes,"gram pos, gram neg",yes,,
+plipastatin,,,yes,,
+porothramycin,yes,"gram pos, gram neg",,yes,
+pseudomonine,,,,,siderophore
+putisolvin,yes,,yes,,
+pyochelin,yes,"gram pos, gram neg",,,
+pyoverdin,,,,,siderophore
+quinocarcin,,,,yes,
+quinomycin,yes,gram pos,,yes,
+rhodochelin,,,,,siderophore
+ristocetin,yes,"gram pos, gram neg",,,
+safracin,,,,yes,
+Saframycin a,,,,yes,
+scabichelin,,,,,siderophore
+sibiromycin,yes,,,yes,
+streptothricin,yes,"gram pos, gram neg",,,
+SW-163,yes,gram pos,,yes,
+syringafactin,,,,,surfactant
+Syringolin a,,,,yes,
+syringomycin,,,,,phytotoxic
+syringopeptin,,,,,virulence
+thaxtomin,,,,,phytotoxic
+tilivalline,,,,,enterotoxin
+tomaymycin,,,,yes,
+tridecaptin,yes,gram neg,,,
+triostin a,,,,yes,
+turnerbactin,,,,,siderophore
+tyrocidine,yes,gram pos,,,
+vanchrobactin,,,,,siderophore
+vancomycin,yes,gram pos,,,
+vicibactin,,,,,siderophore
+viomycin,yes,,,,
+vulnibactin,,,,,siderophore
+WAP-8294A2,yes,gram pos,,,
+yatakemycin,,,yes,yes,
+yersiniabactin,,,,,siderophore
+Patellamide a,,,,yes,
+trichamide,no,,no,,
+Glycocin f,yes,gram pos,,,
+Acidocin b,yes,gram pos,,,
+carnocyclin,yes,gram pos,,,
+garvicin,yes,gram pos,,,
+Gassericin a,yes,gram pos,,,
+uberolysin,yes,,,,
+actagardine,yes,gram pos,,,
+amfs,,,,,morphogen
+bovicin hj50,yes,gram pos,,,signaling
+carnolysin,yes,gram pos,,,
+cerecidin,yes,gram pos,,,
+cytolysin,yes,gram pos,,yes,
+epicidin,yes,,,,
+gallidermin,yes,gram pos,,,
+lichenicidin,yes,gram pos,,,
+mersacidin,yes,gram pos,,,
+Michiganin a,yes,gram pos,,,
+mutacin,yes,,,,
+nukacin,yes,gram pos,,,
+paenibacillin,yes,gram pos,,,
+paenicidin,yes,gram pos,,,
+pep5,yes,gram pos,,,
+Ruminococcin a,yes,gram pos,,,
+salivaricin,yes,gram pos,,,
+Smb,yes,,,,
+streptin,yes,gram pos,,,
+Sublancin 168,yes,gram pos,,,
+Thermophilin 1277,yes,gram pos,,,
+goadsporin,yes,gram pos,,,
+microcin,yes,gram neg,,,
+astexin,yes,gram neg,,,
+capistruin,yes,gram neg,,,
+lariatin,yes,,,,
+colicin v,yes,gram neg,,,
+marinostatin,,,,,Protease inhibitor
+microviridin k,,,,,Peptidase inhibitor
+thuricin,yes,gram pos,,,
+GE37468,yes,gram pos,,,
+lactazole,no,,,,
+Micrococcin p1,yes,gram pos,,,
+nocathiacin,yes,gram pos,,,
+nosiheptide,yes,gram pos,,,
+siomycin,yes,"gram pos, gram neg",,yes,
+thiostrepton,yes,"gram pos, gram neg",,,
+coagulin,yes,gram pos,,,
+Plantaricin w,yes,gram pos,,,
+thuricin,yes,gram pos,,,
+astaxanthin,,,,,antioxidant
+Brasilicardin a,,,yes,yes,
+pentalenolactone,yes,"gram pos, gram neg",yes,,
+zeaxanthin,,,,,antioxidant
+isorenieratene,,,,,antioxidant
+diazepinomicin,yes,gram pos,,,
+acarbose,,,,,Glucosidase inhibitor
+apramycin,yes,"gram pos, gram neg",,,
+butirosin,yes,"gram pos, gram neg",,,
+fortimicin,yes,"gram pos, gram neg",,,
+gentamicin,yes,"gram pos, gram neg",,,
+Hygromycin a,yes,"gram pos, gram neg",,,
+istamycin,yes,"gram pos, gram neg",,,
+jinggangmycin,,,yes,,
+kanamycin,yes,"gram pos, gram neg",,,
+Kasugamycin,yes,"gram pos, gram neg",yes,,
+lividomycin,yes,"gram pos, gram neg",,,
+neomycin,yes,"gram pos, gram neg",,,
+Paromomycin,yes,"gram pos, gram neg",yes,,
+ribostamycin,yes,"gram pos, gram neg",,,
+sisomicin,yes,"gram pos, gram neg",,,
+spectinomycin,yes,"gram pos, gram neg",,,
+streptomycin,yes,"gram pos, gram neg",,,
+tobramycin,yes,"gram pos, gram neg",,,
+alginate,,,,,antioxidant
+Capsular polysaccharide,,,,,Extracelluar capsule
+Diutan polysaccharide,,,,,"Exopolysaccharide, biofilm formation"
+emulsan,,,,,bioemulsifier
+exopolysaccharide,,,,,Protective layer
+stewartan,,,,,"Biofilm, virulence factor"
+gellan,,,,,biofilm
+lipooligosaccharide,,,,,"Membrane, adhesion"
+lipopolysaccharide,,,,,membrane
+s-layer glycan,,,,,Cellular envelope
+Sphingan,,,,,Extracelluar capsule
+Colanic acid,,,,,extracellular
+xanthan,,,,,emulsifier
+galactoglucan,,,,,exopolysaccharide
+succinoglycan,,,,,emulsifier
+phosphonoglycans,,,,,exopolysaccharide
+AT2433,,,,yes,
+k-252a,,,,,
+staurosporine,,,yes,,
+xanthomonadin,,,,,pigment
+tabtoxin,,,,,phytotoxin
+albonoursin,yes,gram pos,,,
+ectoine,,,,,osmolyte
+eicosapentaenoic acid,,,,,membrane
+polyhydroxyalkanoate,,,,,carbon storage
+Teichuronic acid,,,,,Cell wall
+Heterocyst glycolipids,,,,,Protection against O2 penetration
+Mycolic acid,,,,,Cell envelope
+blasticidin,yes,"gram pos, gram neg",yes,,
+polyoxin,,,yes,,
+puromycin,yes,"gram pos, gram neg",,,
+toyocamycin,,,yes,yes,
+mildiomycin,,,yes,,
+arginomycin,yes,gram pos,yes,,
+3-methylarginine,yes,,,,
+bagremycin,yes,"gram pos, gram neg",yes,,
+citrulline,,,,,Arginine metabolism
+cycloserine,yes,"gram pos, gram neg",,,
+dehydrophos,yes,"gram pos, gram neg",,,
+FR-900098,yes,"gram pos, gram neg",,,antimalarial
+Heme d1,,,,,denitrification
+lincomycin,yes,gram pos,,,
+methylenomycin,yes,"gram pos, gram neg",,,
+Molybdenum cofactor,,,,,Nitrogen reduction
+phaseolotoxin,,,,,phytotoxin
+PQS,,,,,Signaling
+pyrrolnitrin,yes,gram pos,yes,,
+quinolobactin,,,,,siderophore
+rhizocticin,,,yes,,
+T3 toxin,,,,,neurotoxin
+toxoflavin,yes,"gram pos, gram neg",,,
+tropodithietic acid,yes,"gram pos, gram neg",,yes,signaling
+pyocyanine,yes,"gram pos, gram neg",yes,,
+fosfazinomycin,,,yes,,
+aerobactin,,,,,siderophore
+Desferrioxamin b,,,,,siderophore
+staphylobactin,,,,,siderophore
+vibrioferrin,,,,,siderophore
+A-500359,yes,,,,
+pacidamycin,yes,gram neg,,,
+Azinomycin b,yes,,,yes,
+bactobolin,yes,"gram pos, gram neg",yes,yes,
+Caerulomycin a,yes,gram pos,yes,,
+crocacin,,,yes,yes,
+Cystothiazole a,,,yes,yes,
+dkxanthene,,,yes,,
+epothilone,,,,yes,
+FR901464,,,,yes,
+guadinomine,,,,,Anti-infective
+jawsamycin,,,yes,,
+locillomycin,,,yes,,
+muraymycin,yes,gram pos,,,
+mycobactin,,,,,siderophore
+myxalamid,yes,gram pos,yes,,
+Nocobactin na,,,,,siderophore
+Oocydin a,,,yes,,
+paenilamicin,yes,gram pos,yes,yes,
+polyoxypeptin,,,,yes,
+pyridomycin,yes,,,,
+rapamycin,,,yes,,
+tubulysin,,,,yes,
+zwittermicin a,yes,"gram pos, gram neg",yes,,
+dynemicin,yes,gram pos,,yes,
+tln-05220,yes,gram pos,,yes,
+undecylprodigiosin,yes,gram pos,yes,,
+herboxidiene,yes,gram pos,,yes,
+kosinostatin,yes,"gram pos, gram neg",yes,yes,
+Cosmomycin d,yes,gram pos,,yes,
+Aurachin re,yes,gram pos,,,
+albicidin,yes,"gram pos, gram neg",yes,,
+corallopyronin,yes,gram pos,,,
+enacyloxin,yes,"gram pos, gram neg",,,
+iturin,,,yes,,
+lankacidin,yes,gram pos,,yes,
+mycosubtilin,,,yes,,
+spliceostatin,,,,yes,
+thiomarinol,yes,"gram pos, gram neg",,,
+virginiamycin,yes,gram pos,,,
+himastatin,yes,gram pos,,yes,
+puwainaphycin,,,,yes,
+jagaricin,,,yes,,
+pheganomycin,yes,,,,
+taiwachelin,,,,,siderophore
+A-102395,,,,,Translocase inhibitor
+colistin,yes,gram neg,,,
+thiolutin,yes,"gram pos, gram neg",yes,,
+hitachimycin,yes,gram pos,yes,yes,
+desotamide,yes,gram pos,,,
+frankiamicin,yes,gram pos,,,
+akaeolide,yes,,,yes,
+indolmycin,yes,"gram pos, gram neg",,,
+teixobactin,yes,gram pos,,,
+pseudomycoicidin,yes,gram pos,,,
+albachelin,,,,,siderophore
+nataxazole,,,,yes,
+marformycin,yes,,,,
+PreQ0 base,,,,yes,
+hydroxysporine,,,yes,yes,
+reductasporine,,,yes,,
+celesticetin,yes,gram pos,,,
+feglymycin,yes,gram pos,,,
+thiolactomycin,yes,"gram pos, gram neg",,,
+chaxamycin,yes,"gram pos, gram neg",,yes,
+maklamicin,yes,gram pos,,,
+penisin,yes,"gram pos, gram neg",,,
+A33853,,,,,antiparasitic
+cyclizidine,,,,yes,
+7-prenylisatin,yes,gram pos,,,
+cremeomycin,yes,"gram pos, gram neg",yes,yes,
+chlorotonil,yes,,yes,,
+anthracimycin,yes,gram pos,,,
+lomofungin,yes,"gram pos, gram neg",yes,yes,
+lobosamide,,,,,antiparasitic
+viscosin,,,,,surfactant
+aurachin,yes,gram pos,yes,,
+myxochelin,,,,,siderophore
+carbamidocyclophane,yes,gram pos,,yes,
+ralsolamycin,,,,,Invasion of fungus
+Zunyimycin a,yes,gram pos,,,
+haliamide,,,,yes,
+thienodolin,,,,,Plant growth regulation
+uncialamycin,yes,"gram pos, gram neg",,,
+tiancimycin,,,,yes,
+BD-12,yes,"gram pos, gram neg",yes,,
+brasilinolide,,,yes,,
+Saprolmycin e,,,,,antiparasitic
+JBIR-76,,,,yes,
+nucleocidin,Yes,"gram pos, gram neg",,,
+cichopeptin,,,,,phytotoxic
+pinensins,yes,,yes,,
+lugdunin,yes,gram pos,,,
+phenalamide,yes,gram pos,yes,,
+teichomycin,yes,"gram pos, gram neg",,,
+aldgamycin,yes,gram pos,,,
+lidamycin,yes,gram pos,,yes,
+telomycin,yes,gram pos,,,
+bicereucin,yes,gram pos,,,
+xanthoferrin,,,,,siderophore
+dutomycin,yes,gram pos,,yes,
+cystobactamide,yes,"gram pos, gram neg",,,
+griselimycin,yes,gram pos,,,
+nunapeptin,,,yes,,
+streptococcin,yes,gram pos,,,

@@ -1,0 +1,678 @@
+annotator	(temporary) BGC id	compound name	biological activity 1	biological activity 2	biological activity 3	biological activity 4	if antibacterial, Gram-positive or -negative?	molecular target 1	molecular target 2	molecular target 3	molecular target 4	PubMed ID	doi	Comments	
+Paco BG		spiromarmycin	Antibacterial	Antifungal			both	Unknown							
+Satria	NEW0000399	metamycin C	Antibacterial				Gram-positive	Unknown							
+Satria	NEW0000399	metamycin D	Antibacterial				Gram-positive	Unknown							
+Satria	NEW0000448	yangpumicin A	Cytotoxic					DNA							
+Aruna Vigneshwari	NEW0000352	2-hydroxysorangiadenosine	Cytotoxic	Antibacterial			Gram-positive	Unknown							
+Aruna Vigneshwari	NEW0000387	Loseolamycin A1&A2	Antibacterial	Other			Gram-positive	Unknown				33050154		Combined extract of Loseolomycin A1 & A2  showed herbicidal activity against the weed Agrostis stolonifera	
+Aruna Vigneshwari	NEW0000340	Gladiostatin	Antifungal	Cytotoxic									doi.org/10.1002/ange.202009007	Active against ovarian, pancreatic and colon cancer cell lines, inhibits the migration of ovarian cell lines	
+Satria	NEW0000294	salinipeptin A	Antibacterial				Gram-positive	Unknown				30753052	10.1021/acschembio.8b01058		
+Chagas, Fernanda	NEW0000405 a	maduralactomycin A 	Antibacterial				Gram-positive	Unknown				28463423	10.1021/acs.orglett.0c00601	No antiproliferative cytotoxicity or antiviral activity, maduralactomycin A exhibited moderate antibacterial activity.	
+Chagas, Fernanda	NEW0000405 b	Actinospirol A	Unknown					Unknown				28463423	10.1021/acs.orglett.0c00601	No antiproliferative cytotoxicity, nor antiviral and antibacterial activities. 	
+Chagas, Fernanda	NEW0000189	Herquline A	Other					Unknown				500499	10.7164/antibiotics.32.786	Weak inhibitor of platelet aggregation, no antimicrobial activity	
+Chagas, Fernanda	NEW0000407	terreazepine	Unknown					Unknown				32843555	10.1128/mBio.01691-20		
+Nelly/David Meijer	BGC0000018	angolamycin	Antibacterial				Gram-positive					1399843,6706849	https://doi.org/10.7164/antibiotics.45.1231		
+Nelly/David Meijer	BGC0000019	angolamycin	Antibacterial				Gram-positive					1399843,6706849	https://doi.org/10.7164/antibiotics.45.1231		
+Nelly	BGC0000025	avermectin	Cytotoxic	Antihelmintic	Insecticide							464561,27551889	https://doi.org/10.1007/s00128-020-02990-y		
+Nelly/David Meijer	BGC0000032	A23187	Antibacterial	Antifungal			Gram-positive					374324	https://dx.doi.org/10.1128%2Faac.16.6.808		
+Nelly	BGC0000034	candicidin	Antifungal									14388629			
+Nelly/David Meijer	BGC0000035	chalcomycin A	Antibacterial				Gram-positive					15561847	https:patentimages.storage.googleapis.com3cfb895f003b8bf2cd1aUS3065137.pdf		
+Nelly 	BGC0000040	concanamycin A	Antiviral	Antiprotozoa	Inhibitor			vacuolar (V-type) ATPase				16207901			
+Nelly/David Meijer	BGC0000042	cremimycin	Antibacterial	Antifungal			Gram-positive					9544932	https://doi.org/10.7164/antibiotics.51.123	Broad antibiotic (including MRSA); no bioactivity against gram-negative bacteria, yeast, and fungi; not antifungal	I found it antitumor.
+Nelly 	BGC0000047	10,11-dihydro-8-deoxy-12,13-deepoxy-12,13-dihydrochalcomycin	Antibacterial	Antifungal	Cytotoxic							28555051			
+Nelly 	BGC0000050	E-837	Antibacterial									16724457			
+Nelly 	BGC0000052	ECO-02301	Antifungal									15844935			
+Nelly 	BGC0000058	FD-891	Cytotoxic	Antifungal								20589823,8002384			
+Nelly 	BGC0000059	filipin	Antibacterial	Antifungal								14456208			
+Nelly 	BGC0000060	fostriecin	Cytotoxic	Antifungal								23990133			
+Nelly 	BGC0000061	levorin A3, C06690, FR-008-III, candicidin A, UNII-AP5PEF5W7U	Antifungal									18559273			
+Nelly 	BGC0000066	geldanamycin	Antibacterial	Antifungal	Cytotoxic	Antiprotozoa						5459626			
+Nelly 	BGC0000067	geldanamycin	Antibacterial	Antifungal	Cytotoxic	Antiprotozoa						5459626			
+Nelly 	BGC0000068	geldanamycin	Antibacterial	Antifungal	Cytotoxic	Antiprotozoa						5459626			
+Nelly 	BGC0000073	halstoctacosanolide A	Antibacterial									16568718			
+Nelly 	BGC0000074	herbimycin A	Antibacterial	Antifungal	Herbicide							468713			
+Nelly 	BGC0000075	hygrocin A, hygrocin B	Antibacterial	Antifungal	Cytotoxic							16378365			
+Nelly 	BGC0000078	incednine	Cytotoxic	Inhibitor				Bcl-xL				23921821,22480302			
+Nelly 	BGC0000079	X-14547	Antibacterial	Antifungal								374324			
+Nelly 	BGC0000084	laidlomycin	Antibacterial				Gram-positive					17342048			
+Nelly 	BGC0000085	lankamycin	Antibacterial									5367395			
+Nelly 	BGC0000086	lasalocid	Antibacterial	Antiprotozoa								4716184			
+Nelly 	BGC0000087	lasalocid	Antibacterial	Antiprotozoa								4716184			
+Nelly 	BGC0000091	marineosin A, marineosin B	Cytotoxic									19007176			
+Nelly 	BGC0000093	meilingmycin	Antibacterial	Antihelmintic	Insecticide							11832500			
+Nelly 	BGC0000096	midecamycin	Antibacterial									1228226			
+Nelly 	BGC0000100	monensin	Antiprotozoa									5596162			
+Nelly 	BGC0000105	nanchangmycin	Antibacterial	Antiviral	Antihelmintic	Insecticide						11832500			
+Nelly 	BGC0000106	naphthomycin A	Antibacterial	Cytotoxic								3957792,3997667			
+Nelly 	BGC0000108	natamycin	Antifungal									13521908			
+Nelly 	BGC0000109	LL-F28249α	Antihelmintic									2764352			
+Nelly / Luis Avitia 	BGC0000111	neocarzilin A, neocarzilin B	Cytotoxic									15328113			
+Nelly / Luis Avitia 	BGC0000113	niddamycin	Antibacterial				both					1064600			
+Nelly 	BGC0000117	oligomycin	Antifungal									24543225			
+Nelly 	BGC0000118	pactamycin	Antibacterial	Antiviral	Cytotoxic	Antiprotozoa						13868850			
+Nelly 	BGC0000123	phoslactomycin B	Antifungal									2753808			
+Nelly / Luis Avitia 	BGC0000124	piericidin A1	Antibacterial	Antifungal	Cytotoxic	Insecticide						28217742 	https://doi.org/10.1016/j.pestbp.2019.03.002	insecticide, antiviral	
+Nelly 	BGC0000125	pimaricin	Antifungal									13521908			
+Nelly / Luis Avitia 	BGC0000126	pladienolide B	Cytotoxic									31147807			
+Nelly 	BGC0000130	pyrrolomycin A, pyrrolomycin B, pyrrolomycin C, pyrrolomycin D	Antibacterial	Antifungal								7309630			
+Nelly 	BGC0000131	pyrrolomycin	Antibacterial	Antifungal								7309630			
+Nelly 	BGC0000135	reveromycin A	Antifungal	Antiviral								21642985			
+Nelly 	BGC0000138	rimocidin	Antifungal	Antiprotozoa								26808253			
+Nelly 	BGC0000140	4-hexadecanoyl-3-hydroxy-2-(hydroxymethyl)-2H-furan-5-one	Cytotoxic									32471161			
+Nelly 	BGC0000141	rubradirin	Antibacterial									1366609			
+Nelly 	BGC0000143	salinomycin	Antibacterial	Antifungal	Cytotoxic	Antiprotozoa						4452657, 31236922, 18062184			
+Nelly 	BGC0000157	tautomycetin	Antifungal									2921220			
+Nelly 	BGC0000163	tetronasin	Antibacterial	Antifungal								3355139			
+Nelly 	BGC0000164	tetronomycin	Antibacterial									7076564			
+Nelly 	BGC0000166	tylactone	Antibacterial				Gram-positive					12417742			
+Nelly / Luis Avitia 	BGC0000167	vicenistatin	Cytotoxic									8360102			
+Nelly / Luis Avitia 	BGC0000190	A-74528	Antiviral									20550125	https://doi.org/10.1074/jbc.M400089200		
+Nelly / Luis Avitia 	BGC0000191	aclacinomycin	Antibacterial	Antifungal	Cytotoxic							2424701			
+Nelly / Luis Avitia 	BGC0000207	chartreusin	Antibacterial	Cytotoxic									https://doi.org/10.1016/j.chembiol.2005.04.017		
+Nelly / Luis Avitia 	BGC0000211	chrysomycin	Cytotoxic	Antiviral	Antibacterial							20140934, 7142022, 32607440		This BGC should be named chrysomycin V o Chrysomycin A, they are the same according to the paper cited in MiBIG https://doi.org/10.1002/cbic.200900673, usually it is reported as Chrysomycin A	
+Nelly / Luis Avitia 	BGC0000214	cosmomycin B	Cytotoxic												
+Nelly 	BGC0000215	curamycin	Antibacterial												
+Nelly 	BGC0000217	daunorubicin	Cytotoxic												
+Nelly 	BGC0000218	doxorubicin	Antibacterial	Cytotoxic											
+Nelly 	BGC0000222	FD-594	Antibacterial	Cytotoxic								9589063			
+Nelly 	BGC0000225	frenolicin B	Antibacterial	Antifungal	Cytotoxic							30661989			
+Nelly 	BGC0000226	gilvocarcin V	Antibacterial	Cytotoxic	Antiviral							6815145			
+Nelly 	BGC0000228	granaticin	Antibacterial	Cytotoxic								818999; 3435095			
+Nelly 	BGC0000231	griseusin	Antibacterial	Cytotoxic											
+Nelly 	BGC0000232	hatomarubigin A, hatomarubigin B, hatomarubigin C, hatomarubigin D	Cytotoxic												
+Nelly 	BGC0000233	hedamycin	Cytotoxic									5985297			
+Nelly 	BGC0000234	jadomycin	Antibacterial	Cytotoxic								19075054; 24231527			
+Nelly 	BGC0000235	kiamycin	Cytotoxic									22611353			
+Nelly 	BGC0000236	kinamycin	Antibacterial									5458310			
+Nelly 	BGC0000237	lactonamycin Z	Antibacterial	Cytotoxic								15015734 (antitumoral)			
+Nelly 	BGC0000238	lactonamycin	Antibacterial									10348042			
+Nelly 	BGC0000242	lysolipin I	Antibacterial									814871			
+Nelly 	BGC0000243	macrotetrolide	Antibacterial												
+Nelly 	BGC0000245	medermycin	Antibacterial	Cytotoxic								26541165			
+Nelly 	BGC0000246	mithramycin	Antibacterial	Cytotoxic								26459178			
+Nelly 	BGC0000248	naphtocyclinone	Antibacterial									11816965			
+Nelly 	BGC0000249	nogalamycin	Antibacterial	Cytotoxic								26954881			
+Nelly 	BGC0000252	nonactin	Antibacterial	Cytotoxic	Antiviral							4953484; 21472209; 28297606			
+Nelly 	BGC0000254	oxytetracycline	Antibacterial									17427500			
+Nelly 	BGC0000257	prodigiosin	Antibacterial	Antifungal	Cytotoxic							1,656,114,617,678,640			
+Nelly 	BGC0000261	R1128	Cytotoxic												
+Nelly 	BGC0000263	ravidomycin	Antibacterial	Cytotoxic								6853365			
+Nelly 	BGC0000265	rhodomycin	Antibacterial	Cytotoxic								29691661; 26312766			
+Nelly 	BGC0000266	collinomycin	Antibacterial									11372781			
+Nelly 	BGC0000268	Sch-47554, Sch-47555	Antibacterial												
+Nelly 	BGC0000270	simocyclinone D8	Antibacterial									19273673			
+Nelly 	BGC0000277	urdamycin	Antibacterial	Cytotoxic								3818439			
+Nelly 	BGC0000279	xantholipin	Antibacterial	Cytotoxic								32651204			
+Nelly 	BGC0000288	A-503083 A, A-503083 B, A-503083 E, A-503083 F	Antibacterial												
+Nelly 	BGC0000291	A54145	Antibacterial									2380106			
+Nelly 	BGC0000296	actinomycin D	Antibacterial	Cytotoxic								15995596			
+Nelly 	BGC0000300	amychelin	Siderophore												
+Nelly 	BGC0000303	anthramycin	Cytotoxic									5845427			
+Nelly 	BGC0000324	coelibactin	Siderophore												
+Nelly 	BGC0000325	coelichelin	Siderophore												
+Nelly	BGC0000326	isocomplestatin	Antibacterial	Antiviral								171,569,132,051,588			
+Nelly	BGC0000327	netropsin	Antiviral									13064157			
+Nelly	BGC0000336	daptomycin	Antibacterial									3026240			
+Nelly	BGC0000339	echinomycin	Antibacterial	Cytotoxic								6744120; 32823919			
+Nelly	BGC0000340	echoside A, echoside B, echoside C, echoside D, echoside E	Antibacterial									24507923			
+Nelly	BGC0000341	enduracidin	Antibacterial									4299887			
+Nelly	BGC0000353	tacrolimus	Other									2484094		Immunosuppressive	
+Nelly	BGC0000360	GE81112	Antibacterial									16380421			
+Nelly	BGC0000366	gobichelin A, gobichelin B	Siderophore									23336063			
+Nelly	BGC0000368	streptobactin	Siderophore												
+Nelly	BGC0000373	holomycin	Antibacterial	Cytotoxic	Antiviral							PMC90323; 24323287			
+Nelly	BGC0000375	indigoidine	Antibacterial									27660622			
+David Meijer	BGC0000376	JBIR-34,	Antioxidant					DPPH radical					doi:10.1021/np900810r	weak DPPH radical scavenging activity; no cytotoxic activity against several cancer cell lines and no antibacterial activity against Micrococcus luteus and Escherichia coli	
+David Meijer	BGC0000376	JBIR-35	Antioxidant					DPPH radical					doi:10.1021/np900810r	weak DPPH radical scavenging activity; no cytotoxic activity against several cancer cell lines and no antibacterial activity against Micrococcus luteus and Escherichia coli	
+Nelly	BGC0000379	glycinocin A	Antibacterial												
+Nelly	BGC0000382	lipstatin	Other									30020314		inhibitor of pancreatic lipase, therapeutic cardioprotective	
+Nelly	BGC0000388	mannopeptimycin	Antibacterial												
+Nelly	BGC0000394	naphthyridinomycin	Antibacterial									807549			
+Nelly	BGC0000409	porothramycin A	Antibacterial	Cytotoxic								3192492			
+Nelly	BGC0000414	quinocarcin	Cytotoxic									6860429			
+Nelly	BGC0000415	quinomycin	Cytotoxic									26673007			
+Nelly	BGC0000422	saframycin A, saframycin B	Antibacterial	Cytotoxic								591455			
+Nelly	BGC0000423	scabichelin	Siderophore												
+Nelly	BGC0000432	streptothricin	Antibacterial									16560703			
+Nelly	BGC0000434	SW-163C, UK-63598, SW-163E, SW-163F, SW-163G	Cytotoxic												
+Nelly	BGC0000444	thaxtomin A	Herbicide												
+Nelly	BGC0000448	tomaymycin	Antibacterial	Antifungal	Cytotoxic	Antiviral						4,648,485,328,469			
+Nelly	BGC0000450	triostin A	Cytotoxic												
+Nelly	BGC0000458	viomycin	Antibacterial												
+Nelly	BGC0000466	yatakemycin	Antifungal	Cytotoxic								12715869			
+Nelly	BGC0000469	bottromycin A2	Antibacterial												
+Nelly	BGC0000470	bottromycin D	Antibacterial												
+Nelly	BGC0000496	AmfS	Other											Morphogenesis	
+Nelly	BGC0000565	goadsporin	Antibacterial											Morphogenesis	
+Nelly	BGC0000605	GE37468	Antibacterial									7592021			
+David Meijer	BGC0000606	lactazole	Cytotoxic					signaling cascades triggered by bone morphogenetic protein (putative)					https://doi.org/10.1016/j.chembiol.2014.03.008	No antimicrobial activity found yet; lkaline phosphatase activity of osteoblastic C2C12 (R206H) cells was reduced by treatment with lactazoles	
+Nelly	BGC0000610	nosiheptide	Antibacterial									27913416			
+Nelly	BGC0000611	siomycin A	Antibacterial	Cytotoxic								4934927; 26594769			
+Nelly	BGC0000614	thiostrepton	Antibacterial	Cytotoxic								31638335			
+Nelly	BGC0000625	thioviridamide	Cytotoxic									16568712			
+Nelly	BGC0000633	carotenoid	Other												
+Nelly	BGC0000649	carotenoid	Other												
+Nelly	BGC0000651	KS-505a	Antiprotozoa									19168977			
+Nelly	BGC0000652	napyradiomycin	Antibacterial									3710909			
+Nelly	BGC0000653	pentalenolactone	Antibacterial	Antifungal	Antiprotozoa										
+Nelly	BGC0000655	siomycin	Antibacterial									4934927			
+Nelly/David Meijer	BGC0000658	2-methylisoborneol	Unknown											volatile; 2-Methylisoborneol (2-MIB) is the primary cause of the earthy and musty odor produced by cyanobacteria	
+Nelly	BGC0000660	albaflavenone	Antibacterial												
+Nelly/David Meijer	BGC0000662	grixazone	Cytotoxic	Antibacterial	Pigment		Unknown	Unknown	Unknown				https://doi.org/10.1074/jbc.M505806200; https://doi.org/10.1016/j.tibtech.2009.01.001	parasiticide; yellow pigment; antimicrobial	
+Nelly/David Meijer	BGC0000663	hopene	Cytotoxic					Antimalaria					https://doi.org/10.3389/fbioe.2020.00426	Precursor for bioactive hopanoids; antimalaria	
+Nelly/David Meijer	BGC0000664	isorenieratene	Pigment 					NA					https://doi.org/10.1016/S0016-7037(01)00549-X		
+Nelly/David Meijer	BGC0000674	(-)-δ-cadinene	Cytotoxic					Antitumor				26261482	10.2174/1386207319666160506123520		
+Nelly	BGC0000675	(+)-T-muurolol	Antifungal									18206367			
+Nelly	BGC0000678	pentalenolactone	Antibacterial	Antifungal	Cytotoxic										
+Nelly/David Meijer	BGC0000683	avermitilol	Unknown					NA							
+Nelly	BGC0000690	hydroxystreptomycin	Antibacterial									14897819			
+Nelly	BGC0000698	hygromycin A	Antibacterial									24542808			
+Nelly	BGC0000699	hygromycin A	Antibacterial									24542808			
+Nelly	BGC0000700	istamycin	Antibacterial									511787			
+Nelly	BGC0000701	jinggangmycin	Antibacterial	Antifungal								3269390; 26388431			
+Nelly	BGC0000702	kanamycin	Antibacterial												
+Nelly	BGC0000707	kasugamycin	Antifungal	Cytotoxic											
+Nelly	BGC0000708	lividomycin	Antibacterial									5091209			
+Nelly	BGC0000711	neomycin	Antibacterial									17782716			
+Nelly	BGC0000712	paromomycin	Antibacterial	Antihelmintic	Antiprotozoa							13595492; 18947845			
+Nelly	BGC0000713	ribostamycin	Antibacterial									779802			
+Nelly	BGC0000715	actinospectacin	Antibacterial									14461632			
+Nelly	BGC0000716	spectinomycin	Antibacterial									14287971			
+Nelly	BGC0000723	β-D-galactosylvalidoxylamine-A	Antifungal												
+Nelly	BGC0000724	streptomycin	Antibacterial												
+Nelly	BGC0000804	acarviostatin I03, acarviostatin II03, acarviostatin III03, acarviostatin IV03	Other					alpha-amylase inhibitor							
+Nelly	BGC0000825	staurosporine	Antifungal	Cytotoxic								3457562			
+Nelly	BGC0000826	staurosporine	Antifungal	Cytotoxic								3457562			
+Nelly	BGC0000835	simocyclinone	Antibacterial	Cytotoxic											
+Nelly	BGC0000842	carbapenem MM4550	Antibacterial												
+Nelly	BGC0000844	clavulanic acid	Antibacterial									.			
+Nelly/David Meijer	BGC0000848	A-factor	Regulatory					receptor protein					10.1111/j.1365-2958.1994.tb01073.x	lactone; regulatory; A-factor is a gamma-butyrolactone	
+Nelly/David Meijer	BGC0000850	γ-butyrolactone	Regulatory 					receptor protein					doi.org/10.1046/j.1365-2958.2001.02562.x	lactone; autoregulator	
+Nelly	BGC0000851	albonoursin	Antibacterial	Cytotoxic								4783201			
+Nelly	BGC0000853	ectoine	Other									https://opus4.kobv.de/opus4-bam/frontdoor/index/index/docId/37680		cell protectant, osmoregulator solute	
+Nelly	BGC0000872	A-90289 A, A-90289 B	Antibacterial												
+Nelly	BGC0000874	blasticidin S	Antiprotozoa	Antifungal								28878744			
+Nelly	BGC0000876	neopolyoxin C	Antifungal	Insecticide											
+Nelly	BGC0000877	polyoxin A, polyoxin H	Antifungal												
+Nelly	BGC0000878	puromycin	Antibacterial	Cytotoxic	Antiprotozoa							31022952; 25314098 			
+Nelly	BGC0000879	toyocamycin, sangivamycin	Antibacterial	Cytotoxic	Antiprotozoa							13345725,560201;3013084			
+Nelly	BGC0000882	mildiomycin	Antibacterial	Antifungal								681232			
+Nelly	BGC0000883	arginomycin	Antibacterial	Antifungal								3610832			
+Nelly/David Meijer	BGC0000885	4-hydroxy-3-nitrosobenzamide	Unknown											Could not find approriate article with listed bioactivity	
+Nelly	BGC0000886	allylmalonyl-CoA	Unknown										doi.org/10.1021/ja108399b	No activity listed	
+Nelly	BGC0000889	bagremycin A, bagremycin B	Antibacterial	Antifungal	Cytotoxic							30526412			
+Nelly	BGC0000896	cycloserine	Antibacterial												
+Nelly	BGC0000897	dehydrophos	Antibacterial												
+Nelly/David Meijer	BGC0000899	desosamine	Unknown										doi.org/10.1016/j.bmcl.2012.05.110	Precursor to/substructure of macrolide antibiotics; activity of desosamine on its own not described	
+David Meijer	BGC0000903	fluoroacetate	Cytotoxic					Protein						readily converted to fluorocitrate which inhibits the Krebs cycle	
+David Meijer	BGC0000903	4-fluorothreonine	Antibacterial					Unknown 				12404452			
+Nelly	BGC0000904	FR-900098	Antibacterial	Antiprotozoa								27260413			
+Nelly	BGC0000907	lincomycin	Antibacterial									14274890			
+Nelly/David Meijer	BGC0000908	melanin	Unknown											lots of bioactivities are known for melanins but not specifically for this BGC's origin species (doi.org/10.1016/j.ijbiomac.2018.11.061)	
+Nelly/David Meijer	BGC0000912	melanin	Unknown											lots of bioactivities are known for melanins but not specifically for this BGC's origin species (doi.org/10.1016/j.ijbiomac.2018.11.061)	
+Nelly	BGC0000914	methylenomycin A	Antibacterial	Antifungal								4604814			
+David Meijer	BGC0000918	ochronotic pigment	Unknown												
+Nelly	BGC0000933	xiamenmycin A	Other											anti-fibrotic	
+Nelly	BGC0000941	desferrioxamin B	Other											chelator for (89)Zr(IV) PMID: 31229836 	
+Nelly	BGC0000949	A-500359 A, A-500359 B	Antibacterial									12760681			
+Nelly	BGC0000951	pacidamycin 1, pacidamycin 2, pacidamycin 3, pacidamycin 4, pacidamycin 5, pacidamycin 6, pacidamycin 7, pacidamycin D	Antibacterial									2498263			
+Nelly	BGC0000957	mycotrienin I	Antifungal									6833138			
+Nelly	BGC0000960	azinomycin B	Cytotoxic									3793621			
+Nelly	BGC0000994	FR-900520	Antifungal	Other										Immunosupresor	
+Nelly	BGC0000998	guadinomine	Other											anti-infective	
+Nelly	BGC0001002	jawsamycin	Antifungal												
+Nelly	BGC0001011	meridamycin	Other											neuroprotectant	
+Nelly	BGC0001013	meridamycin	Other											neuroprotectant	
+Nelly	BGC0001020	muraymycin C1	Antibacterial									12951123			
+Nelly	BGC0001036	polyoxypeptin	Cytotoxic												
+Nelly	BGC0001039	pyridomycin	Antibacterial												
+Nelly	BGC0001040	rapamycin	Antifungal	Cytotoxic								1102508,6683650			
+Nelly	BGC0001042	sanglifehrin A	Antiviral	Other								10458817		Immunosupresor	
+David Meijer	BGC0001043	SGR PTMs	Unknown										10.1038/ncomms3894 	Putative antibiotic, putative antifungal, putative antioxidant	
+Nelly	BGC0001063	undecylprodigiosin	Antibacterial	Antifungal	Cytotoxic							24562326; 20878541		Antiprotozoa	
+Nelly	BGC0001065	herboxidiene	Cytotoxic	Herbicide								1500359			
+Nelly	BGC0001074	cosmomycin D	Antibacterial	Cytotoxic								3700244			
+Nelly	BGC0001078	furaquinocin B	Cytotoxic												
+Nelly	BGC0001085	teleocidin B1	Other											Tumor promoter	
+Nelly	BGC0001100	lankacidin C	Antibacterial	Cytotoxic	Other							1148,4792112		Immunosupresor	
+Nelly	BGC0001106	oxalomycin B	Cytotoxic	Antiviral											
+Nelly	BGC0001116	virginiamycin S1	Antibacterial												
+Nelly	BGC0001117	himastatin	Antibacterial	Cytotoxic								2211362			
+Nelly	BGC0001145	cyclothiazomycin b1	Antifungal									21885289			
+Nelly	BGC0001148	pheganomycin	Antibacterial									26306817			
+Nelly	BGC0001151	valclavam, (-)-2-(2-hydroxyethyl)clavam	Antibacterial	Antifungal								3304182			
+Nelly	BGC0001168	livipeptin	Inhibitor											Protease inhibitor 	
+Nelly	BGC0001181	geosmin	Other											odorant	
+Nelly	BGC0001183	lobophorin A	Antibacterial									21897400		antiinflammatory	
+Nelly	BGC0001188	legonaridin													
+David Meijer	BGC0001194	hitachimycin	Antibacterial	Antifungal	Cytotoxic		Gram-positive					7275806, 6833150	https://doi.org/10.7164%2Fantibiotics.36.301	Antitumor as well	Then I will add cytotoxic (nelly)
+David Meijer	BGC0001196	desotamide	Antibacterial				Gram-positive					25072108	https://doi.org/10.1021/acs.jnatprod.5b00009		
+Nelly	BGC0001199	akaeolide	Antibacterial	Cytotoxic											
+	BGC0001200	lorneic acid A													
+Nelly	BGC0001204	versipelostatin	Cytotoxic									15914903			
+Nelly	BGC0001206	indolmycin	Antibacterial									15243028			
+Nelly	BGC0001213	nataxazole	Cytotoxic									19168984			
+Nelly	BGC0001214	marformycin A, marformycin B, marformycin C, marformycin D, marformycin E, marformycin F	Other											anti-infective	
+Nelly	BGC0001215	conglobatin	Cytotoxic									26091168			
+Nelly	BGC0001216	splenocin	Other					cytokine IL-4				30417645		Splenocin B- anti-inflammatory cytokine IL-4	
+Nelly	BGC0001217	PreQ0 Base	Cytotoxic									25353335			
+Nelly	BGC0001225	celesticetin	Antibacterial									4383871			
+Nelly	BGC0001227	isorenieratene	Other											carotene	
+Nelly	BGC0001233	feglymycin	Antibacterial	Antiviral								22959895			
+Nelly	BGC0001236	thiotetroamide	Antibacterial									6833125			
+Nelly	BGC0001287	chaxamycin A, chaxamycin B, chaxamycin C, chaxamycin D	Antibacterial	Cytotoxic								30451442			
+Nelly	BGC0001292	A33853	Cytotoxic	Antiprotozoa								26496684			
+Nelly	BGC0001293	cyclizidine	Cytotoxic												
+Nelly	BGC0001294	7-prenylisatin	Antibacterial									26438963			
+Nelly	BGC0001295	cremeomycin	Cytotoxic									7622439			
+	BGC0001296	streptazone E													
+	BGC0001297	WS9326													
+Nelly	BGC0001298	4-Z-annimycin	Unknown									29148157		A similar compound annimycin B is  antiprotozoan	
+Nelly	BGC0001300	anthracimycin	Antibacterial	Cytotoxic								23776159; 28668827			
+Nelly	BGC0001301	anthracimycin	Antibacterial	Cytotoxic								23776159; 28668827			
+Nelly	BGC0001302	lomofungin	Antibacterial	Antifungal								5785961			
+	BGC0001307	chaxapeptin													
+Nelly	BGC0001310	naringenin	Antibacterial	Cytotoxic								10857921,15744083			
+Nelly	BGC0001332	microtermolide A	Cytotoxic												
+Nelly	BGC0001349	heronamide A, heronamide B, heronamide C, heronamide D, heronamide E, heronamide F	Antifungal									27171897		membrane-binding	
+Nelly	BGC0001366	BE-24566B, zunyimycin A	Antifungal									8557611			
+Nelly	BGC0001368	JBIR-126 tambromycin 	Cytotoxic									29481729			
+	BGC0001370	lipopeptide 8D1-1, lipopeptide 8D1-2													
+Nelly	BGC0001374	thienodolin	Other											plant growth-regulator	
+Nelly	BGC0001377	uncialamycin	Antibacterial									16268546			
+Nelly	BGC0001378	tiancimycin	Cytotoxic									29396746			
+Nelly	BGC0001379	BD-12	Antibacterial									5701774			
+Nelly	BGC0001384	saprolmycin E	Antifungal												
+Nelly	BGC0001386	JBIR-76, JBIR-77	Cytotoxic									26732254			
+Nelly	BGC0001387	nucleocidin	Antiprotozoa									13425454			
+Nelly	BGC0001396	aldgamycin J, aldgamycin K, aldgamycin P, aldgamycin E	Antibacterial									14288037			
+Nelly	BGC0001397	lidamycin	Cytotoxic									30542729			
+Nelly	BGC0001406	telomycin	Antibacterial									26043159			
+Nelly	BGC0001409	dutomycin	Cytotoxic									1490891			
+Nelly	BGC0001414	griselimycin	Antibacterial									28106929			
+Nelly	BGC0001444	caboxamycin	Antibacterial	Antifungal	Cytotoxic							19198633			
+Nelly	BGC0001453	desferrioxamine	Siderophore	Antiprotozoa								6822409			
+Nelly	BGC0001454	germicidin	Inhibitor											germination inhibitor	
+Nelly	BGC0001455	antimycin	Insecticide									15442289		carotene	
+	BGC0001456	isorenieratene													
+	BGC0001457	jomthonic acid A, jomthonic acid B, jomthonic acid C													
+Nelly	BGC0001472	berninamycin A	Antibacterial									4980191			
+	BGC0001483	5-isoprenylindole-3-carboxylate β-D-glycosyl ester													
+Nelly	BGC0001487	3,7-dihydroxytropolone	Antibacterial	Cytotoxic	Antiviral							3417559			
+Nelly	BGC0001492	abyssomicin M, abyssomicin N, abyssomicin O, abyssomicin P, abyssomicin Q, abyssomicin R, abyssomicin S, abyssomicin T, abyssomicin U, abyssomicin V, abyssomicin W, abyssomicin X	Antiviral									31894364			
+Nelly	BGC0001493	achromosin	Antibacterial												
+Nelly	BGC0001497	actinonin	Antibacterial	Antiviral								13900478; 24705170		Metalloproteinase inhibitors	
+Nelly	BGC0001506	anantin B1, anantin B2												antagonist atrial natriuretic factor	
+	BGC0001507	anantin C													
+Nelly	BGC0001510	anisomycin	Antifungal	Cytotoxic	Antiprotozoa							6027796			
+Nelly	BGC0001512	BE-24566B	Antibacterial									8557611			
+Nelly	BGC0001514	aristeromycin	Antibacterial	Antifungal	Antiviral							5671989			
+Nelly	BGC0001519	aurantimycin A	Antibacterial									7706121			
+Nelly	BGC0001522	auroramycin	Antibacterial	Antifungal								31181115			
+Nelly	BGC0001523	azalomycin F3a	Antibacterial	Antifungal								4970571,4861279			
+Nelly	BGC0001529	bezastatin derivates	Cytotoxic									21224859		free radical scavengers	
+Nelly	BGC0001530	bicyclomycin	Antibacterial									4567453		inhibitor of the bacterial transcription termination factor	
+Nelly	BGC0001533	borrelidin	Antibacterial	Antifungal	Cytotoxic							18134558,5836317, 30027371; 22967236		Antiviral	
+	BGC0001535	branched-chain fatty acids													
+Nelly	BGC0001537	butyrolactol A	Antifungal									1429230			
+Nelly	BGC0001538	caboxamycin	Antibacterial	Cytotoxic								19198633			
+Nelly	BGC0001539	cattlecin													
+Nelly	BGC0001540	CC-1065	Cytotoxic									104946			
+	BGC0001548	citrulassin A													
+	BGC0001549	citrulassin B													
+	BGC0001550	citrulassin D													
+	BGC0001551	citrulassin E													
+	BGC0001552	citrulassin F													
+Nelly	BGC0001553	clifednamide A	Cytotoxic									30542952			
+Nelly	BGC0001556	combamide	Antibacterial	Cytotoxic											
+Nelly	BGC0001558	cosmomycin C	Cytotoxic												
+Nelly	BGC0001562	curacomycin	Antibacterial									https:onlinelibrary.wiley.comdoiabs10.1002ajoc.201700433			
+	BGC0001567	cysteoamide													
+Nelly	BGC0001568	cytorhodin	Cytotoxic												
+	BGC0001569	dechlorocuracomycin													
+Nelly	BGC0001570	deimino-antipain	Inhibitor											protease inhibitor	
+Nelly	BGC0001574	diisonitrile antibiotic SF2768	Antibacterial											copper acquisition	
+Nelly	BGC0001584	C-1027	Antibacterial	Cytotoxic								3198491			
+Nelly	BGC0001587	ethylenediaminesuccinic acid hydroxyarginine (EDHA)	Siderophore											siderophore	
+Nelly	BGC0001590	formicamycins A-M	Antibacterial									29191667			
+Nelly	BGC0001592	ferroverdin  Bagremycin	Antibacterial	Antifungal	Cytotoxic							11714229; 30526412		Bagremycin Antibiotics and Ferroverdin iron-chelators are synthetized by the Same Gene Cluster	
+Nelly	BGC0001593	ficellomycin	Antibacterial	Antifungal								994319			
+Nelly	BGC0001598	foxicins A-D	Antibacterial											siderophore	
+Nelly	BGC0001607	gilvusmycin	Cytotoxic									10348041			
+Nelly	BGC0001610	gougerotin	Antibacterial	Cytotoxic	Antiviral									Antihelmintic	
+	BGC0001611	guangnanmycin													
+Nelly	BGC0001619	ibomycin	Antifungal									https://www.sciencedirect.com/science/article/pii/S2451945616303944			
+Nelly	BGC0001620	ilamycins	Antibacterial	Cytotoxic								31360114			
+Nelly	BGC0001622	isatropolone A, isotropolone B, isotropolone C	Antiviral									https://onlinelibrary.wiley.com/doi/full/10.1002/anie.201701223?casa_token=mKwq-XdaedAAAAAA%3Ay7_2yYeK8BClGbzEgc3e7RnXwTodUYPS1cXFdDBhNEV2WCFTMpI5qikkvLFpKBuz4TA1q3AVNxDmJJsBOg			
+	BGC0001623	ishigamide													
+Nelly	BGC0001625	isofuranonaphthoquinone	Antibacterial									27731333			
+	BGC0001633	ketomemicin B3, ketomemicin B4													
+	BGC0001634	keywimysin													
+	BGC0001645	lagmysin													
+	BGC0001647	lagunapyrone A, lagunapyrone B, lagunapyrone C													
+Nelly	BGC0001648	lasalocid	Antiprotozoa									19129623; 28956164			
+	BGC0001649	lavendiol													
+Nelly	BGC0001652	limazepine C, limazepine D, limazepine E, limazepine F, limazepine A	Antibacterial	Cytotoxic								24423655; 26698542			
+Nelly	BGC0001661	mayamycin	Antibacterial									29515228			
+Nelly	BGC0001670	monensin	Antibacterial	Antifungal	Antiviral							5489855		Antiprotozoa	
+	BGC0001673	moomysin													
+Nelly	BGC0001674	MS-271	Antiviral												
+Nelly	BGC0001675	murayaquinone	Antibacterial									2925509			
+Nelly	BGC0001690	natamycin	Antifungal 									32650062; 30562337 			
+Nelly	BGC0001694	meoabyssomicin, abyssomicin	Unknown									31354863		abyssomicin C is antibacterial	
+Nelly	BGC0001695	neoantimycin	Cytotoxic									29979567			
+Nelly	BGC0001696	neothioviridamide	Cytotoxic									29381067			
+Nelly	BGC0001700	niphimycins C-E	Antibacterial									29308897			
+Nelly	BGC0001707	nosiheptide	Antibacterial									7379912			
+Nelly	BGC0001709	nystatin	Antifungal									13056635, 12987085			
+	BGC0001719	olimycin A, olimycin B													
+Nelly	BGC0001723	oviedomycin	Cytotoxic									15368568			
+	BGC0001726	pactamides													
+Nelly	BGC0001731	paulomycin	Antibacterial									7076577,28846627		Paulomycin G is antitumoral	
+Nelly	BGC0001732	paulomycin	Antibacterial									7076577,28846627		Paulomycin G is antitumoral	
+Nelly	BGC0001735	pentostatine, vidarabine	Antiviral	Antiprotozoa								16990110; 26025154 			
+	BGC0001739	phosphonoacetic Acid													
+Nelly	BGC0001740	phthoxazolin	Herbicide									7775276,8407582, 19018764		phthoxazolin A-anticancer, phthoxazolin A-antifungal	
+Nelly	BGC0001742	piericidin A1	Inhibitor									27301663,27325816		inhibition of bacterial T3SS	
+	BGC0001746	pristinol													
+	BGC0001752	qinichelins													
+	BGC0001753	radamycin, globimycin										12061547			
+Nelly	BGC0001755	reedsmycins	Antifungal									29914489			
+Nelly	BGC0001760	rimosamide	Antibacterial									27809474			
+	BGC0001762	rubrolone A, rubrolone B													
+Nelly	BGC0001763	rufomycin	Antibacterial									30990022			
+	BGC0001764	s56-p1													
+Nelly	BGC0001766	salinamide A	Antibacterial									24843001			
+Nelly	BGC0001769	saquayamycin A	Antibacterial	Cytotoxic								3840796, 31075906		saquayamycin B1 & B- antitumoral	
+	BGC0001770	sceliphrolactam													
+	BGC0001771	scleric acid													
+Nelly	BGC0001774	spicamycin	Cytotoxic									8226322			
+Nelly	BGC0001778	showdomycin	Antibacterial	Cytotoxic								4876578, 14236202			
+Nelly	BGC0001779	siamycin	Antiviral									7797448, 8787894, 31026131		Siamycin I-virus fusion inhibitor, Siamycin-I-antibacterial	
+	BGC0001782	spiroindimicin A, spiroindimicin B, spiroindimicin C, spiroindimicin D, indimicin A, indimicin B, indimicin C, indimicin D, indimicin E, lynamicin A, lynamicin D, lynamicin F, lynamicin G													
+Nelly	BGC0001783	streptonigrin	Antibacterial	Cytotoxic								14287983, 14436228			
+Nelly	BGC0001784	streptoseomycin	Antibacterial									29697266			
+Nelly	BGC0001785	streptovaricin	Antibacterial									13411413			
+Nelly	BGC0001792	surugamide A, surugamide D	Antifungal									28590725			
+	BGC0001797	telomestatin													
+Nelly	BGC0001801	thiazostatin, watasemycin A, watasemycin B, 2-hydroxyphenylthiazoline enantiopyochelin, isopyochelin	Antibacterial	Antifungal								12014439			
+Nelly	BGC0001802	thioholgamide A, thioholgamide B	Cytotoxic									28981254			
+Nelly	BGC0001803	thioviridamide	Cytotoxic									16568712			
+Nelly	BGC0001804	tiancimycin	Cytotoxic									29396746			
+	BGC0001807	totopotensamide A, totopotensamide B													
+Nelly	BGC0001808	toyocamycin	Antifungal	Cytotoxic								13345725; 27912102			
+	BGC0001813	tyrobetaine										29510029			
+Nelly	BGC0001814	ulleungmycin	Antibacterial									29083895			
+Nelly	BGC0001815	uncialamycin	Antibacterial									16268546			
+Nelly	BGC0001817	vancosamine	Antibacterial	Antifungal											
+	BGC0001818	vazabitide A													
+	BGC0001819	venemycin													
+	BGC0001823	weishanmycin													
+Nelly	BGC0001828	griseochelin	Antibacterial	Antiviral								6434502			
+Nelly	BGC0001829	α,β-epoxyketone	Cytotoxic									10465562			
+	BGC0001840	detoxin S1													
+	BGC0001878	detoxin N2, detoxin N3													
+	BGC0001885	oxazolepoxidomycin A													
+Nelly	BGC0001895	huanglongmycin A, huanglongmycin B, huanglongmycin C	Antibacterial	Cytotoxic								https:mibig.secondarymetabolites.orgquery			
+Nelly	BGC0001896	carbazomycin B	Antibacterial	Antifungal								7410212			
+	BGC0001898	thioplatensimycin, thioplatencin													
+	BGC0001903	neocarazostatin A													
+Nelly	BGC0001905	violapyrone B	Antiviral									30033162		methylated violapyrones-antivirals	
+Nelly	BGC0001908	sceliphrolactam	Antifungal									21247188			
+Nelly	BGC0001910	cyslabdan	Antibacterial									26507838			
+	BGC0001911	raimonol													
+	BGC0001912	(2S,6R)-diamino-(5R,7)-dihydroxy-heptanoic acid													
+	BGC0001914	benzastatin J, 7-hydroxyl benzastatin B, 7-hydroxyl O-demethylbenzastatin A, JBIR-67, 7-hydroxyl benzastatin F, 7-hydroxyl O-demethylbenzastatin D, O-demethylvirantmycin, 7-hydroxyl benzastatin D, virantmycin, benzastatin K, methylbenzastatin K													
+	BGC0001916	lavendiol													
+Nelly	BGC0001917	5-alkyl-1,2,3,4-tetrahydroquinolines, streptoaminals	Antifungal									30629078			
+	BGC0001918	JBIR-06										30698439			
+Nelly	BGC0001919	neoantimycin	Cytotoxic									29693372			
+Nelly	BGC0001920	siamycin I	Antibacterial	Antiviral								31026131			
+Nelly	BGC0001921	MS-271	Antiviral												
+Nelly	BGC0001922	isoindolinomycin	Antibacterial	Cytotoxic								https://www.mdpi.com/2079-6382/8/3/133/htm			
+Nelly	BGC0001925	altemicidin, SB-203207, SB-203208	Cytotoxic									30643149; 2584138 , 2584138 		antiparasite-acaricidal	
+Nelly	BGC0001927	A-94964	Antibacterial									19160520			
+	BGC0001928	(2R,3S,4S)-5-fluoro-2,3,4-trihydroxypentanoic acid													
+Nelly	BGC0001934	armeniaspirols	Antibacterial									30747534			
+Nelly	BGC0001935	3,7-dihydroxytropolone	Cytotoxic									3417559			
+Nelly	BGC0001937	tubercidin	Cytotoxic	Antiprotozoa								13513512; 30677668			
+Nelly	BGC0001939	streptoseomycin	Antibacterial									29697266			
+	BGC0001942	malonomycin										https:www.nature.comarticless41929-018-0178-2			
+	BGC0001948	naseseazine C, C3-aryl pyrroloindolines													
+	BGC0001956	miharamycin A, miharamycin B										18833553			
+Nelly	BGC0001957	amipurimycin	Antifungal									838627			
+Nelly	BGC0001958	amipurimycin	Antifungal									838627			
+Nelly	BGC0001959	taylorflavin A, taylorflavin B	Antibacterial									30830740			
+	BGC0001960	hiroshidine													
+	BGC0001961	ashimides													
+Nelly	BGC0001965	nybomycin	Antibacterial	Antiviral								16589716			
+Nelly	BGC0001967	acyldepsipeptide 1	Antibacterial	Antifungal	Cytotoxic							30958008; 24606742			
+Nelly	BGC0001972	toxoflavin	Antifungal									5905124;  30824447			
+Nelly	BGC0001973	fervenulin	Antibacterial	Antifungal	Antihelmintic							13815215;  21841897			
+Nelly	BGC0001975	atratumycin	Antibacterial									31569487			
+Nelly	BGC0001979	LL-D49194α1 (LLD)	Cytotoxic									30855966			
+	BGC0001984	sarpeptin A, sarpeptin B													
+Nelly	BGC0001985	pyrazomycin	Antiviral									4693477; 12814717			
+	BGC0001986	purincyclamide													
+Nelly	BGC0001994	β-ethynylserine	Antibacterial									3082841			
+Nelly	BGC0002000	setomimycin	Antibacterial	Cytotoxic								https://www.jstage.jst.go.jp/article/antibiotics1968/31/11/31_11_1091/_article/-char/ja/			
+	BGC0002006	albusnodin													
+Nelly	BGC0002010	streptophenazine B, streptophenazine C, streptophenazine F, streptophenazine G, streptophenazine H	Antibacterial									27097765			
+Nelly	BGC0002012	julichrome Q3-3, julichrome Q3-5	Antibacterial									17887721			
+Nelly	BGC0002013	curacozole	Cytotoxic									30795576			
+Nelly	BGC0002015	aborycin	Antibacterial									30795576			
+	BGC0002016	lugdunomycin													
+	BGC0002018	azomycin										13152032			
+	BGC0002019	tiancilactone													
+Nelly	BGC0002022	armeniaspirol A, armeniaspirol B, armeniaspirol C	Antibacterial									https://chemistry-europe.onlinelibrary.wiley.com/doi/full/10.1002/chem.201201635			
+Nelly	BGC0002028	frigocyclinone	Antibacterial	Cytotoxic								16060387; 31303144			
+Nelly	BGC0002029	bagremycin A, bagremycin B, bagremycin C, bagremycin E, bagremycin F, bagremycin G, ferroverdin A, ferroverdin B, ferroverdin C	Antibacterial	Antifungal	Cytotoxic							30526412			
+Nelly	BGC0002032	pentamycin	Antifungal	Antiprotozoa								13525250; 25703311			
+Nelly	BGC0002033	spiramycin	Antibacterial	Antiprotozoa								31365255			
+	BGC0002034	perquinoline A, perquinoline B, perquinoline C													
+Nelly	BGC0002036	dehydrofosmidomycin	Antibacterial									31451762			
+Nelly	BGC0000024	aureothin	Antibacterial	Cytotoxic	Protozoa							24543805; 20662518 		Insecticide	
+Nelly	BGC0000028	bafilomycin B1	Antibacterial	Antifungal								6423597			
+David Meijer	BGC0000029	BE-14106	Antibacterial	Antifungal			Gram-positive					1500352	https://doi.org/10.7164/antibiotics.45.868	Targets murine tumor cell lines	
+Nelly	BGC0000031	borrelidin	Antibacterial	Antifungal	Cytotoxic							18134558,5836317,https:www.nih.govnews-eventsnih-research-mattersscientists-discover-antibiotic-mechanism		Angiogenesis Inhibitor, Antiprotozoa, Insecticide, Antiviral, Herbicide	
+Nelly	BGC0000036	chlorothricin, deschlorothricin	Antibacterial									4623590			
+	BGC0000038	coelimycin P1													
+Nelly	BGC0000065	rustmicin	Antifungal									9614099			
+Nelly	BGC0000083	lactimidomycin, 8,9-dihydrolactimidomycin, 8-hydroxy-8,9-dihydrolactidomycin, 17-hydroxy-8-desmethoxy-isomigrastatin	Cytotoxic	Antiviral								1429229; 26872864			
+Nelly	BGC0000097	ML-449	Antifungal												
+Nelly	BGC0000110	spectinabilin, orinocin, SNF4435C, SNF4435D	Antiviral	Antihelmintic	Antiprotozoa							17763486,31992748;30461185; 11897600			
+Nelly	BGC0000112	neocarzinostatin	Cytotoxic												
+Nelly	BGC0000114	nigericin	Antibacterial	Antifungal	Cytotoxic							24541690,5723082; 28941461			
+Nelly	BGC0000115	nystatin A1	Antifungal												
+Nelly	BGC0000119	7-deoxypactamycin	Cytotoxic	Antiprotozoa								3759660			
+Nelly	BGC0000144	salinomycin	Antifungal	Antiprotozoa								22156425; 27457761			
+Nelly	BGC0000151	stambomycin A, stambomycin B, stambomycin C, stambomycin D	Cytotoxic									21444795			
+Nelly	BGC0000158	tautomycetin	Antifungal	Cytotoxic								19372564			
+Nelly	BGC0000159	tautomycin	Antibacterial	Antifungal	Cytotoxic							19372564,3610839		protein phosphatase inhibitor	
+Nelly	BGC0000171	9-methylstreptimidone	Antifungal									https:www.publish.csiro.auCHCH9760673			
+Nelly	BGC0000175	cycloheximide	Antifungal									18880569			
+Nelly	BGC0000177	iso-migrastatin, migrastatin, dorrigocin A, dorrigocin B, 13-epi-dorrigocin A	Cytotoxic									19132897		inhibitors of cell migration	
+Nelly	BGC0000187	asukamycin	Antibacterial									993129			
+Nelly	BGC0000194	actinorhodin	Antibacterial									993778			
+Nelly	BGC0000195	alnumycin A, alnumycin B, alnumycin C, alnumycin P, prealnumycin, thalnumycin A, thalnumycin B, K1115A, 1,6-dihydro-8-propylanthraquinone	Antibacterial	Cytotoxic								9589078			
+Nelly	BGC0000197	aranciamycin	Antibacterial									1322986			
+Nelly	BGC0000204	benastatin A, benastatin B, BE-43767, TAN1532B	Cytotoxic									19047004			
+Nelly	BGC0000210	chromomycin A3	Cytotoxic									15112992			
+Nelly	BGC0000212	cinerubin B	Cytotoxic												
+Nelly	BGC0000213	colabomycin E	Antibacterial									24838618			
+Nelly	BGC0000219	elloramycin	Cytotoxic									3840789			
+Nelly	BGC0000220	enterocin	Antibacterial									770404			
+Nelly	BGC0000224	fredericamycin A	Cytotoxic									7319903			
+Nelly	BGC0000227	granaticin	Antibacterial									818999			
+Nelly	BGC0000229	grincamycin	Antibacterial	Cytotoxic								3429346			
+	BGC0000230	griseorhodin A										5881054			
+Nelly	BGC0000247	mithramycin	Antibacterial	Cytotoxic								8654997			
+Nelly	BGC0000253	oviedomycin	Cytotoxic												
+Nelly	BGC0000262	prejadomycin, rabelomycin, gaudimycin C, gaudimycin D, UWM6, gaudimycin A	Antibacterial	Cytotoxic								5459625			
+Nelly	BGC0000264	resistomycin, resistoflavine	Antibacterial	Cytotoxic								16580188			
+Nelly	BGC0000269	SF2575	Antibacterial	Cytotoxic								1577660			
+Nelly	BGC0000273	steffimycin D	Cytotoxic									4217786, https:www.sciencedirect.comsciencearticleabspii0005278775900556?via%3Dihub,16751529			
+Nelly	BGC0000275	tetracenomycin C	Antibacterial	Cytotoxic								3474613, 485765			
+Nelly	BGC0000290	A-47934	Antibacterial									3793622			
+Nelly	BGC0000306	arylomycin	Antibacterial									12195962			
+Nelly	BGC0000315	CDA1b, CDA2a, CDA2b, CDA3a, CDA3b, CDA4a, CDA4b	Antibacterial									6668466			
+Nelly	BGC0000319	cephamycin C	Antibacterial									4790591			
+Nelly	BGC0000345	eponemycin	Cytotoxic	Antiprotozoa								2106503; 31993450			
+Nelly	BGC0000374	hormaomycin, hormaomycin A1, hormaomycin A2, hormaomycin A3, hormaomycin A4, hormaomycin A5, hormaomycin A6	Antibacterial									21439483		bacterial signaling	
+Nelly	BGC0000406	phosphinothricintripeptide	Antibacterial									1367200,11472937			
+Nicole Avalon	BGC0000429	skyllamycin A	Antibacterial	Inhibitor			Gram-positive	PDGF beta-receptor				24295976, 21456593	10.7164/antibiotics.54.405  //  10.1128/AAC.01781-13 // 10.1021/ja108971p	inhibition of phosphorylation of PDGF beta-receptor; activity against Bacillus subtilis	
+Nicole Avalon	BGC0000429	skyllamycin B, skyllamycin C	Antibacterial	Other			Gram-negative					24295976	10.1128/AAC.01781-13 // 10.1021/ja108971p	nonantibiotic; inhibit biofilm formation in Pseudomonas aeruginosa	
+Nelly	BGC0000431	stenothricin	Antibacterial									4215397			
+Nicole Avalon / Nelly	BGC0000453	valinomycin	Antiviral	Antibacterial	Cytotoxic		Gram-positive					16511823, 10400343, 15876477, 6508319	10.1002/cbic.200500425 // 10.1016/s0968-0896(99)00024-3 // 10.1016/j.tox.2005.04.003	antifungal, antibacterial (Mycobacterium tuberculosis), insecticidal‐nematocidal; Cytotoxic with induction of apoptosis in mammalian cell types, NK cell inhibition 	
+Nelly	BGC0000459	griseoviridin, fijimycin A	Antibacterial									23161816			
+Nelly	BGC0000468	bottromycin A2	Antibacterial									19115340			
+Nelly	BGC0000503	cinnamycin	Antibacterial									24542148,2272918			
+Nicole Avalon	BGC0000518	informatipeptin	Unknown									30065907	10.1002/open.201800130	no bioactivity reported	
+Nicole Avalon	BGC0000546	SAL-2242	Unknown									21983601	10.1038/nchembio.684	no bioactivity reported	
+Nicole Avalon	BGC0000551	SapB	Unknown									15277670	10.1073/pnas.0404220101	morphogenetic protein involved in sporulation	
+Nicole Avalon	BGC0000553	SRO15-2212	Unknown									21983601	10.1038/nchembio.684	no bioactivity reported	
+Nicole Avalon	BGC0000554	SRO15-3108	Unknown									21983601	10.1038/nchembio.684	no bioactivity reported	
+Nicole Avalon	BGC0000563	venezuelin	Unknown									20351769	10.1371/journal.pbio.1000339	assays with no notable antibiotic activity	
+Nicole Avalon	BGC0000578	SRO15-2005	Unknown									21983601	10.1038/nchembio.684	no bioactivity reported	
+Nicole Avalon	BGC0000579	SSV-2083	Unknown									21983601	10.1038/nchembio.684	no bioactivity reported	
+Nelly	BGC0000582	cypemycin	Antibacterial	Cytotoxic								7802859			
+Nicole Avalon	BGC0000583	grisemycin	Cytotoxic					HL-60 cells, but mechanism unknown				26958869	10.1021/acs.orglett.6b00332		
+Nicole Avalon	BGC0000595	SCO-2138	Unknown									21983601	10.1038/nchembio.684	no bioactivity reported	
+Nicole Avalon	BGC0000597	SWA-2138	Unknown									21983601	10.1038/nchembio.684	no bioactivity reported	
+Nelly	BGC0000598	polytheonamide A, polytheonamide B	Cytotoxic									27744521			
+Nelly	BGC0000603	cyclothiazomycin	Antifungal									2071486		inhibitory activity against human plasma renin	
+Nelly	BGC0000654	phenalinolactone A	Antibacterial									21179045			
+Nelly	BGC0000665	xiamycin	Cytotoxic	Antiviral								20880706			
+Nelly	BGC0000666	xiamycin A	Cytotoxic	Antiviral								20880706			
+Nicole Avalon	BGC0000677	cyclooctatin	Antiprotozoal	Inhibitor	Antibacterial		Gram-positive	Lyso-PL				1335449; 27554496	10.7164/antibiotics.45.1587 // 10.1007/s00253-016-7804-1	inhibitor of lysophospholipase; activity against Bacillus cereus; antiplasmodial against Plasmodium falciparum	
+Nelly	BGC0000722	validamycin A	Antifungal									17335096			
+Nelly	BGC0000805	moenomycin	Antibacterial	Antifungal								4312665			
+	BGC0000820	physostigmine												cholinesterase inhibitor	
+Nelly	BGC0000832	clorobiocin	Antibacterial									94144			
+Nelly	BGC0000833	coumermycin A1	Antibacterial									4964458			
+Nelly	BGC0000834	cathomycin	Antibacterial									13425380,13319887			
+Nelly	BGC0000841	alanylclavam, 2-hydroxymethylclavam, 2-formyloxymethylclavam, clavam-2-carboxylate, clavulanic acid	Antibacterial									879738			
+Nelly	BGC0000843	alanylclavam, 2-hydroxymethylclavam, 2-formyloxymethylclavam, clavam-2-carboxylate	Antibacterial									879738			
+Nelly	BGC0000845	clavulanic acid	Antibacterial									879738			
+Nelly	BGC0000847	thienamycin	Antibacterial									761989			
+	BGC0000849	SCB1, SCB2, SCB3										12764566		SCB signalling	
+Nelly	BGC0000880	tunicamycin B1	Antibacterial	Cytotoxic								22717438; 6293705			
+Nelly	BGC0000893	chloramphenicol	Antibacterial	Antiviral								17737967			
+Nelly	BGC0000898	desosamine										659329		moiety of antibiotics	
+Nelly	BGC0000915	mitomycin	Cytotoxic									10099135			
+Nelly	BGC0000938	fosfomycin	Antibacterial									4840428,5167213			
+Nelly	BGC0000940	desferrioxamin B, desferrioxamine E										21628895		siderophore biofilm inhibitiion	
+Nelly	BGC0000950	napsamycin A, napsamycin B, napsamycin C, napsamycin D, mureidomycin A, mureidomycin B	Antibacterial									2498274			
+Nelly	BGC0000953	amicetin	Antibacterial	Cytotoxic								4961660,5883473			
+Nelly	BGC0000958	antimycin	Antifungal									15442289			
+Nelly	BGC0000963	bleomycin	Cytotoxic												
+Nelly	BGC0000965	C-1027	Cytotoxic												
+	BGC0000971	cinnabaramide A													
+	BGC0000973	collismycin A										28951224			
+Nelly	BGC0001004	lobophorin B	Antibacterial									https://pubs.rsc.org/en/content/articlehtml/2019/nj/c9nj01619h?casa_token=ckNNYN9xUygAAAAA:aKNvhDvTxkAtrVbafd1a1Opsn1UOOSLkKJBXyPAobSSh25HvPxzAutdnrsjwAKdRKEtnvjViUMjaeH-N			
+	BGC0001046	streptolydigin										13355381			
+	BGC0001052	tirandamycin										5092790			
+Nelly	BGC0001058	zorbamycin	Cytotoxic												
+Nicole Avalon	BGC0001061	polyketomycin	Antibacterial	Cytotoxic			Gram-positive					9531983	10.7164/antibiotics.51.21	antibiotic against several Gram-positive organisms; also cytotoxic in a number of cell lines: L1210 leukemia, EL-4 leukemia, P388 leukemia, Ehrlich carcinoma, IMC carcinoma, colon 26 adenocarcinoma, Meth A fibrosarcoma, FS-3 fibroscarcoma, B16-BL10 melanoma	
+Nicole Avalon	BGC0001066	kendomycin	Antibacterial	Inhibitor			both	endothelin receptor				17592829	10.1002/cbic.200700050	broad-spectrum antibiotic activity, proteosome inhibitor, endothelin recetor antagonist, cytotoxicity in HEP G2, MCF7, and HMO2 cell lines.	
+Nicole Avalon	BGC0001070	kirromycin	Inhibitor	Antibacterial			Gram-positive	EF-Tu				4373734	10.1073/pnas.71.12.4910		
+Nicole Avalon	BGC0001072	simocyclinone D8	Inhibitor	Antibacterial			Gram-positive	DNA gyrase	topoisomerase II			15728908, 11079799	10.1128/AAC.49.3.1093-1100.2005 // 10.7164/antibiotics.53.779	Topoisomerase, DNA gyrase inhibitor; Gram-positive antibiotic (Bacillus brevis, Streptomyces viridochromogenes)	
+Nicole Avalon	BGC0001076	liposidomycin B, liposidomycin A, liposidomycin C, liposidomycin Z, liposidomycin H, liposidomycin G, liposidomycin L, liposidomycin M, liposidomycin K, liposidomycin N	Antibacterial	Inhibitor			both	translocase I	phospho-N-acetylmuramyl-pentapeptide translocase			4077739, 8807054, 31582803, 9727391	10.7164/antibiotics.38.1617 // 10.1128/AAC.40.7.1640 // 10.1038/s41429-019-0241-5 // 10.7164/antibiotics.51.647	active against Mycobacterium spp., some E. coli strains, and Bacillus subtilis	
+Nicole Avalon	BGC0001079	napyradiomycin A80915C	Cytotoxic	Other	Antibacterial		Gram-positive	Grp94				3710909, 21731557, 24292715	10.7164/antibiotics.39.487 // 10.3390/md9040680 // 10.1039/c3ob41355a	Binds to Grp94; activity against MRSA and other Gram-positive bacteria	
+Nicole Avalon	BGC0001080	endophenazine A, endophenazine B	Antibacterial	Antifungal			Gram-positive					12458768	10.7164/antibiotics.55.794	endophenazine A is active against Gram-positive bacteria (Arthrobacter spp., Bacillus subtilis, Staphlococus aureus, Streptomyces sp.) and fungi (Mucor sp., Botrytis sp., and Paecilomyces sp.); endophenazine B does not share this antibiotic profile.	
+Nicole Avalon	BGC0001083	merochlorin A, merochlorin B, deschloro-merochlorin A, deschloro-merochlorin B, isochloro-merochlorin B, dichloro-merochlorin B, merochlorin D, merochlorin C	Antibacterial				Gram-positive					22784372	10.1021/ja305665f		
+Nelly	BGC0001101	leinamycin	Cytotoxic									2621160			
+David Meijer	BGC0001119	divergolide A, divergolide B, divergolide C, divergolide D	Unknown										10.1021/jacs.7b13092; 10.1016/j.gene.2014.04.052 	divergolide I has antimicrobial (gram-positive) and antitumor activity but is structurally different from divergolide A-D	
+David Meijer	BGC0001140	platensimycin	Antibacterial				Gram-positive	Unknown					10.1128/AAC.01358-08	split up compounds of BGC0001140 as both compounds have the same bioactivity on their own; not as a mixture	
+David Meijer	BGC0001140	platencin	Antibacterial				Gram-positive	Unknown					10.1128/AAC.01358-08	split up compounds of BGC0001140 as both compounds have the same bioactivity on their own; not as a mixture	
+David Meijer	BGC0001150	pamamycin-607	Antibacterial				Gram-positive	Unknown					10.7164/antibiotics.32.673		
+David Meijer	BGC0001156	platencin	Antibacterial				Gram-positive	Unknown					10.1128/AAC.01358-08		
+David Meijer	BGC0001157	bottromycin A2	Antibacterial				Gram-positive	Unknown					doi.org/10.1002/anie.200804138		
+David Meijer	BGC0001159	marinopyrrole A, marinopyrrole E, marinopyrrole D, marinopyrrole C, marinopyrrole B	Antibacterial				Gram-positive	Unknown					10.1021/jo1002054		
+David Meijer	BGC0001169	piericidin A1	Antibacterial	Cytotoxic			Unknown	Unknown	Protein				10.1021/ol4034176	inhibitor of both mitochondrial and bacterial NADH−ubiquinone oxidoreductase; cytotoxic activity for etoposide resistant cancer cells during glucose deprivation	
+Nelly	BGC0001172	chlorizidine A	Cytotoxic												
+Nelly	BGC0001177	mensacaricin	Cytotoxic												
+Nicole Avalon	BGC0001179	rishirilide B, rishirilide A	Inhibitor					alpha-2-macroglobulin				29518990, 6209258	10.3390/antibiotics7010020 // 10.7164/antibiotics.37.1091		
+Nicole Avalon	BGC0001221	marinophenazine A, phenaziterpene A	Unknown									26319318	10.1016/j.jbiotec.2015.08.009	no bioactivity reported	
+Nicole Avalon	BGC0001229	SBI-06990 A1, SBI-06989 A2	Unknown									24621781	10.1371/journal.pone.0091352	no bioactivity reported	
+Tiago Leao	BGC0001230	salinamide A, salinamide B, salinamide C, salinamide D, salinamide E, salinamide F, desmethylsalinamide C, desmethylsalinamide E	Antibacterial				both	RNA polymerase				24843001	10.7554/eLife.02451		
+Nicole Avalon	BGC0001283	arsono-polyketide	Unknown									23709624	10.1093/gbe/evt082	no bioactivity reported	
+Nelly	BGC0001334	caldoniamide A, cladoniamide B, cladoniamide C7, cladoniamide D, cladoniamide E, cladoniamide F, cladoniamide G	Cytotoxic												
+Nicole Avalon	BGC0001348	JBIR-100	Cytotoxic	Inhibitor				V-ATPase				20808316	10.1038/ja.2010.104	cytotoxic in HeLa cervical cancer cell line; V-ATPase inhibitor	
+Tiago Leao	BGC0001433	argimycin PI, argimycin PII, nigrifactin, argimycin PIV, argimycin PV, argimycin PVI, argimycin PIX	Antibacterial				Gram-positive					28239372	10.3389/fmicb.2017.00194		
+Tiago Leao	BGC0001435	ikarugamycin	Antibacterial	Antifungal			Gram-positive					25551780	10.3390/md13010128		
+Tiago Leao	BGC0001438	warkmycin CS1, warkmycin CS2	Antibacterial	Cytotoxic			Gram-positive					23860362	10.1038/ja.2013.74		
+Damien Gayrard	BGC0001439	antibiotic HKI 10311129, antibiotic A2121-1, cervimycin D, cervimycin C, cervimycin A	Antibacterial				Gram-positive					15940739 / 15326518	10.1002/chem.200500320 / 10.1039/B409221J		
+Nelly	BGC0001441	belactosin A, belactosin C	Cytotoxic												
+Damien Gayrard	BGC0001442	actinonin	Antibacterial				both	peptide deformylase				10684604	10.1021/bi992245y		
+Damien Gayrard	BGC0001452	sipanmycin	Cytotoxic	Antibacterial			Gram-positive					30006405	https://doi.org/10.1128/AEM.01462-18 •		
+Tiago Leao	BGC0001468	bicyclomycin	Antibacterial				both	rho transcription termination factor				16181146	10.2174/1568005054880136		
+Damien Gayrard	BGC0001474	thiopeptin	Antibacterial				Gram-positive								
+Tiago Leao	BGC0001476	pseudouridimycin	Antibacterial				both	RNA polymerase				28895263	10.1002/anie.201708133		
+Nelly	BGC0001477	lydicamycin	Antibacterial	Antifungal								2026553; 2026553 			
+Damien Gayrard	BGC0001478	desferrioxamine E	Siderophore	Cytotoxic	Antioxidant							2978958 / 21376551	10.1007/BF01128017 / 10.1016/j.micres.2011.01.004	INhibits biofilm formation, PMID: 21628895	
+Damien Gayrard	BGC0001846	valinomycin, montanastatin	Antifungal	Antibacterial	Cytotoxic	Other						31375920 / 10400343 / 16595926 / 16511823 / 10.1002/cbic.200500425	10.1007/s11274-019-2704-z / 10.1016/s0968-0896(99)00024-3 / 10.1248/bpb.29.817 / 		
+Damien Gayrard	BGC0001849	thiovarsolin A, thiovarsolin B, thiovarsolin C, thiovarsolin D	Cytotoxic									30916321	https://doi.org/10.1093/nar/gkz192		
+Nelly	BGC0001850	diazaquinomycin A, diazaquinomycin E, diazaquinomycin F, diazaquinomycin G	Cytotoxic									30896942; 24921978			
+Nelly	BGC0001851	komodoquinone B	Cytotoxic											Induces neuronal cell differentiation, PMID: 14575440	
+Nelly	BGC0001852	komodoquinone B	Cytotoxic											Induces neuronal cell differentiation, PMID: 14575441	
+Nicole Avalon	BGC0001856	caniferolide A, caniferolide B, caniferolide C, caniferolide D	Antifungal	Cytotoxic	Other							30821469	10.1039/C8OB03115K // 10.1021/acs.molpharmaceut.8b01090	Attenuates neuroinflamation and oxidative stress; antifungal activity against Candida albicans and Aspergillus fumigatus; antiproliferative effects against mutiple human tumor cell lines	
+Nelly	BGC0001877	cyphomycin	Antifungal	Antihelmintic								30705269			
+Paco BG			Antibacterial	Cytotoxic			both	Zinc homeostasis	Zinc-dependent metalloproteins			32049520		Similar biosynthetic class (Dithiolopyrrolones) and MoA than holomycin, thiolutin, xenorhabdins and thiomarinols,	
+Valentin	NEW0000543	Toyoncin	Antibacterial				Gram-positive	Cell membrane				33811023			
+Chao Du	NEW0000576	cerecyclin	Antibacterial				Gram-positive					32487738	10.1128/mSystems.00047-20		
+Valentin	NEW0000541	Longicatenamide A	Antibacterial				both					33483628		only Longicatenamide A showed any activity	
+Valentin	NEW0000540	diastaphenazine	Antibacterial	Cytotoxic			Gram-positive		Apoptosis by TRAIL			25227502			
+Valentin	NEW0000592	lagriene	Antibacterial				Gram-positive					28452358			
+Valentin	NEW0000690	K-41A	Antibacterial	Antimalarial	antiviral		Gram-positive					9711256 ; 12458776	10.5114/aoms.2020.98038 		
+Valentin	NEW0000709	acrophiarin	Antifungal									32239586			
+Justin vd Hooft	BGC0002073	dehydroxynocardamine (syn. terragine E)	Siderophore									30578265	10.1128/AEM.02406-18		
+Hannah	NEW0000749	5-epi-jinkoheremol / debneyol	Antifungal	Antifungal								34644092	10.1021/acs.jnatprod.1c00588		
+Valentin	NEW0000594	Alchivemycin A	Antibacterial	Antiproliferative			Gram-positive					20670006			
+Valentin	NEW0000678	tripartilactam / niizalactam C	Inhibitor					Na+/K+ ATPase				26624939		tripartilactam = niizalactam C	
+Valentin	NEW0000713	cytoglobosin X	Unknown									31897521			
+Bita	BGC0002067	Atpenin B	Antifungal	Antibacterial	Inhibitor		both					2276974; 3209470; 12515859; 	https://doi.org/10.7164/antibiotics.41.1769; https://doi.org/10.1038/ja.2009.20 ; 10.1073/pnas.0237315100 	also inhibit the growth of human prostate cancer cells	
+Dong Yang	NEW0000763	Rifamorpholine A / Rifamorpholine B /Rifamorpholine C / Rifamorpholine D / Rifamorpholine E	Antibacterial				Gram-positive					28422262	10.1039/c7ob00614d		
+Bita	NEW0000764	Rosamicin	Antibacterial				both					2272924	10.7164/antibiotics.43.1497		
+Dong Yang	NEW0000624	Huanglongmycin A / HuanglongmycinB /Huanglongmycin C 	Cytotoxic	Antibacterial			both					30013965	10.3389/fchem.2018.00254		
+Lotte	NEW0000318	brasiliquinone B	Antibacterial	Cytotoxic			Gram-positive					9066761	https://doi.org/10.7164/antibiotics.50.18		
+Dong Yang	NEW0000361	ammosester A / ammosester B/ ammosester C	Cytotoxic									33982054	10.1093/jimb/kuab027		
+Lotte	NEW0000226	triacsin A / triacsin B	Inhibitor					acetyl-CoA synthetase				3781919	https://doi.org/10.7164/antibiotics.39.1211		
+Chao DU	NEW0000730	penifulvin A	Other									30908782	10.1002/anie.201813722	Insecticidal	
+Chao DU	NEW0000723	Ansaseomycin A / Ansaseomycin B	Cytotoxic									29439203	10.1021/acs.orglett.9b01237	Against K562 (leukemia) cell lines IC50 values of 13.3 (Ansaseomycin A) and 18.1 (Ansaseomycin B) μM	
+Chao DU	NEW0000702	Loonamycin A	Cytotoxic									32484694	10.1021/acs.orglett.0c01456	Against eight cancer cell lines with IC50 values ranging from 41 to 283 nM Cell line Cancer type IC50 (nM) SH-SY5Y Neuroblastoma 283.6 SUM1315 Breast cancer 121.3 HT29 Colorectal cancer 81.3 SW620 Colorectal cancer 90.5 HCT116 Colorectal cancer 31.4 Hela Cervical cancer 100.1 SW872 Liposarcoma 92.3 HCC78 Lung cancer 41.5 	
+Satria	NEW0000296	conidiogenone	Other	Signalling									10.1016/S0040-4039(02)01493-4	induce conidiation (asexual reproduction)	
+Satria	NEW0000297 / NEW0000779	alkylpyrone-407	Inhibitor	Cytotoxic				bacterial topoisomerase IV	human topoisomerase I			30506464			
+Aruna Vigneshwari	NEW0000323	Protegencin	Other										10.1101/2021.03.24.436739	Antagonistic against C.reinhardtii	
+Nicole Avalon	NEW0000626	amipurimycin	Antifungal									557031, 7255201	10.7164/antibiotics.30.1		
+Satria	NEW0000299	fusaoctaxin A	Other	Inhibitor				plant cell defense response				30804501	10.1038/s41467-019-08726-9		
+Afif	NEW0000734	Thiostreptamide S4	Other	Cytotoxic										potent selective anticancer	
+Xiaoyu Tang	BGC0002058	reutericyclin A/B/C	Antibacterial				Gram-positive	cell membrane				11010877; 31906623	10.1128/aem.66.10.4325-4333.2000; 10.1021/acsinfecdis.9b00365		
+Xiaoyu Tang	BGC0002058	mutanocyclin	Inhibitor									31413323	10.1038/s41467-019-11673-0	anti-inflammatory activity	
+Nicole Avalon	NEW0000014	peramine													
+Nicole Avalon	NEW0000016	peramine													
+Nicole Avalon	NEW0000260	albomycin													
+Nicole Avalon	NEW0000778	azolemycin A													
+Nicole Avalon	NEW0000778	azolemycin B													
+Nicole Avalon	NEW0000778	azolemycin C													
+Nicole Avalon	NEW0000778	azolemycin D													
+Nicole Avalon	NEW0000379	mediomycin A													
+Nicole Avalon	NEW0000265	varicidin A 													
+Nicole Avalon	NEW0000417	bombyxamycin A													
+Nicole Avalon	NEW0000417	bombyxamycin B													
+Nicole Avalon	NEW0000604	coformycin													
+Nicole Avalon	NEW0000374	pyrazofurin													
+Nicole Avalon	NEW0000610	legonoxamine A													
+Nicole Avalon	NEW0000610	legonoxamine B													
+Nicole Avalon	NEW0000610	desferrioxamine B 													
+Nicole Avalon	NEW0000268	humidimycin													
+Nicole Avalon		Nanangelenin A													
+Nicole Avalon	NEW0000685	pseudodesmin	Antibacterial									https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7409209/			
+Nicole Avalon		Nocardiopsistin	Antibacterial											anti-MRSA	
+Athina Gavriilidou	NEW0000897	rimomycin-A/B/C	Antibacterial	Inhibitor			Gram-positive	PG					10.1021/acscentsci.1c01389	inhibitor of autolysins. has shown broader antibacterial activity agains efflux pump and outer-membrane-compromised bacteria	
+Athina Gavriilidou	NEW0000898	misaugamycin-A/B	Antibacterial	Inhibitor			Gram-positive	PG					10.1021/acscentsci.1c01389	inhibitor of autolysins	
+Dong Yang	NEW0001034	clipibicyclene	Antibacterial					ClpP, caseinolytic protease				35246663	10.1038/s41564-022-01073-4		
+Serina	NEW0000919	aquimarin A / aquimarin B / aquimarin C / aquimarin D / aquimarin / G / aquimarin H	Antibacterial				Gram-positive					34918870	10.1002/anie.202115802		
+Serina	NEW0000921	fluopsin C	Antibacterial				both					34793213	10.1126/science.abj6749		
+Serina	NEW0000922	hancockinone A	Antibacterial				Gram-positive					34747627	10.1021/acs.orglett.1c03283	weak activity, µM range	
+Athina Gavriilidou	NEW0001042	GP6738	Antibacterial	Inhibitor			Gram-positive	PG				33067466	10.1038/s41467-020-19138-5	inhibitor of autolysins	

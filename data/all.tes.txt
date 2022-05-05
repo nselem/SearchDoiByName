@@ -1,0 +1,714 @@
+															
+Name	Antibacterial	Antibacterial target type	Antifungal	Antitumor or Cytotoxic	Other Activity	Reference(s)
+abyssomicin	yes	gram pos				1
+aurafuron			yes	yes		2
+aureothin	yes	gram pos, gram neg	yes			3
+avilamycin	yes	gram pos				4
+bafilomycin	yes	gram pos	yes			5,6
+chlorothricin	yes	gram pos				7
+erythromycin	yes	gram pos, gram neg				8
+Kedarcidin	yes	gram pos		yes		10
+lactimidomycin
+			yes	yes		11
+neocarzinostatin	yes	gram pos		yes		12
+nystatin			yes			13
+pactamycin	yes	gram pos, gram neg	yes	yes		14
+salinomycin	yes	gram pos				15
+soraphen			yes			16
+spirangien			yes	yes		17
+stambomycin	yes	gram pos		yes		18
+stigmatellin			yes			19
+tautomycetin			yes	yes		20
+tautomycin			yes	yes		20
+tiacumicin	yes	gram pos				21
+9-methylstreptimidone			yes	yes		22
+bongkrekic acid			yes	yes		23
+cycloheximide	no		yes			24,25
+difficidin	yes	gram neg				26
+migrastatin			yes	yes		11
+elansolid	yes	gram pos		yes		27
+etnangien	yes	gram pos				27
+macrolactin	yes	gram pos	yes	yes		28
+sorangicin	yes	gram pos, gram neg				30
+asukamycin	yes	gram pos	yes	yes		31,32
+saxitoxin					neurotoxin	33
+anatoxin					neurotoxin	34
+actinorhodin	yes	gram pos				36
+alnumycin	yes	gram pos		yes		37
+aranciamycin	yes	gram pos		yes		39,40
+arenimycin	yes	gram pos		yes		41
+arimetamycin				yes		42
+arixanthomycin	yes	gram pos		yes		43
+Auricin	yes	gram pos				44
+benastatin	yes	gram pos				45
+chartreusin	yes	gram pos		yes		46
+chromomycin	yes	gram pos	yes	yes		47
+cinerubin	yes	gram pos		yes		48,49
+colabomycin	yes	gram pos				50
+elloramycin				yes		51
+enterocin	yes	gram pos				52
+arthrofactin					surfactant	53
+aeruginosin					Protease inhibitor	54
+fredericamycin	yes	gram pos	yes	yes		55
+granaticin	yes	gram pos				56
+grincamycin				yes		57
+griseorhodin				yes		58
+arylomycin	yes	gram pos, gram neg				59
+bromoalterochromide	yes			yes		60
+landomycin	yes			yes		61
+lomaiviticin	yes	gram pos		yes		62
+mithramycin	yes	gram pos		yes		63
+nogalamycin	yes	gram pos		yes		64
+oviedomycin				yes		65
+rabelomycin	yes	gram pos				66
+resistomycin	yes	gram pos, gram neg	yes	yes		67
+saquayamycin	yes	gram pos		yes		68
+SF2575	yes	gram pos		yes		69
+steffimycin	yes	gram pos		yes		70
+tetarimycin	yes	gram pos				71
+tetracenomycin	yes	gram pos		yes		72
+cetoniacytone				yes		73
+A40926	yes	gram pos, gram neg				74
+A-47934	yes	gram pos				75
+myxoprincomide					predation	76
+orfamide			yes		Insecticide, surfactant	77
+ristomycin	yes	gram pos				79
+serobactin					siderophore	80
+sessilin			yes			27
+shinorine					UV protection	81
+stenothricin	yes	gram pos, gram neg				82
+taromycin	yes	gram pos				83
+teicoplanin	yes	gram pos				84
+thanamycin			yes			85
+thiocoraline	yes	gram pos		yes		86
+tolaasin			yes			87
+valinomycin	yes	gram pos	yes	yes		88
+griseoviridin	yes	gram pos	yes			89
+WLIP	yes	gram pos	yes			27,90
+xantholysin	yes	gram pos,
+gram neg	yes			91
+Xenoamicin	no		no		Anti-plasmodium	92
+bottromycin	yes	gram pos				93
+prenylagaramide	no					94
+tenuecyclamide	yes					95
+trunkamide				yes		96
+aeruginosamide				yes		97
+circularin	yes					98
+cinnamycin	yes	gram pos				99
+phenalinolactone	yes	gram pos				100
+2-methylisoborneol					Taste/odor	101
+geosmin					Taste/odor	101
+lactimidomycin			yes	yes		11
+hassallidin			yes			102
+eponemycin				yes		103
+malleobactin					siderophore	104
+hormaomycin	yes	gram pos				105
+luminmycin				yes		106
+fimsbactin					siderophore	107
+cichofactin	yes		yes			108
+anabaenopeptin					Protease inhibitor	109
+leupyrrin			yes			110
+massetolide	yes		yes			111,112
+lyngbyatoxin				yes		113
+cereulide						114
+epoxomicin				yes		115
+grincamycin				yes		116
+cephamycin	yes	gram pos, gram neg				117
+CDA	yes	gram pos				118
+entianin	yes	gram pos				119
+epilancin	yes	gram pos				120
+ericin	yes	gram pos				121
+geobacillin	yes	gram pos				122
+haloduracin	yes	gram pos				123
+lacticin	yes	gram pos				124
+macedocin	yes	gram pos				125
+microbisporicin	yes	gram pos				126
+nisin	yes	gram pos				127
+planosporicin	yes	gram pos				83
+SapB					morphogenesis	128
+subtilin	yes	gram pos				129
+subtilomycin	yes	gram pos, gram neg	yes			130
+clostridiolysin					toxin	131
+streptolysin				yes		132
+plantazolicin	yes	gram pos				133
+cypemycin	yes	gram pos		yes		134
+grisemycin	no					135
+microviridin					Protease inhibitor	136
+polytheonamide				yes		137
+sporulation killing factor	yes	gram pos				138
+cyclothiazomycin			yes			139
+GE2270	yes	gram pos				140
+thiocillin	yes	gram pos				141
+thiomuracin	yes	gram pos				142
+TP-1161	yes	gram pos				143
+amylocyclicin	yes	gram pos				144
+lactocillin	yes	gram pos				145
+welwitindolinone	yes		yes	yes		95
+cyclooctatin					Inhibitor of lysophospholipase	146
+validamycin	yes		yes			147
+moenomycin	yes	gram pos				148
+cepacin					Biofilm formation	149
+methylarcyriarubin				yes		150
+physostigmine					toxin	151
+rebeccamycin	yes	gram pos	yes	yes		152
+violacein	yes	gram pos		yes		153,154
+clorobiocin	yes	gram pos				155
+coumermycin	yes	gram pos, gram neg				156
+APE Ec					Antioxidant	157
+APE Vf					antioxidant	157
+alanylclavam	yes		yes			158
+clavam	yes		yes			158
+Clavulanic acid	yes	gram pos, gram neg			Beta-lactamase inhibitor	158
+thienamycin	yes	gram pos, gram neg				27
+Gamma-butyrolactone					signaling	159
+tunicamycin	yes	gram pos	yes			161
+bromophenols				yes		163
+caryoynencin	yes		yes			27
+chloramphenicol	yes	gram pos, gram neg				164
+desosamine	yes					165
+mitomycin				yes		166
+promysalin	yes	gram pos, gram neg				167
+endophenazine	yes	gram pos, gram neg	yes			168
+fosfomycin	yes	gram pos,
+gram neg				169
+desferrioxamine					siderophore	170
+petrobactin					siderophore	171
+staphyloferrin					siderophore	172
+α-galactosylceramide					CD1d agonist	173
+napsamycin	yes	gram pos				174
+amicetin	yes	gram pos, gram neg				176
+ajudazol			yes			177
+althiomycin	yes	gram pos, gram neg				178
+andrimid	yes	gram pos, gram neg				179
+antimycin			yes	yes		180
+barbamide				yes		181
+bleomycin				yes		166
+burkholdac				yes		182
+C-1027	yes	gram pos		yes		183
+calyculin				yes		184
+chondramide				yes		185
+chondrochloren	yes	yes				27
+cinnabaramide				yes		186
+collismycin	yes	yes				188
+cryptophycin			yes	yes		189
+curacin				yes		181
+cylindrospermopsin				yes		190
+didemnin				yes		191
+frontalamide			yes			193
+hectochlorin			yes	yes		194
+jamaicamide					toxin	195
+lipomycin	yes	gram pos				196
+lobophorin	yes	gram pos		yes		7
+lymphostin					immunosuppressant	197
+maduropeptin	yes	gram pos				198
+melithiazol			yes	yes		199
+micacocidin	yes					200
+microcystin				yes		201
+microsclerodermin			yes			202
+myxochromide	no		no			203
+myxothiazol			yes	yes		204
+myxovirescin	yes	gram pos, gram neg				205
+nostopeptolide					differentiation	206
+nostophycin				yes		207
+pellasoren				yes		208
+pyralomicin	yes	gram pos				209
+salinosporamide				yes		210
+spiruchostatin			yes	yes		211
+streptolydigin	yes	gram pos				212
+tallysomycin				yes		213
+thuggacin	yes	gram pos				214
+tirandamycin	yes	gram pos				215
+xenocoumacin	yes	gram pos, gram neg				216
+zeamine	yes	gram pos, gram neg				217
+zorbamycin				yes		218
+polyketomycin	yes	gram pos		yes		219
+cylindrocyclophane				yes		220
+kendomycin	yes	gram pos, gram neg		yes		221
+chivosazol			yes	yes		222
+kirromycin	yes	gram pos, gram neg				223
+simocyclinone	yes	gram pos		yes		224
+liposidomycin	yes	gram pos				83
+napyradiomycin	yes	gram pos				83
+merochlorin	yes	gram pos				225
+bacillaene	yes	gram neg				226
+bacillomycin			yes			227
+fengycin			yes			229
+kalimantacin	yes	gram pos				230
+leinamycin	yes	gram pos, gram neg		yes		231
+malleilactone	yes	gram pos		yes		232
+onnamide				yes		233
+pederin				yes		234
+psymberin				yes		235
+rhizopodin				yes		236
+rhizoxin				yes		237
+thailanstatin				yes		238
+divergolide	yes			yes		239,240
+burkholderic acid				yes		241
+ambiguine	yes	gram pos	yes	yes		242
+taxlllaid					Anti-plasmodium	
+marinacarboline				yes		243
+A201A	yes	gram pos, gram neg				83
+platensimycin	yes	gram pos				244
+Cyclothiazomycin B	yes	gram pos	yes			245
+Cyclothiazomycin C	yes	gram pos				245
+brabantamide			yes			
+pamamycin	yes	gram pos	yes	yes		247,248
+fusaricidin			yes			
+polymyxin	yes	gram neg				249
+cacibiocin	no					250
+platencin	yes	gram pos				244
+marinopyrrole	yes	gram pos				251
+nonadecene					cold stress	252
+heptadecene					cold stress	252
+livipeptin					Protease inhibitor	253
+Piericidin a1			yes	yes		254
+Clostridiolysin s				yes		131
+Listeriolysin s				yes		255
+Chlorizidine a				yes		256
+streptomonomicin	yes	gram pos				257
+mensacaricin				yes		258
+UK-68,597	yes	gram pos				259
+Rishirilide b					alpha2-macroglobulin inhibitor	260
+bacilysin	yes	gram pos, gram neg	yes			262
+bacillibactin					siderophore	263
+nannocystin			yes	yes		265
+marinophenazine				yes		266
+retimycin				yes		268
+salinamide	yes	gram pos, gram neg				83
+pseudopyronine	yes	gram pos	yes	yes		269
+flavecins	yes	gram pos				270
+rakicidin				yes		271
+BE-43547 A1-C2				yes		272
+BE-54017				yes		273
+cladoniamide				yes		274
+borregomycin				yes		273
+erdasporine				yes		275
+lazarimide				yes		276
+JBIR-100	yes	gram pos	yes			6
+argimycin	yes					277
+ikarugamycin	yes	gram pos	yes			83
+obafluorin	yes					278
+warkmycin	yes	gram pos		yes		279
+cervimycin	yes	gram pos				280
+cystargolide				yes		281
+belactosin				yes		282
+actinonin	yes	gram pos, gram neg				283
+matlystatin					Collagenase inhibitor	284
+aculeximycin	yes	gram pos, gram neg	yes			285
+ambruticin			yes			286
+amphotericin			yes			287
+Subtilosin a	yes	gram pos, gram neg				288
+angolamycin	yes					289
+ansamitocin				yes		290
+Megacin	yes	Gram pos				292
+apoptolidin				yes		293
+avermectin				yes		294
+calicheamicin	yes	Gram pos, gram neg	yes	yes		296
+candicidin			yes			297
+chalcomycin	yes	Gram pos				298
+Concanamycin a				yes		299
+cremimycin	yes	Gram pos				300
+E-837			yes			301
+ECO-02301			yes			301
+ebelactone			yes			302
+elaiophylin				yes		303
+FD-891				yes		304
+filipin			yes			305
+fostriecin				yes		306
+geldanamycin			yes	yes		307
+Gephyronic acid			yes	yes		308
+herbimycin				yes	herbicide	309
+hygrocin	yes		yes			310
+incednine				yes		311
+jerangolid			yes			313
+kijanimicin	yes	Gram pos				314
+laidlomycin	yes	Gram pos		yes		315
+lankamycin	yes	Gram pos		yes		316,317
+lasalocid	yes	Gram pos				318
+marineosin				yes		319
+megalomicin	yes	Gram pos, gram neg				320
+midecamycin	yes	Gram pos, gram neg				321
+monensin	yes	Gram pos			Ionophore, antiparasite	322
+mycinamicin	yes	Gram pos				323
+mycolactone				yes	immunosuppressive	324
+nanchangmycin	yes					325
+natamycin			yes			326
+neocarzilin				yes		328
+niddamycin	yes	Gram pos				329
+nystatin-like Pseudonocardia polyene			yes			330
+oligomycin			yes	yes		331
+Phoslactomycin b			yes	yes		332
+pimaricin			yes			333
+pladienolide					yes	334
+pyoluteorin			yes			335
+pyrrolomycin	yes	Gram pos				336
+quartromicin					Antiviral	337
+reveromycin			yes			338
+rifamycin	yes	Gram pos, gram neg				339,340
+rimocidin			yes			341
+rubradirin	yes	Gram pos				344
+Salinosporamide a				yes		345
+tautomycetin				yes		347
+Tetrocarcin a	yes	Gram pos		yes		348
+tetronasin	yes	Gram pos	yes			349
+tetronomycin	yes	Gram pos	yes			350
+vicenistatin				yes		348
+basiliskamide			yes			351
+tartrolon	yes	Gram pos		yes		352
+A-74528					antiviral	353
+aclacinomycin				yes		354
+azicemicin	yes	Gram pos, gram neg				355
+bryostatin				yes		356
+chelocardin	yes	Gram pos, gram neg				357
+chlortetracycline	yes	Gram pos, gram neg				358
+chrysomycin	yes	Gram pos		yes		359
+cosmomycin				yes		360
+curamycin	yes	Gram pos				361
+dactylocycline	yes	Gram pos				362
+daunorubicin				yes		363
+doxorubicin				yes		363
+erdacin					antioxidant	364
+FD-594	yes	Gram pos		yes		365
+frenolicin	yes	Gram pos	yes			366
+griseusin				yes		368
+hatomarubigin				yes		369
+hedamycin	yes			yes		370
+jadomycin	yes	Gram pos				371
+kiamycin				yes		372
+lactomycin	yes	Gram pos				373
+lysolipin	yes	Gram pos, gram neg				374
+macrotetrolide	yes	Gram pos				322
+medermycin	yes	Gram pos, gram neg		yes		375
+nonactin	yes	Gram pos	yes	yes		377
+oxytetracycline	yes	Gram pos, gram neg				164
+pradimicin			yes			378
+prodigiosin	yes	Gram pos	yes	yes		379
+ravidomycin			yes	yes		380
+rhodomycin	yes	Gram pos		yes		381
+Spore pigment					Pigment	382
+urdamycin	yes	Gram pos		yes		383
+xantholipin	yes	Gram pos	yes	yes		384
+2,4-diacetylphloroglucinol	yes	Gram pos	yes			385
+Phenolic lipids					Cyst formation	386
+L-2-amino-4-methoxy-trans-3-butenoic acid	yes			yes		387
+A-503083	yes					388
+A54145	yes	Gram pos				389
+acinetobactin					siderophore	390
+acinetoferrin					siderophore	391
+actinomycin	yes	Gram pos, gram neg	yes	yes		392-394
+amychelin					siderophore	395
+anthramycin	yes		yes	yes		396,397
+aureusimine					Virulence factor	398
+bacitracin	yes	Gram pos				399
+balhimycin	yes	Gram pos				400
+capreomycin	yes	Gram pos, gram neg				401
+coelibactin					ionophore	403
+coelichelin					siderophore	404
+complestatin	Yes	Gram pos				405
+coronatine					phytotoxic	407
+corpeptin	yes	Gram pos				408
+daptomycin	yes	Gram pos				409
+echinomycin	yes	Gram pos	yes	yes		410
+echoside				yes		411
+enduracidin	yes	Gram pos, gram neg				412
+enterobactin					siderophore	413
+entolysin					Swarming motility	414
+equibactin					siderophore	415
+erythrochelin	yes	Gram pos			siderophore	416
+exochelin					Siderophore	417
+friulimicin	yes	Gram pos				419
+fuscachelin					Siderophore	420
+GE81112	yes	Gram pos, gram neg				421
+glycopeptidolipid					membrane	422
+gobichelin					siderophore	423
+gramicidin	yes	Gram pos, gram neg				424
+heterobactin					siderophore	426
+holomycin	yes	Gram pos, gram neg	yes	yes		427,428
+indigoidine	yes	Gram neg				429
+JBIR-34					Radical scavanging	430
+kutzneride			yes			431
+lichenysin	yes	Gram pos, gram neg		yes		433,434
+lipstatin					Inhibitor of human pancreatic lipase	435
+lysobactin	yes	Gram pos				436
+mangotoxin					phytotoxic	437
+mannopeptimycin	yes	Gram pos				438
+mirubactin					siderophore	439
+naphthyridinomycin	yes	Gram pos, gram neg		yes		440
+nocardicin	yes	Gram neg				441
+nodularin					phytotoxin	442
+nostocyclopeptide				yes		443
+paenibacterin	yes	Gram pos, gram neg				444
+paenibactin					siderophore	445
+pelgipeptin	yes	Gram pos, gram neg	yes			446,447
+plipastatin			yes			448
+porothramycin	yes	Gram pos, gram neg		yes		449
+pseudomonine					siderophore	450
+putisolvin	yes		yes			27,451
+pyochelin	yes	Gram pos, gram neg				452
+pyoverdin					siderophore	453
+quinocarcin				yes		454
+quinomycin	yes	Gram pos		yes		455
+rhodochelin					siderophore	456
+ristocetin	yes	Gram pos, gram neg				457
+safracin				yes		458
+Saframycin a				yes		459
+scabichelin					siderophore	460
+sibiromycin	yes			yes		397
+streptothricin	yes	Gram pos, gram neg				461
+SW-163	yes	Gram pos		yes		462
+syringafactin					surfactant	463
+Syringolin a				yes		464
+syringomycin					phytotoxic	465
+syringopeptin					virulence	466
+thaxtomin					phytotoxic	467
+tilivalline					enterotoxin	468
+tomaymycin				yes		469
+tridecaptin	yes	Gram neg				470
+triostin a				yes		471
+turnerbactin					siderophore	472
+tyrocidine	yes	Gram pos				473
+vanchrobactin					siderophore	474
+vancomycin	yes	Gram pos				475
+vicibactin					siderophore	476
+viomycin	yes					477
+vulnibactin					siderophore	478
+WAP-8294A2	yes	Gram pos				479
+yatakemycin			yes	yes		480,481
+yersiniabactin					siderophore	482
+Patellamide a				yes		483
+trichamide	no		no			484
+Glycocin f	yes	Gram pos				485
+Acidocin b	yes	Gram pos				486
+carnocyclin	yes	Gram pos				487
+garvicin	yes	Gram pos				488
+Gassericin a	yes	Gram pos				489
+uberolysin	yes					490
+actagardine	yes	Gram pos				491
+amfs					morphogen	492
+bovicin hj50	yes	Gram pos			signaling	493,494
+carnolysin	yes	Gram pos				496
+cerecidin	yes	Gram pos				497
+cytolysin	yes	Gram pos		yes		498
+epicidin	yes					499
+gallidermin	yes	Gram pos				500
+lichenicidin	yes	Gram pos				501
+mersacidin	yes	Gram pos				502
+Michiganin a	yes	Gram pos				503
+mutacin	yes					504
+nukacin	yes	Gram pos				505
+paenibacillin	yes	Gram pos				506
+paenicidin	yes	Gram pos				507
+pep5	yes	Gram pos				508
+Ruminococcin a	yes	Gram pos				509
+salivaricin	yes	Gram pos				510
+Smb	yes					511
+streptin	yes	Gram pos				512
+Sublancin 168	yes	Gram pos				513
+Thermophilin 1277	yes	Gram pos				514
+goadsporin	yes	Gram pos				515
+microcin	yes	Gram neg				516
+astexin	yes	Gram neg				517
+capistruin	yes	Gram neg				518
+lariatin	yes					519
+colicin v	yes	Gram neg				520
+marinostatin					Protease inhibitor	521
+microviridin k					Peptidase inhibitor	522
+thuricin	yes	Gram pos				523
+GE37468	yes	Gram pos				524
+lactazole	no					525
+Micrococcin p1	yes	Gram pos				526
+nocathiacin	yes	Gram pos				527
+nosiheptide	yes	Gram pos				527
+siomycin	yes	Gram pos, gram neg		yes		528
+thiostrepton	yes	Gram pos, gram neg				528
+coagulin	yes	Gram pos				529
+Plantaricin w	yes	Gram pos				530
+thuricin	yes	Gram pos				523
+astaxanthin					antioxidant	531
+Brasilicardin a			yes	yes		532
+pentalenolactone	yes	Gram pos, gram neg	yes			533
+zeaxanthin					antioxidant	534
+isorenieratene					antioxidant	535
+diazepinomicin	yes	Gram pos				536
+acarbose					Glucosidase inhibitor	537
+apramycin	yes	Gram pos, gram neg				538
+butirosin	yes	Gram pos, gram neg				539
+fortimicin	yes	Gram pos, gram neg				540
+gentamicin	yes	Gram pos, gram neg				541
+Hygromycin a	yes	Gram pos, gram neg				542
+istamycin	yes	Gram pos, gram neg				544
+jinggangmycin			yes			545
+kanamycin	yes	Gram pos, gram neg				546
+Kasugamycin	yes	Gram pos, gram neg	yes			547,548
+lividomycin	yes	Gram pos, gram neg				549
+neomycin	yes	Gram pos, gram neg				550
+Paromomycin	yes	Gram pos, gram neg	yes			551,552
+ribostamycin	yes	Gram pos, gram neg				553
+sisomicin	yes	Gram pos, gram neg				554
+spectinomycin	yes	Gram pos, gram neg				555
+streptomycin	yes	Gram pos, gram neg				556
+tobramycin	yes	Gram pos, gram neg				557
+alginate					antioxidant	558
+Capsular polysaccharide					Extracelluar capsule	559
+Diutan polysaccharide					Exopolysaccharide, biofilm formation	560
+emulsan					bioemulsifier	561
+exopolysaccharide					Protective layer	562
+stewartan					Biofilm, virulence factor	563
+gellan					biofilm	564
+lipooligosaccharide					Membrane, adhesion	565
+lipopolysaccharide					membrane	566
+s-layer glycan					Cellular envelope	567
+Sphingan					Extracelluar capsule	568
+Colanic acid					extracellular	569
+xanthan					emulsifier	570
+galactoglucan					exopolysaccharide	571
+succinoglycan					emulsifier	572
+phosphonoglycans					exopolysaccharide	573
+AT2433				yes		574
+k-252a						575
+staurosporine			yes			576
+xanthomonadin					pigment	577
+tabtoxin					phytotoxin	578
+albonoursin	yes	Gram pos				579
+ectoine					osmolyte	580
+eicosapentaenoic acid					membrane	581
+polyhydroxyalkanoate					carbon storage	582
+Teichuronic acid					Cell wall	583
+Heterocyst glycolipids					Protection against O2 penetration	584
+Mycolic acid					Cell envelope	585
+blasticidin	yes	Gram pos, gram neg	yes			4,586
+polyoxin			yes			588
+puromycin	yes	Gram pos, gram neg				589
+toyocamycin			yes	yes		590
+mildiomycin			yes			591
+arginomycin	yes	Gram pos	yes			592
+3-methylarginine	yes					593
+bagremycin	yes	Gram pos, gram neg	yes			594
+citrulline					Arginine metabolism	595
+cycloserine	yes	Gram pos, gram neg				596
+dehydrophos	yes	Gram pos, gram neg				597
+FR-900098	yes	Gram pos, gram neg			antimalarial	598
+Heme d1					denitrification	599
+lincomycin	yes	Gram pos				600
+methylenomycin	yes	Gram pos, gram neg				602
+Molybdenum cofactor					Nitrogen reduction	603
+phaseolotoxin					phytotoxin	604
+PQS					Signaling	605
+pyrrolnitrin	yes	Gram pos	yes			606
+quinolobactin					siderophore	607
+rhizocticin			yes			608
+T3 toxin					neurotoxin	33
+toxoflavin	yes	Gram pos, gram neg				610
+tropodithietic acid	yes	Gram pos, gram neg		yes	signaling	611,612
+pyocyanine	yes	Gram pos, gram neg	yes			613,614
+fosfazinomycin			yes			615
+aerobactin					siderophore	616
+Desferrioxamin b					siderophore	617
+staphylobactin					siderophore	618
+vibrioferrin					siderophore	620
+A-500359	yes					621
+pacidamycin	yes	Gram neg				622
+Azinomycin b	yes			yes		624
+bactobolin	yes	Gram pos, gram neg	yes	yes		625
+Caerulomycin a	yes	Gram pos	yes			626
+crocacin			yes	yes		627
+Cystothiazole a			yes	yes		628
+dkxanthene			yes			629
+epothilone				yes		630
+FR901464				yes		632
+guadinomine					Anti-infective	633
+jawsamycin			yes			635
+locillomycin			yes			636,637
+muraymycin	yes	Gram pos				638
+mycobactin					siderophore	639
+myxalamid	yes	Gram pos	yes			640
+Nocobactin na					siderophore	641
+Oocydin a			yes			642
+paenilamicin	yes	Gram pos	yes	yes		643
+polyoxypeptin				yes		644
+pyridomycin	yes					645
+rapamycin			yes			646
+tubulysin				yes		647
+zwittermicin a	yes	Gram pos, gram neg	yes			648
+dynemicin	yes	Gram pos		yes		649
+tln-05220	yes	Gram pos		yes		650
+undecylprodigiosin	yes	Gram pos	yes			651
+herboxidiene	yes	Gram pos		yes		652
+kosinostatin	yes	Gram pos, gram neg	yes	yes		653
+Cosmomycin d	yes	Gram pos		yes		654,655
+Aurachin re	yes	Gram pos				656
+albicidin	yes	Gram pos, gram neg	yes			658
+corallopyronin	yes	Gram pos				659
+enacyloxin	yes	Gram pos, gram neg				661
+iturin			yes			662
+lankacidin	yes	Gram pos		yes		663
+mycosubtilin			yes			664
+spliceostatin				yes		666
+thiomarinol	yes	Gram pos, gram neg				667
+virginiamycin	yes	Gram pos				668
+himastatin	yes	Gram pos		yes		669
+puwainaphycin				yes		670
+jagaricin			yes			671
+pheganomycin	yes					672
+taiwachelin					siderophore	673
+A-102395					Translocase inhibitor	174
+colistin	yes	Gram neg				674
+thiolutin	yes	Gram pos, gram neg	yes			427
+hitachimycin	yes	Gram pos	yes	yes		675
+desotamide	yes	Gram pos				676
+frankiamicin	yes	Gram pos				677
+akaeolide	yes			yes		678
+indolmycin	yes	Gram pos, gram neg				679
+teixobactin	yes	Gram pos				680
+pseudomycoicidin	yes	Gram pos				681
+albachelin					siderophore	682
+nataxazole				yes		683
+marformycin	yes					684
+PreQ0 base				yes		685
+hydroxysporine			yes	yes		686
+reductasporine			yes			686
+celesticetin	yes	Gram pos				687
+feglymycin	yes	Gram pos				689
+thiolactomycin	yes	Gram pos, gram neg				690
+chaxamycin	yes	Gram pos, gram neg		yes		691
+maklamicin	yes	Gram pos				692
+penisin	yes	Gram pos, gram neg				693
+A33853					antiparasitic	694
+cyclizidine				yes		695
+7-prenylisatin	yes	Gram pos				696
+cremeomycin	yes	Gram pos, gram neg	yes	yes		697
+chlorotonil	yes		yes			698
+anthracimycin	yes	Gram pos				699
+lomofungin	yes	Gram pos, gram neg	yes	yes		700
+lobosamide					antiparasitic	701
+viscosin					surfactant	702
+aurachin	yes	Gram pos	yes			665
+myxochelin					siderophore	703
+carbamidocyclophane	yes	Gram pos		yes		707
+ralsolamycin					Invasion of fungus	709
+Zunyimycin a	yes	Gram pos				710
+haliamide				yes		711
+thienodolin					Plant growth regulation	712
+uncialamycin	yes	Gram pos, gram neg				713
+tiancimycin				yes		714
+BD-12	yes	Gram pos, gram neg	yes			665
+brasilinolide			yes			715
+Saprolmycin e					antiparasitic	716
+JBIR-76				yes		717
+nucleocidin	Yes	Gram pos, gram neg				718
+cichopeptin					phytotoxic	719
+pinensins	yes		yes			720
+lugdunin	yes	Gram pos				721
+phenalamide	yes	Gram pos	yes			665
+teichomycin	yes	Gram pos, gram neg				722
+aldgamycin
+	yes	Gram pos				723
+lidamycin	yes	Gram pos		yes		724,725
+telomycin	yes	Gram pos				726
+bicereucin	yes	Gram pos				727
+xanthoferrin					siderophore	728
+dutomycin	yes	Gram pos		yes		729,730
+cystobactamide	yes	Gram pos, gram neg				731
+griselimycin	yes	Gram pos				732
+nunapeptin			yes			733
+streptococcin	yes	Gram pos				734
